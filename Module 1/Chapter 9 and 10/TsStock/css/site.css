@@ -1,0 +1,12 @@
+body {
+  padding-top: 3%;
+  background-color: #eeeeee;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+}
+
+#chart_container{
+  min-height: 400px;
+}

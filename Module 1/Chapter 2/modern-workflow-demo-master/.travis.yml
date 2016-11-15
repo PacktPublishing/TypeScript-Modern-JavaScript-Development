@@ -1,0 +1,11 @@
+before_install:
+  - gem update --system
+  - gem --version
+  - gem install bundler
+  - bundle install
+before_script:
+  - npm install -g bower
+  - npm install -g tsd
+language: node_js
+node_js:
+  - "0.10"

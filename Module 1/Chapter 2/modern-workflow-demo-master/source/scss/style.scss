@@ -1,0 +1,15 @@
+$link-primary-color: #fbc02d;
+
+a {
+  color: $link-primary-color;
+}
+
+.outline {
+  min-height: 600px;
+}
+
+.loading-wrapper {
+  margin: auto;
+  padding-top: 200px;
+  width: 70px;
+}

@@ -1,0 +1,5002 @@
+[
+  {
+    "Symbol":"DDD",
+    "Name":"3D Systems Corporation",
+    "LastSale":"21.32",
+    "MarketCap":"$2.38B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ddd"
+  },
+  {
+    "Symbol":"MMM",
+    "Name":"3M Company",
+    "LastSale":"158.04",
+    "MarketCap":"$100.25B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "Summary Quote":"http://www.nasdaq.com/symbol/mmm"
+  },
+  {
+    "Symbol":"WBAI",
+    "Name":"500.com Limited",
+    "LastSale":"30",
+    "MarketCap":"$1.05B",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Services-Misc. Amusement & Recreation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/wbai"
+  },
+  {
+    "Symbol":"WUBA",
+    "Name":"58.com Inc.",
+    "LastSale":"77.42",
+    "MarketCap":"$7.03B",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/wuba"
+  },
+  {
+    "Symbol":"AHC",
+    "Name":"A.H. Belo Corporation",
+    "LastSale":"5.62",
+    "MarketCap":"$122.23M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Newspapers/Magazines",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ahc"
+  },
+  {
+    "Symbol":"ATEN",
+    "Name":"A10 Networks, Inc.",
+    "LastSale":"6.72",
+    "MarketCap":"$414.07M",
+    "IPOyear":"2014",
+    "Sector":"Technology",
+    "industry":"Computer Communications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aten"
+  },
+  {
+    "Symbol":"AAC",
+    "Name":"AAC Holdings, Inc.",
+    "LastSale":"43.17",
+    "MarketCap":"$942.81M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aac"
+  },
+  {
+    "Symbol":"AIR",
+    "Name":"AAR Corp.",
+    "LastSale":"30.23",
+    "MarketCap":"$1.2B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Aerospace",
+    "Summary Quote":"http://www.nasdaq.com/symbol/air"
+  },
+  {
+    "Symbol":"AAN",
+    "Name":"Aaron&#39;s,  Inc.",
+    "LastSale":"34.47",
+    "MarketCap":"$2.5B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Diversified Commercial Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aan"
+  },
+  {
+    "Symbol":"ABB",
+    "Name":"ABB Ltd",
+    "LastSale":"22.77",
+    "MarketCap":"$50.95B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Electrical Products",
+    "Summary Quote":"http://www.nasdaq.com/symbol/abb"
+  },
+  {
+    "Symbol":"ABT",
+    "Name":"Abbott Laboratories",
+    "LastSale":"48.67",
+    "MarketCap":"$72.46B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/abt"
+  },
+  {
+    "Symbol":"ABBV",
+    "Name":"AbbVie Inc.",
+    "LastSale":"67.05",
+    "MarketCap":"$106.82B",
+    "IPOyear":"2012",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/abbv"
+  },
+  {
+    "Symbol":"ANF",
+    "Name":"Abercrombie & Fitch Company",
+    "LastSale":"22.55",
+    "MarketCap":"$1.57B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Clothing/Shoe/Accessory Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/anf"
+  },
+  {
+    "Symbol":"GCH",
+    "Name":"Aberdeen Greater China Fund, Inc.",
+    "LastSale":"10.57",
+    "MarketCap":"$97.12M",
+    "IPOyear":"1992",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gch"
+  },
+  {
+    "Symbol":"JEQ",
+    "Name":"Aberdeen Japan Equity Fund, Inc. ",
+    "LastSale":"8.1",
+    "MarketCap":"$110.67M",
+    "IPOyear":"1992",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/jeq"
+  },
+  {
+    "Symbol":"SGF",
+    "Name":"Aberdeen Singapore Fund, Inc.",
+    "LastSale":"11.36",
+    "MarketCap":"$87.46M",
+    "IPOyear":"1990",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sgf"
+  },
+  {
+    "Symbol":"ABM",
+    "Name":"ABM Industries Incorporated",
+    "LastSale":"33.03",
+    "MarketCap":"$1.86B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Diversified Commercial Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/abm"
+  },
+  {
+    "Symbol":"AKR",
+    "Name":"Acadia Realty Trust",
+    "LastSale":"30.57",
+    "MarketCap":"$2.1B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/akr"
+  },
+  {
+    "Symbol":"ACN",
+    "Name":"Accenture plc.",
+    "LastSale":"96.1",
+    "MarketCap":"$62.76B",
+    "IPOyear":"2001",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/acn"
+  },
+  {
+    "Symbol":"ACCO",
+    "Name":"Acco Brands Corporation",
+    "LastSale":"7.48",
+    "MarketCap":"$822.15M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Publishing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/acco"
+  },
+  {
+    "Symbol":"ACW",
+    "Name":"Accuride Corporation New",
+    "LastSale":"4.22",
+    "MarketCap":"$202.26M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Auto Parts:O.E.M.",
+    "Summary Quote":"http://www.nasdaq.com/symbol/acw"
+  },
+  {
+    "Symbol":"ACE",
+    "Name":"Ace Limited",
+    "LastSale":"105.48",
+    "MarketCap":"$34.45B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ace"
+  },
+  {
+    "Symbol":"ATV",
+    "Name":"Acorn International, Inc.",
+    "LastSale":"1.548",
+    "MarketCap":"$42.85M",
+    "IPOyear":"2007",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/atv"
+  },
+  {
+    "Symbol":"ACT",
+    "Name":"Actavis, Inc.",
+    "LastSale":"298.98",
+    "MarketCap":"$117.33B",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/act"
+  },
+  {
+    "Symbol":"ACT^A",
+    "Name":"Actavis, Inc.",
+    "LastSale":"1035.6",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/act^a"
+  },
+  {
+    "Symbol":"ATU",
+    "Name":"Actuant Corporation",
+    "LastSale":"24.42",
+    "MarketCap":"$1.45B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/atu"
+  },
+  {
+    "Symbol":"AYI",
+    "Name":"Acuity Brands Inc",
+    "LastSale":"181.57",
+    "MarketCap":"$7.89B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Building Products",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ayi"
+  },
+  {
+    "Symbol":"ADX",
+    "Name":"Adams Diversified Equity Fund, Inc.",
+    "LastSale":"14.06",
+    "MarketCap":"$1.31B",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/adx"
+  },
+  {
+    "Symbol":"PEO",
+    "Name":"Adams Natural Resources Fund, Inc.",
+    "LastSale":"23.24",
+    "MarketCap":"$596.21M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/peo"
+  },
+  {
+    "Symbol":"AGRO",
+    "Name":"Adecoagro S.A.",
+    "LastSale":"9.79",
+    "MarketCap":"$1.18B",
+    "IPOyear":"2011",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Farming/Seeds/Milling",
+    "Summary Quote":"http://www.nasdaq.com/symbol/agro"
+  },
+  {
+    "Symbol":"ADPT",
+    "Name":"Adeptus Health Inc.",
+    "LastSale":"84.93",
+    "MarketCap":"$1.76B",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Hospital/Nursing Management",
+    "Summary Quote":"http://www.nasdaq.com/symbol/adpt"
+  },
+  {
+    "Symbol":"ADT",
+    "Name":"ADT Corporation",
+    "LastSale":"36.68",
+    "MarketCap":"$6.28B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Diversified Commercial Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/adt"
+  },
+  {
+    "Symbol":"AAP",
+    "Name":"Advance Auto Parts Inc",
+    "LastSale":"161.21",
+    "MarketCap":"$11.8B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aap"
+  },
+  {
+    "Symbol":"WMS",
+    "Name":"Advanced Drainage Systems, Inc.",
+    "LastSale":"31.2",
+    "MarketCap":"$1.66B",
+    "IPOyear":"2014",
+    "Sector":"Capital Goods",
+    "industry":"Containers/Packaging",
+    "Summary Quote":"http://www.nasdaq.com/symbol/wms"
+  },
+  {
+    "Symbol":"ASX",
+    "Name":"Advanced Semiconductor Engineering, Inc.",
+    "LastSale":"6.46",
+    "MarketCap":"$10.19B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/asx"
+  },
+  {
+    "Symbol":"AAV",
+    "Name":"Advantage Oil & Gas Ltd",
+    "LastSale":"6.31",
+    "MarketCap":"$1.08B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aav"
+  },
+  {
+    "Symbol":"ATE",
+    "Name":"Advantest Corporation (Kabushiki Kaisha Advantest) ADS",
+    "LastSale":"10.87",
+    "MarketCap":"$1.89B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ate"
+  },
+  {
+    "Symbol":"AVK",
+    "Name":"Advent Claymore Convertible Securities and Income Fund",
+    "LastSale":"16.83",
+    "MarketCap":"$396.87M",
+    "IPOyear":"2003",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/avk"
+  },
+  {
+    "Symbol":"AGC",
+    "Name":"Advent Claymore Convertible Securities and Income Fund II",
+    "LastSale":"6.65",
+    "MarketCap":"$214.4M",
+    "IPOyear":"2007",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/agc"
+  },
+  {
+    "Symbol":"LCM",
+    "Name":"Advent/Claymore Enhanced Growth & Income Fund",
+    "LastSale":"9.36",
+    "MarketCap":"$127.32M",
+    "IPOyear":"2005",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/lcm"
+  },
+  {
+    "Symbol":"ACM",
+    "Name":"AECOM",
+    "LastSale":"33.69",
+    "MarketCap":"$5.07B",
+    "IPOyear":"2007",
+    "Sector":"Consumer Services",
+    "industry":"Military/Government/Technical",
+    "Summary Quote":"http://www.nasdaq.com/symbol/acm"
+  },
+  {
+    "Symbol":"ANW",
+    "Name":"Aegean Marine Petroleum Network Inc.",
+    "LastSale":"13.96",
+    "MarketCap":"$686.89M",
+    "IPOyear":"2006",
+    "Sector":"Energy",
+    "industry":"Oil Refining/Marketing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/anw"
+  },
+  {
+    "Symbol":"AEB",
+    "Name":"Aegon NV",
+    "LastSale":"24.31",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aeb"
+  },
+  {
+    "Symbol":"AED",
+    "Name":"Aegon NV",
+    "LastSale":"25.4",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aed"
+  },
+  {
+    "Symbol":"AEG",
+    "Name":"Aegon NV",
+    "LastSale":"7.39",
+    "MarketCap":"$19.78B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aeg"
+  },
+  {
+    "Symbol":"AEH",
+    "Name":"Aegon NV",
+    "LastSale":"25.22",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aeh"
+  },
+  {
+    "Symbol":"AEK",
+    "Name":"Aegon NV",
+    "LastSale":"27.83",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aek"
+  },
+  {
+    "Symbol":"AER",
+    "Name":"Aercap Holdings N.V.",
+    "LastSale":"47.3",
+    "MarketCap":"$10.05B",
+    "IPOyear":"2006",
+    "Sector":"Technology",
+    "industry":"Diversified Commercial Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aer"
+  },
+  {
+    "Symbol":"HIVE",
+    "Name":"Aerohive Networks, Inc.",
+    "LastSale":"7.51",
+    "MarketCap":"$350.39M",
+    "IPOyear":"2014",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/hive"
+  },
+  {
+    "Symbol":"AJRD",
+    "Name":"Aerojet Rocketdyne Holdings, Inc. ",
+    "LastSale":"20.22",
+    "MarketCap":"$1.27B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Specialty Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ajrd"
+  },
+  {
+    "Symbol":"ARO",
+    "Name":"Aeropostale Inc",
+    "LastSale":"1.83",
+    "MarketCap":"$145.51M",
+    "IPOyear":"2002",
+    "Sector":"Consumer Services",
+    "industry":"Clothing/Shoe/Accessory Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aro"
+  },
+  {
+    "Symbol":"AET",
+    "Name":"Aetna Inc.",
+    "LastSale":"115.87",
+    "MarketCap":"$40.46B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aet"
+  },
+  {
+    "Symbol":"AFM",
+    "Name":"Affiliated Managers Group, Inc.",
+    "LastSale":"25.54",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Managers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/afm"
+  },
+  {
+    "Symbol":"QTM",
+    "Name":"Quantum Corporation",
+    "LastSale":"1.87",
+    "MarketCap":"$479.45M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Electronic Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/qtm"
+  },
+  {
+    "Symbol":"DGX",
+    "Name":"Quest Diagnostics Incorporated",
+    "LastSale":"73.04",
+    "MarketCap":"$10.49B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "Summary Quote":"http://www.nasdaq.com/symbol/dgx"
+  },
+  {
+    "Symbol":"STR",
+    "Name":"Questar Corporation",
+    "LastSale":"21.23",
+    "MarketCap":"$3.73B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/str"
+  },
+  {
+    "Symbol":"ZQK",
+    "Name":"Quiksilver, Inc.",
+    "LastSale":"0.6411",
+    "MarketCap":"$110.1M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Apparel",
+    "Summary Quote":"http://www.nasdaq.com/symbol/zqk"
+  },
+  {
+    "Symbol":"Q",
+    "Name":"Quintiles Transitional Holdings Inc.",
+    "LastSale":"70.03",
+    "MarketCap":"$8.56B",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Commercial Physical & Biological Resarch",
+    "Summary Quote":"http://www.nasdaq.com/symbol/q"
+  },
+  {
+    "Symbol":"CTQ",
+    "Name":"Qwest Corporation",
+    "LastSale":"26.06",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ctq"
+  },
+  {
+    "Symbol":"CTU",
+    "Name":"Qwest Corporation",
+    "LastSale":"26.0782",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ctu"
+  },
+  {
+    "Symbol":"CTV",
+    "Name":"Qwest Corporation",
+    "LastSale":"25.8901",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ctv"
+  },
+  {
+    "Symbol":"CTW",
+    "Name":"Qwest Corporation",
+    "LastSale":"26.18",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ctw"
+  },
+  {
+    "Symbol":"CTX",
+    "Name":"Qwest Corporation",
+    "LastSale":"26.03",
+    "MarketCap":"$3.26B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ctx"
+  },
+  {
+    "Symbol":"CTY",
+    "Name":"Qwest Corporation",
+    "LastSale":"24.78",
+    "MarketCap":"n/a",
+    "IPOyear":"2013",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/cty"
+  },
+  {
+    "Symbol":"RAX",
+    "Name":"Rackspace Hosting, Inc",
+    "LastSale":"38.65",
+    "MarketCap":"$5.52B",
+    "IPOyear":"2008",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rax"
+  },
+  {
+    "Symbol":"RDN",
+    "Name":"Radian Group Inc.",
+    "LastSale":"18.36",
+    "MarketCap":"$3.51B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rdn"
+  },
+  {
+    "Symbol":"RAS",
+    "Name":"RAIT Financial Trust",
+    "LastSale":"6.34",
+    "MarketCap":"$525.54M",
+    "IPOyear":"1998",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ras"
+  },
+  {
+    "Symbol":"RAS^A",
+    "Name":"RAIT Financial Trust",
+    "LastSale":"22.35",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ras^a"
+  },
+  {
+    "Symbol":"RAS^B",
+    "Name":"RAIT Financial Trust",
+    "LastSale":"23.75",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ras^b"
+  },
+  {
+    "Symbol":"RAS^C",
+    "Name":"RAIT Financial Trust",
+    "LastSale":"24.3",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ras^c"
+  },
+  {
+    "Symbol":"RFT",
+    "Name":"RAIT Financial Trust",
+    "LastSale":"23.4",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rft"
+  },
+  {
+    "Symbol":"RFTA",
+    "Name":"RAIT Financial Trust",
+    "LastSale":"24.3",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rfta"
+  },
+  {
+    "Symbol":"RALY",
+    "Name":"Rally Software Development Corp.",
+    "LastSale":"19.44",
+    "MarketCap":"$498.59M",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/raly"
+  },
+  {
+    "Symbol":"RL",
+    "Name":"Ralph Lauren Corporation",
+    "LastSale":"135.25",
+    "MarketCap":"$11.67B",
+    "IPOyear":"1997",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Apparel",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rl"
+  },
+  {
+    "Symbol":"RPT",
+    "Name":"Ramco-Gershenson Properties Trust",
+    "LastSale":"16.7",
+    "MarketCap":"$1.32B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rpt"
+  },
+  {
+    "Symbol":"RPT^D",
+    "Name":"Ramco-Gershenson Properties Trust",
+    "LastSale":"61",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rpt^d"
+  },
+  {
+    "Symbol":"RRC",
+    "Name":"Range Resources Corporation",
+    "LastSale":"52.84",
+    "MarketCap":"$8.93B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rrc"
+  },
+  {
+    "Symbol":"RJD",
+    "Name":"Raymond James Financial, Inc.",
+    "LastSale":"26.36",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rjd"
+  },
+  {
+    "Symbol":"RJF",
+    "Name":"Raymond James Financial, Inc.",
+    "LastSale":"60.37",
+    "MarketCap":"$8.68B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rjf"
+  },
+  {
+    "Symbol":"RYAM",
+    "Name":"Rayonier Advanced Materials Inc.",
+    "LastSale":"17.22",
+    "MarketCap":"$737.67M",
+    "IPOyear":"2014",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ryam"
+  },
+  {
+    "Symbol":"RYN",
+    "Name":"Rayonier Inc.",
+    "LastSale":"24.98",
+    "MarketCap":"$3.17B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ryn"
+  },
+  {
+    "Symbol":"RTN",
+    "Name":"Raytheon Company",
+    "LastSale":"101.67",
+    "MarketCap":"$31.02B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rtn"
+  },
+  {
+    "Symbol":"RCAP",
+    "Name":"RCS CAPITAL CORPORATION",
+    "LastSale":"7.29",
+    "MarketCap":"$562.66M",
+    "IPOyear":"2013",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rcap"
+  },
+  {
+    "Symbol":"RMAX",
+    "Name":"RE/MAX Holdings, Inc.",
+    "LastSale":"34.08",
+    "MarketCap":"$416.9M",
+    "IPOyear":"2013",
+    "Sector":"Finance",
+    "industry":"Real Estate",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rmax"
+  },
+  {
+    "Symbol":"RLD",
+    "Name":"RealD Inc",
+    "LastSale":"12.99",
+    "MarketCap":"$654.2M",
+    "IPOyear":"2010",
+    "Sector":"Technology",
+    "industry":"Radio And Television Broadcasting And Communications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rld"
+  },
+  {
+    "Symbol":"RLGY",
+    "Name":"Realogy Holdings Corp.",
+    "LastSale":"45.95",
+    "MarketCap":"$6.73B",
+    "IPOyear":"2012",
+    "Sector":"Finance",
+    "industry":"Real Estate",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rlgy"
+  },
+  {
+    "Symbol":"O",
+    "Name":"Realty Income Corporation",
+    "LastSale":"45.34",
+    "MarketCap":"$10.54B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/o"
+  },
+  {
+    "Symbol":"O^F",
+    "Name":"Realty Income Corporation",
+    "LastSale":"26.24",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/o^f"
+  },
+  {
+    "Symbol":"RHT",
+    "Name":"Red Hat, Inc.",
+    "LastSale":"78.19",
+    "MarketCap":"$14.33B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rht"
+  },
+  {
+    "Symbol":"RLH",
+    "Name":"Red Lion Hotels Corporation",
+    "LastSale":"7.21",
+    "MarketCap":"$143.73M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Hotels/Resorts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rlh"
+  },
+  {
+    "Symbol":"RLH^A",
+    "Name":"Red Lion Hotels Corporation",
+    "LastSale":"25.9327",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rlh^a"
+  },
+  {
+    "Symbol":"RWT",
+    "Name":"Redwood Trust, Inc.",
+    "LastSale":"16.72",
+    "MarketCap":"$1.41B",
+    "IPOyear":"1995",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rwt"
+  },
+  {
+    "Symbol":"ENL",
+    "Name":"Reed Elsevier NV",
+    "LastSale":"48.36",
+    "MarketCap":"$16.86B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Publishing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/enl"
+  },
+  {
+    "Symbol":"RUK",
+    "Name":"Reed Elsevier PLC",
+    "LastSale":"66.61",
+    "MarketCap":"$20.07B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Publishing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ruk"
+  },
+  {
+    "Symbol":"RBC",
+    "Name":"Regal Beloit Corporation",
+    "LastSale":"77.39",
+    "MarketCap":"$3.47B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Metal Fabrications",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbc"
+  },
+  {
+    "Symbol":"RGC",
+    "Name":"Regal Entertainment Group",
+    "LastSale":"20.38",
+    "MarketCap":"$3.19B",
+    "IPOyear":"2002",
+    "Sector":"Consumer Services",
+    "industry":"Movies/Entertainment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rgc"
+  },
+  {
+    "Symbol":"REG",
+    "Name":"Regency Centers Corporation",
+    "LastSale":"61.63",
+    "MarketCap":"$5.81B",
+    "IPOyear":"1993",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/reg"
+  },
+  {
+    "Symbol":"REG^F",
+    "Name":"Regency Centers Corporation",
+    "LastSale":"25.71",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/reg^f"
+  },
+  {
+    "Symbol":"REG^G",
+    "Name":"Regency Centers Corporation",
+    "LastSale":"24.999",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/reg^g"
+  },
+  {
+    "Symbol":"RM",
+    "Name":"Regional Management Corp.",
+    "LastSale":"18.02",
+    "MarketCap":"$231.96M",
+    "IPOyear":"2012",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rm"
+  },
+  {
+    "Symbol":"RF",
+    "Name":"Regions Financial Corporation",
+    "LastSale":"10.58",
+    "MarketCap":"$14.18B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rf"
+  },
+  {
+    "Symbol":"RF^A",
+    "Name":"Regions Financial Corporation",
+    "LastSale":"24.98",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rf^a"
+  },
+  {
+    "Symbol":"RF^B",
+    "Name":"Regions Financial Corporation",
+    "LastSale":"25.76",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rf^b"
+  },
+  {
+    "Symbol":"RGS",
+    "Name":"Regis Corporation",
+    "LastSale":"16.33",
+    "MarketCap":"$891.29M",
+    "IPOyear":"1991",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rgs"
+  },
+  {
+    "Symbol":"RGA",
+    "Name":"Reinsurance Group of America, Incorporated",
+    "LastSale":"96.1",
+    "MarketCap":"$6.36B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rga"
+  },
+  {
+    "Symbol":"RZA",
+    "Name":"Reinsurance Group of America, Incorporated",
+    "LastSale":"28.2",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rza"
+  },
+  {
+    "Symbol":"RS",
+    "Name":"Reliance Steel & Aluminum Co.",
+    "LastSale":"64.08",
+    "MarketCap":"$4.76B",
+    "IPOyear":"1994",
+    "Sector":"Basic Industries",
+    "industry":"Metal Fabrications",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rs"
+  },
+  {
+    "Symbol":"RNR",
+    "Name":"RenaissanceRe Holdings Ltd.",
+    "LastSale":"103.25",
+    "MarketCap":"$4.75B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rnr"
+  },
+  {
+    "Symbol":"RNR^C",
+    "Name":"RenaissanceRe Holdings Ltd.",
+    "LastSale":"25.09",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rnr^c"
+  },
+  {
+    "Symbol":"RNR^E",
+    "Name":"RenaissanceRe Holdings Ltd.",
+    "LastSale":"23.6",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rnr^e"
+  },
+  {
+    "Symbol":"SOL",
+    "Name":"Renesola Ltd.",
+    "LastSale":"1.39",
+    "MarketCap":"$141.63M",
+    "IPOyear":"2008",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sol"
+  },
+  {
+    "Symbol":"RENN",
+    "Name":"Renren Inc.",
+    "LastSale":"4",
+    "MarketCap":"$1.37B",
+    "IPOyear":"2011",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/renn"
+  },
+  {
+    "Symbol":"RNF",
+    "Name":"Rentech Nitrogen Partners, L.P.",
+    "LastSale":"14.5",
+    "MarketCap":"$564.24M",
+    "IPOyear":"2011",
+    "Sector":"Basic Industries",
+    "industry":"Agricultural Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rnf"
+  },
+  {
+    "Symbol":"RSG",
+    "Name":"Republic Services, Inc.",
+    "LastSale":"40.43",
+    "MarketCap":"$14.2B",
+    "IPOyear":"1998",
+    "Sector":"Public Utilities",
+    "industry":"Environmental Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rsg"
+  },
+  {
+    "Symbol":"RMD",
+    "Name":"ResMed Inc.",
+    "LastSale":"58.56",
+    "MarketCap":"$8.25B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rmd"
+  },
+  {
+    "Symbol":"REN           ",
+    "Name":"Resolute Energy Corporation",
+    "LastSale":"1.23",
+    "MarketCap":"$95.2M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ren           "
+  },
+  {
+    "Symbol":"RFP",
+    "Name":"Resolute Forest Products Inc.",
+    "LastSale":"12.2",
+    "MarketCap":"$1.16B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Paper",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rfp"
+  },
+  {
+    "Symbol":"RSO",
+    "Name":"Resource Capital Corp.",
+    "LastSale":"4.15",
+    "MarketCap":"$556.8M",
+    "IPOyear":"2006",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rso"
+  },
+  {
+    "Symbol":"RSO^A",
+    "Name":"Resource Capital Corp.",
+    "LastSale":"23.55",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rso^a"
+  },
+  {
+    "Symbol":"RSO^B",
+    "Name":"Resource Capital Corp.",
+    "LastSale":"22.49",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rso^b"
+  },
+  {
+    "Symbol":"RSO^C",
+    "Name":"Resource Capital Corp.",
+    "LastSale":"22.8756",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rso^c"
+  },
+  {
+    "Symbol":"QSR",
+    "Name":"Restaurant Brands International Inc.",
+    "LastSale":"38.01",
+    "MarketCap":"$7.69B",
+    "IPOyear":"2014",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "Summary Quote":"http://www.nasdaq.com/symbol/qsr"
+  },
+  {
+    "Symbol":"RH",
+    "Name":"Restoration Hardware Holdings Inc.",
+    "LastSale":"96.22",
+    "MarketCap":"$3.84B",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rh"
+  },
+  {
+    "Symbol":"RPAI",
+    "Name":"Retail Properties of America, Inc.",
+    "LastSale":"14.39",
+    "MarketCap":"$3.41B",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rpai"
+  },
+  {
+    "Symbol":"RPAI^A",
+    "Name":"Retail Properties of America, Inc.",
+    "LastSale":"27",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rpai^a"
+  },
+  {
+    "Symbol":"REV",
+    "Name":"Revlon, Inc.",
+    "LastSale":"36.75",
+    "MarketCap":"$1.93B",
+    "IPOyear":"1996",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Package Goods/Cosmetics",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rev"
+  },
+  {
+    "Symbol":"REX",
+    "Name":"REX American Resources Corporation",
+    "LastSale":"62.91",
+    "MarketCap":"$495.13M",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rex"
+  },
+  {
+    "Symbol":"REXR",
+    "Name":"Rexford Industrial Realty, Inc.",
+    "LastSale":"14.7",
+    "MarketCap":"$813.69M",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rexr"
+  },
+  {
+    "Symbol":"RXN",
+    "Name":"Rexnord Corporation",
+    "LastSale":"25.51",
+    "MarketCap":"$2.6B",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rxn"
+  },
+  {
+    "Symbol":"RAI",
+    "Name":"Reynolds American Inc",
+    "LastSale":"72",
+    "MarketCap":"$38.3B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Farming/Seeds/Milling",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rai"
+  },
+  {
+    "Symbol":"RNO",
+    "Name":"Rhino Resource Partners LP",
+    "LastSale":"1.36",
+    "MarketCap":"$39.58M",
+    "IPOyear":"2010",
+    "Sector":"Energy",
+    "industry":"Coal Mining",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rno"
+  },
+  {
+    "Symbol":"RICE",
+    "Name":"Rice Energy Inc.",
+    "LastSale":"22.63",
+    "MarketCap":"$3.08B",
+    "IPOyear":"2014",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rice"
+  },
+  {
+    "Symbol":"RMP",
+    "Name":"Rice Midstream Partners LP",
+    "LastSale":"16.6",
+    "MarketCap":"$954.62M",
+    "IPOyear":"2014",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rmp"
+  },
+  {
+    "Symbol":"RNG",
+    "Name":"Ringcentral, Inc.",
+    "LastSale":"18.03",
+    "MarketCap":"$1.25B",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rng"
+  },
+  {
+    "Symbol":"RIO",
+    "Name":"Rio Tinto Plc",
+    "LastSale":"44.04",
+    "MarketCap":"$81.96B",
+    "IPOyear":"2002",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rio"
+  },
+  {
+    "Symbol":"RBA",
+    "Name":"Ritchie Bros. Auctioneers Incorporated",
+    "LastSale":"28.87",
+    "MarketCap":"$3.06B",
+    "IPOyear":"n/a",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rba"
+  },
+  {
+    "Symbol":"RAD",
+    "Name":"Rite Aid Corporation",
+    "LastSale":"8.95",
+    "MarketCap":"$8.85B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rad"
+  },
+  {
+    "Symbol":"RLI",
+    "Name":"RLI Corp.",
+    "LastSale":"50.46",
+    "MarketCap":"$2.18B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rli"
+  },
+  {
+    "Symbol":"RLJ",
+    "Name":"RLJ Lodging Trust",
+    "LastSale":"30.12",
+    "MarketCap":"$3.98B",
+    "IPOyear":"2011",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rlj"
+  },
+  {
+    "Symbol":"RRTS",
+    "Name":"Roadrunner Transportation Systems, Inc",
+    "LastSale":"27",
+    "MarketCap":"$1.03B",
+    "IPOyear":"2010",
+    "Sector":"Transportation",
+    "industry":"Oil Refining/Marketing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rrts"
+  },
+  {
+    "Symbol":"RHI",
+    "Name":"Robert Half International Inc.",
+    "LastSale":"56.44",
+    "MarketCap":"$7.62B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Professional Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rhi"
+  },
+  {
+    "Symbol":"RKT",
+    "Name":"Rock-Tenn Company",
+    "LastSale":"63.79",
+    "MarketCap":"$8.98B",
+    "IPOyear":"1994",
+    "Sector":"Consumer Durables",
+    "industry":"Containers/Packaging",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rkt"
+  },
+  {
+    "Symbol":"ROK",
+    "Name":"Rockwell Automation, Inc.",
+    "LastSale":"125.87",
+    "MarketCap":"$16.94B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rok"
+  },
+  {
+    "Symbol":"COL",
+    "Name":"Rockwell Collins, Inc.",
+    "LastSale":"94.12",
+    "MarketCap":"$12.45B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Military/Government/Technical",
+    "Summary Quote":"http://www.nasdaq.com/symbol/col"
+  },
+  {
+    "Symbol":"RCI",
+    "Name":"Rogers Communication, Inc.",
+    "LastSale":"34",
+    "MarketCap":"$13.68B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Television Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rci"
+  },
+  {
+    "Symbol":"ROG",
+    "Name":"Rogers Corporation",
+    "LastSale":"70.79",
+    "MarketCap":"$1.32B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rog"
+  },
+  {
+    "Symbol":"ROL",
+    "Name":"Rollins, Inc.",
+    "LastSale":"26.67",
+    "MarketCap":"$5.83B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Diversified Commercial Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rol"
+  },
+  {
+    "Symbol":"ROP",
+    "Name":"Roper Technologies, Inc.",
+    "LastSale":"175.84",
+    "MarketCap":"$17.68B",
+    "IPOyear":"1992",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rop"
+  },
+  {
+    "Symbol":"RRMS",
+    "Name":"Rose Rock Midstream, L.P.",
+    "LastSale":"47.85",
+    "MarketCap":"$1.76B",
+    "IPOyear":"2011",
+    "Sector":"Energy",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rrms"
+  },
+  {
+    "Symbol":"RST",
+    "Name":"Rosetta Stone",
+    "LastSale":"8.5",
+    "MarketCap":"$183.69M",
+    "IPOyear":"2009",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rst"
+  },
+  {
+    "Symbol":"RNDY",
+    "Name":"Roundy&#39;s, Inc.",
+    "LastSale":"3.33",
+    "MarketCap":"$164.47M",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Food Chains",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rndy"
+  },
+  {
+    "Symbol":"RSE",
+    "Name":"Rouse Properties, Inc.",
+    "LastSale":"16.31",
+    "MarketCap":"$943.2M",
+    "IPOyear":"2011",
+    "Sector":"Finance",
+    "industry":"Real Estate",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rse"
+  },
+  {
+    "Symbol":"RDC",
+    "Name":"Rowan Companies plc",
+    "LastSale":"21.36",
+    "MarketCap":"$2.66B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rdc"
+  },
+  {
+    "Symbol":"RY",
+    "Name":"Royal Bank Of Canada",
+    "LastSale":"63.33",
+    "MarketCap":"$91.39B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ry"
+  },
+  {
+    "Symbol":"RBS",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"11.14",
+    "MarketCap":"$63.98B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs"
+  },
+  {
+    "Symbol":"RBS^E",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.67",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^e"
+  },
+  {
+    "Symbol":"RBS^F",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"25.37",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^f"
+  },
+  {
+    "Symbol":"RBS^G",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.88",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^g"
+  },
+  {
+    "Symbol":"RBS^H",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"25.304",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^h"
+  },
+  {
+    "Symbol":"RBS^I",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.9",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^i"
+  },
+  {
+    "Symbol":"RBS^L",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.03",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^l"
+  },
+  {
+    "Symbol":"RBS^M",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.779",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^m"
+  },
+  {
+    "Symbol":"RBS^N",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.74",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^n"
+  },
+  {
+    "Symbol":"RBS^P",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.66",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^p"
+  },
+  {
+    "Symbol":"RBS^Q",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"25.16",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^q"
+  },
+  {
+    "Symbol":"RBS^R",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.6",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^r"
+  },
+  {
+    "Symbol":"RBS^S",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"24.82",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^s"
+  },
+  {
+    "Symbol":"RBS^T",
+    "Name":"Royal Bank Scotland plc (The)",
+    "LastSale":"25.24",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rbs^t"
+  },
+  {
+    "Symbol":"RCL",
+    "Name":"Royal Caribbean Cruises Ltd.",
+    "LastSale":"76.8",
+    "MarketCap":"$16.89B",
+    "IPOyear":"1993",
+    "Sector":"Consumer Services",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rcl"
+  },
+  {
+    "Symbol":"RDS/A",
+    "Name":"Royal Dutch Shell PLC",
+    "LastSale":"58.02",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rds/a"
+  },
+  {
+    "Symbol":"RDS/B",
+    "Name":"Royal Dutch Shell PLC",
+    "LastSale":"58.85",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rds/b"
+  },
+  {
+    "Symbol":"RGT",
+    "Name":"Royce Global Value Trust, Inc.",
+    "LastSale":"8.55",
+    "MarketCap":"$87.38M",
+    "IPOyear":"2013",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rgt"
+  },
+  {
+    "Symbol":"RMT",
+    "Name":"Royce Micro-Cap Trust, Inc.",
+    "LastSale":"9.46",
+    "MarketCap":"$295.03M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rmt"
+  },
+  {
+    "Symbol":"RVT",
+    "Name":"Royce Value Trust, Inc.",
+    "LastSale":"14.03",
+    "MarketCap":"$1.03B",
+    "IPOyear":"1986",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rvt"
+  },
+  {
+    "Symbol":"RES",
+    "Name":"RPC, Inc.",
+    "LastSale":"14.89",
+    "MarketCap":"$3.23B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oilfield Services/Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/res"
+  },
+  {
+    "Symbol":"RPM",
+    "Name":"RPM International Inc.",
+    "LastSale":"49.66",
+    "MarketCap":"$6.62B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Paints/Coatings",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rpm"
+  },
+  {
+    "Symbol":"RSPP",
+    "Name":"RSP Permian, Inc.",
+    "LastSale":"29.54",
+    "MarketCap":"$2.48B",
+    "IPOyear":"2014",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rspp"
+  },
+  {
+    "Symbol":"RTI",
+    "Name":"RTI International Metals, Inc.",
+    "LastSale":"34.02",
+    "MarketCap":"$1.05B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Metal Fabrications",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rti"
+  },
+  {
+    "Symbol":"RT",
+    "Name":"Ruby Tuesday, Inc.",
+    "LastSale":"6.55",
+    "MarketCap":"$406.59M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rt"
+  },
+  {
+    "Symbol":"RKUS",
+    "Name":"Ruckus Wireless, Inc.",
+    "LastSale":"11.79",
+    "MarketCap":"$1.02B",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"Computer peripheral equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rkus"
+  },
+  {
+    "Symbol":"RTEC",
+    "Name":"Rudolph Technologies, Inc.",
+    "LastSale":"13.17",
+    "MarketCap":"$420.6M",
+    "IPOyear":"1999",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rtec"
+  },
+  {
+    "Symbol":"R",
+    "Name":"Ryder System, Inc.",
+    "LastSale":"93.84",
+    "MarketCap":"$5B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Rental/Leasing Companies",
+    "Summary Quote":"http://www.nasdaq.com/symbol/r"
+  },
+  {
+    "Symbol":"RYI",
+    "Name":"Ryerson Holding Corporation",
+    "LastSale":"9.1",
+    "MarketCap":"$291.54M",
+    "IPOyear":"2014",
+    "Sector":"Basic Industries",
+    "industry":"Metal Fabrications",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ryi"
+  },
+  {
+    "Symbol":"RYL",
+    "Name":"Ryland Group, Inc. (The)",
+    "LastSale":"42.79",
+    "MarketCap":"$2B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Homebuilding",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ryl"
+  },
+  {
+    "Symbol":"RHP",
+    "Name":"Ryman Hospitality Properties, Inc.",
+    "LastSale":"54.37",
+    "MarketCap":"$2.79B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rhp"
+  },
+  {
+    "Symbol":"SBR",
+    "Name":"Sabine Royalty Trust",
+    "LastSale":"39.1",
+    "MarketCap":"$570.05M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sbr"
+  },
+  {
+    "Symbol":"SB",
+    "Name":"Safe Bulkers, Inc",
+    "LastSale":"3.05",
+    "MarketCap":"$254.57M",
+    "IPOyear":"2008",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sb"
+  },
+  {
+    "Symbol":"SB^B",
+    "Name":"Safe Bulkers, Inc",
+    "LastSale":"23.85",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sb^b"
+  },
+  {
+    "Symbol":"SB^C",
+    "Name":"Safe Bulkers, Inc",
+    "LastSale":"17.82",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sb^c"
+  },
+  {
+    "Symbol":"SB^D",
+    "Name":"Safe Bulkers, Inc",
+    "LastSale":"17.876",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sb^d"
+  },
+  {
+    "Symbol":"SFE",
+    "Name":"Safeguard Scientifics, Inc.",
+    "LastSale":"18.7",
+    "MarketCap":"$387.26M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance/Investors Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sfe"
+  },
+  {
+    "Symbol":"CRM",
+    "Name":"Salesforce.com Inc",
+    "LastSale":"71.77",
+    "MarketCap":"$47.08B",
+    "IPOyear":"2004",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/crm"
+  },
+  {
+    "Symbol":"SMM",
+    "Name":"Salient Midstream & MLP Fund",
+    "LastSale":"20.71",
+    "MarketCap":"$196.74M",
+    "IPOyear":"2012",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/smm"
+  },
+  {
+    "Symbol":"SBH",
+    "Name":"Sally Beauty Holdings, Inc.",
+    "LastSale":"31.33",
+    "MarketCap":"$4.94B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sbh"
+  },
+  {
+    "Symbol":"SJT",
+    "Name":"San Juan Basin Royalty Trust",
+    "LastSale":"10.86",
+    "MarketCap":"$506.17M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sjt"
+  },
+  {
+    "Symbol":"SN",
+    "Name":"Sanchez Energy Corporation",
+    "LastSale":"9.73",
+    "MarketCap":"$594.31M",
+    "IPOyear":"2011",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sn"
+  },
+  {
+    "Symbol":"SD",
+    "Name":"Sandridge Energy Inc.",
+    "LastSale":"1.11",
+    "MarketCap":"$537.23M",
+    "IPOyear":"2007",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sd"
+  },
+  {
+    "Symbol":"SDT",
+    "Name":"SandRidge Mississippian Trust I",
+    "LastSale":"4.61",
+    "MarketCap":"$129.08M",
+    "IPOyear":"2011",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sdt"
+  },
+  {
+    "Symbol":"SDR",
+    "Name":"SandRidge Mississippian Trust II",
+    "LastSale":"4.45",
+    "MarketCap":"$221.28M",
+    "IPOyear":"2012",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sdr"
+  },
+  {
+    "Symbol":"PER",
+    "Name":"SandRidge Permian Trust",
+    "LastSale":"7.71",
+    "MarketCap":"$404.78M",
+    "IPOyear":"2011",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/per"
+  },
+  {
+    "Symbol":"SNY",
+    "Name":"Sanofi",
+    "LastSale":"50.6",
+    "MarketCap":"$133.52B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sny"
+  },
+  {
+    "Symbol":"SC",
+    "Name":"Santander Consumer USA Holdings Inc.",
+    "LastSale":"25.46",
+    "MarketCap":"$8.91B",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sc"
+  },
+  {
+    "Symbol":"SOV^C",
+    "Name":"Santander Holdings USA, Inc.",
+    "LastSale":"25.99",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sov^c"
+  },
+  {
+    "Symbol":"SAP",
+    "Name":"SAP SE",
+    "LastSale":"73.55",
+    "MarketCap":"$87.91B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sap"
+  },
+  {
+    "Symbol":"SAQ",
+    "Name":"Saratoga Investment Corp",
+    "LastSale":"25.25",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/saq"
+  },
+  {
+    "Symbol":"SAR",
+    "Name":"Saratoga Investment Corp",
+    "LastSale":"17.03",
+    "MarketCap":"$92.45M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sar"
+  },
+  {
+    "Symbol":"SSL",
+    "Name":"Sasol Ltd.",
+    "LastSale":"34.11",
+    "MarketCap":"$22.29B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssl"
+  },
+  {
+    "Symbol":"BFS",
+    "Name":"Saul Centers, Inc.",
+    "LastSale":"50.94",
+    "MarketCap":"$1.07B",
+    "IPOyear":"1993",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/bfs"
+  },
+  {
+    "Symbol":"BFS^C",
+    "Name":"Saul Centers, Inc.",
+    "LastSale":"26.1",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/bfs^c"
+  },
+  {
+    "Symbol":"SCG",
+    "Name":"Scana Corporation",
+    "LastSale":"50.32",
+    "MarketCap":"$7.19B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Power Generation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/scg"
+  },
+  {
+    "Symbol":"SLB",
+    "Name":"Schlumberger N.V.",
+    "LastSale":"90.15",
+    "MarketCap":"$114.47B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oilfield Services/Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/slb"
+  },
+  {
+    "Symbol":"SWM",
+    "Name":"Schweitzer-Mauduit International, Inc.",
+    "LastSale":"39.16",
+    "MarketCap":"$1.19B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Paper",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swm"
+  },
+  {
+    "Symbol":"SAIC",
+    "Name":"SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+    "LastSale":"50.82",
+    "MarketCap":"$2.34B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/saic"
+  },
+  {
+    "Symbol":"SALT",
+    "Name":"Scorpio Bulkers Inc.",
+    "LastSale":"1.65",
+    "MarketCap":"$297.78M",
+    "IPOyear":"2013",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/salt"
+  },
+  {
+    "Symbol":"SLTB",
+    "Name":"Scorpio Bulkers Inc.",
+    "LastSale":"22",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sltb"
+  },
+  {
+    "Symbol":"SBNA",
+    "Name":"Scorpio Tankers Inc.",
+    "LastSale":"24.1",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sbna"
+  },
+  {
+    "Symbol":"SBNB",
+    "Name":"Scorpio Tankers Inc.",
+    "LastSale":"25.3399",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sbnb"
+  },
+  {
+    "Symbol":"STNG",
+    "Name":"Scorpio Tankers Inc.",
+    "LastSale":"9.74",
+    "MarketCap":"$1.6B",
+    "IPOyear":"2010",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stng"
+  },
+  {
+    "Symbol":"SMG",
+    "Name":"Scotts Miracle-Gro Company (The)",
+    "LastSale":"60.09",
+    "MarketCap":"$3.68B",
+    "IPOyear":"1992",
+    "Sector":"Basic Industries",
+    "industry":"Agricultural Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/smg"
+  },
+  {
+    "Symbol":"SNI",
+    "Name":"Scripps Networks Interactive, Inc",
+    "LastSale":"66.68",
+    "MarketCap":"$8.56B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Television Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sni"
+  },
+  {
+    "Symbol":"LBF",
+    "Name":"Scudder Global High Income Fund, Inc.",
+    "LastSale":"8.19",
+    "MarketCap":"$54.18M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/lbf"
+  },
+  {
+    "Symbol":"KHI",
+    "Name":"Scudder High Income Trust",
+    "LastSale":"8.6",
+    "MarketCap":"$140.47M",
+    "IPOyear":"1988",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/khi"
+  },
+  {
+    "Symbol":"KMM",
+    "Name":"Scudder Multi-Market Income Trust",
+    "LastSale":"8.33",
+    "MarketCap":"$203.99M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/kmm"
+  },
+  {
+    "Symbol":"KTF",
+    "Name":"Scudder Municiple Income Trust",
+    "LastSale":"12.74",
+    "MarketCap":"$500.34M",
+    "IPOyear":"1988",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ktf"
+  },
+  {
+    "Symbol":"KST",
+    "Name":"Scudder Strategic Income Trust",
+    "LastSale":"11.312",
+    "MarketCap":"$53.11M",
+    "IPOyear":"1994",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/kst"
+  },
+  {
+    "Symbol":"KSM",
+    "Name":"Scudder Strategic Municiple Income Trust",
+    "LastSale":"12.97",
+    "MarketCap":"$144.05M",
+    "IPOyear":"1989",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ksm"
+  },
+  {
+    "Symbol":"SA",
+    "Name":"Seabridge Gold, Inc.",
+    "LastSale":"6.48",
+    "MarketCap":"$325.2M",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sa"
+  },
+  {
+    "Symbol":"CKH",
+    "Name":"SEACOR Holdings, Inc.",
+    "LastSale":"71.14",
+    "MarketCap":"$1.3B",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ckh"
+  },
+  {
+    "Symbol":"SDRL",
+    "Name":"Seadrill Limited",
+    "LastSale":"11.84",
+    "MarketCap":"$5.83B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sdrl"
+  },
+  {
+    "Symbol":"SDLP",
+    "Name":"Seadrill Partners LLC",
+    "LastSale":"13.71",
+    "MarketCap":"$1.26B",
+    "IPOyear":"2012",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sdlp"
+  },
+  {
+    "Symbol":"SEE",
+    "Name":"Sealed Air Corporation",
+    "LastSale":"50.65",
+    "MarketCap":"$10.64B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/see"
+  },
+  {
+    "Symbol":"SSW",
+    "Name":"Seaspan Corporation",
+    "LastSale":"20.29",
+    "MarketCap":"$1.98B",
+    "IPOyear":"2005",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssw"
+  },
+  {
+    "Symbol":"SSW^C",
+    "Name":"Seaspan Corporation",
+    "LastSale":"26",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssw^c"
+  },
+  {
+    "Symbol":"SSW^D",
+    "Name":"Seaspan Corporation",
+    "LastSale":"25.25",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssw^d"
+  },
+  {
+    "Symbol":"SSW^E",
+    "Name":"Seaspan Corporation",
+    "LastSale":"25.025",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssw^e"
+  },
+  {
+    "Symbol":"SSWN",
+    "Name":"Seaspan Corporation",
+    "LastSale":"25.15",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sswn"
+  },
+  {
+    "Symbol":"SEAS",
+    "Name":"SeaWorld Entertainment, Inc.",
+    "LastSale":"20.6",
+    "MarketCap":"$1.86B",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Services-Misc. Amusement & Recreation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/seas"
+  },
+  {
+    "Symbol":"JBN",
+    "Name":"Select Asset Inc.",
+    "LastSale":"17.35",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/jbn"
+  },
+  {
+    "Symbol":"JBR",
+    "Name":"Select Asset Inc.",
+    "LastSale":"17.26",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/jbr"
+  },
+  {
+    "Symbol":"SIR",
+    "Name":"Select Income REIT",
+    "LastSale":"22.66",
+    "MarketCap":"$2.02B",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sir"
+  },
+  {
+    "Symbol":"SEM",
+    "Name":"Select Medical Holdings Corporation",
+    "LastSale":"16.14",
+    "MarketCap":"$2.12B",
+    "IPOyear":"2009",
+    "Sector":"Health Care",
+    "industry":"Hospital/Nursing Management",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sem"
+  },
+  {
+    "Symbol":"SGZA",
+    "Name":"Selective Insurance Group, Inc.",
+    "LastSale":"25.29",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sgza"
+  },
+  {
+    "Symbol":"SEMG",
+    "Name":"Semgroup Corporation",
+    "LastSale":"77.08",
+    "MarketCap":"$3.38B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oilfield Services/Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/semg"
+  },
+  {
+    "Symbol":"SMI",
+    "Name":"Semiconductor  Manufacturing International Corporation",
+    "LastSale":"5.56",
+    "MarketCap":"$4B",
+    "IPOyear":"2004",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/smi"
+  },
+  {
+    "Symbol":"SRE",
+    "Name":"Sempra Energy",
+    "LastSale":"102.86",
+    "MarketCap":"$25.47B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sre"
+  },
+  {
+    "Symbol":"SNH",
+    "Name":"Senior Housing Properties Trust",
+    "LastSale":"18.21",
+    "MarketCap":"$4.28B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/snh"
+  },
+  {
+    "Symbol":"SNHN",
+    "Name":"Senior Housing Properties Trust",
+    "LastSale":"23.63",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/snhn"
+  },
+  {
+    "Symbol":"ST",
+    "Name":"Sensata Technologies Holding N.V.",
+    "LastSale":"55.09",
+    "MarketCap":"$9.36B",
+    "IPOyear":"2010",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/st"
+  },
+  {
+    "Symbol":"SXT",
+    "Name":"Sensient Technologies Corporation",
+    "LastSale":"67.93",
+    "MarketCap":"$3.17B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sxt"
+  },
+  {
+    "Symbol":"SQNS",
+    "Name":"Sequans Communications S.A.",
+    "LastSale":"1.93",
+    "MarketCap":"$114.15M",
+    "IPOyear":"2011",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sqns"
+  },
+  {
+    "Symbol":"SRG~$",
+    "Name":"Seritage Growth Partners",
+    "LastSale":"5.65",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/srg~$"
+  },
+  {
+    "Symbol":"SCI",
+    "Name":"Service Corporation International",
+    "LastSale":"29.1",
+    "MarketCap":"$5.88B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sci"
+  },
+  {
+    "Symbol":"SERV",
+    "Name":"ServiceMaster Global Holdings, Inc.",
+    "LastSale":"34.61",
+    "MarketCap":"$4.67B",
+    "IPOyear":"2014",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/serv"
+  },
+  {
+    "Symbol":"NOW",
+    "Name":"ServiceNow, Inc.",
+    "LastSale":"77.94",
+    "MarketCap":"$11.99B",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/now"
+  },
+  {
+    "Symbol":"SSE",
+    "Name":"Seventy Seven Energy Inc.",
+    "LastSale":"5.7",
+    "MarketCap":"$320.38M",
+    "IPOyear":"2014",
+    "Sector":"Energy",
+    "industry":"Oilfield Services/Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sse"
+  },
+  {
+    "Symbol":"SHAK",
+    "Name":"Shake Shack, Inc.",
+    "LastSale":"75.39",
+    "MarketCap":"$2.73B",
+    "IPOyear":"2015",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "Summary Quote":"http://www.nasdaq.com/symbol/shak"
+  },
+  {
+    "Symbol":"SJR",
+    "Name":"Shaw Communications Inc.",
+    "LastSale":"21.85",
+    "MarketCap":"$9.81B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Television Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sjr"
+  },
+  {
+    "Symbol":"SHLX",
+    "Name":"Shell Midstream Partners, L.P.",
+    "LastSale":"47.16",
+    "MarketCap":"$6.36B",
+    "IPOyear":"2014",
+    "Sector":"Energy",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/shlx"
+  },
+  {
+    "Symbol":"SHW",
+    "Name":"Sherwin-Williams Company (The)",
+    "LastSale":"280.91",
+    "MarketCap":"$26.18B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"RETAIL: Building Materials",
+    "Summary Quote":"http://www.nasdaq.com/symbol/shw"
+  },
+  {
+    "Symbol":"SHG",
+    "Name":"Shinhan Financial Group Co Ltd",
+    "LastSale":"37.15",
+    "MarketCap":"$17.62B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/shg"
+  },
+  {
+    "Symbol":"SFL",
+    "Name":"Ship Finance International Limited",
+    "LastSale":"16.59",
+    "MarketCap":"$1.55B",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sfl"
+  },
+  {
+    "Symbol":"SHOP",
+    "Name":"Shopify Inc.",
+    "LastSale":"33.63",
+    "MarketCap":"$297.79M",
+    "IPOyear":"2015",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/shop"
+  },
+  {
+    "Symbol":"SSTK",
+    "Name":"Shutterstock, Inc.",
+    "LastSale":"62.93",
+    "MarketCap":"$2.26B",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sstk"
+  },
+  {
+    "Symbol":"SBGL",
+    "Name":"Sibanye Gold Limited",
+    "LastSale":"6.37",
+    "MarketCap":"$1.43B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sbgl"
+  },
+  {
+    "Symbol":"SIG",
+    "Name":"Signet Jewelers Limited",
+    "LastSale":"131.19",
+    "MarketCap":"$10.51B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Consumer Specialties",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sig"
+  },
+  {
+    "Symbol":"SBY",
+    "Name":"Silver Bay Realty Trust Corp.",
+    "LastSale":"15.34",
+    "MarketCap":"$557.75M",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sby"
+  },
+  {
+    "Symbol":"SSNI",
+    "Name":"Silver Spring Networks, Inc.",
+    "LastSale":"13.16",
+    "MarketCap":"$654.07M",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"Computer Communications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssni"
+  },
+  {
+    "Symbol":"SLW",
+    "Name":"Silver Wheaton Corp",
+    "LastSale":"18.36",
+    "MarketCap":"$7.42B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/slw"
+  },
+  {
+    "Symbol":"SVM",
+    "Name":"Silvercorp Metals Inc",
+    "LastSale":"1.16",
+    "MarketCap":"$198.23M",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/svm"
+  },
+  {
+    "Symbol":"SPG",
+    "Name":"Simon Property Group, Inc.",
+    "LastSale":"176.87",
+    "MarketCap":"$55.05B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spg"
+  },
+  {
+    "Symbol":"SPG^J",
+    "Name":"Simon Property Group, Inc.",
+    "LastSale":"70.7",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spg^j"
+  },
+  {
+    "Symbol":"SSD",
+    "Name":"Simpson Manufacturing Company, Inc.",
+    "LastSale":"34.79",
+    "MarketCap":"$1.72B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssd"
+  },
+  {
+    "Symbol":"SHI",
+    "Name":"SINOPEC Shangai Petrochemical Company, Ltd.",
+    "LastSale":"50.18",
+    "MarketCap":"$5.42B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/shi"
+  },
+  {
+    "Symbol":"SIX",
+    "Name":"Six Flags Entertainment Corporation New",
+    "LastSale":"47.96",
+    "MarketCap":"$4.55B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Services-Misc. Amusement & Recreation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/six"
+  },
+  {
+    "Symbol":"SJW",
+    "Name":"SJW Corporation",
+    "LastSale":"30.64",
+    "MarketCap":"$623.26M",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Water Supply",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sjw"
+  },
+  {
+    "Symbol":"SKM",
+    "Name":"SK Telecom Co., Ltd.",
+    "LastSale":"25.41",
+    "MarketCap":"$16.22B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/skm"
+  },
+  {
+    "Symbol":"SKX",
+    "Name":"Skechers U.S.A., Inc.",
+    "LastSale":"110.71",
+    "MarketCap":"$5.76B",
+    "IPOyear":"1999",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Shoe Manufacturing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/skx"
+  },
+  {
+    "Symbol":"SLG",
+    "Name":"SL Green Realty Corporation",
+    "LastSale":"114.94",
+    "MarketCap":"$11.45B",
+    "IPOyear":"1997",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/slg"
+  },
+  {
+    "Symbol":"SLG^I",
+    "Name":"SL Green Realty Corporation",
+    "LastSale":"26.2",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/slg^i"
+  },
+  {
+    "Symbol":"SM",
+    "Name":"SM Energy Company",
+    "LastSale":"46.2",
+    "MarketCap":"$3.12B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sm"
+  },
+  {
+    "Symbol":"SFS",
+    "Name":"Smart",
+    "LastSale":"18.45",
+    "MarketCap":"$1.36B",
+    "IPOyear":"2014",
+    "Sector":"Consumer Services",
+    "industry":"Food Chains",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sfs"
+  },
+  {
+    "Symbol":"SNN",
+    "Name":"Smith & Nephew SNATS, Inc.",
+    "LastSale":"34.13",
+    "MarketCap":"$16.23B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Industrial Specialties",
+    "Summary Quote":"http://www.nasdaq.com/symbol/snn"
+  },
+  {
+    "Symbol":"AOS",
+    "Name":"Smith (A.O.) Corporation",
+    "LastSale":"73.19",
+    "MarketCap":"$6.53B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Consumer Electronics/Appliances",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aos"
+  },
+  {
+    "Symbol":"SNA",
+    "Name":"Snap-On Incorporated",
+    "LastSale":"156.87",
+    "MarketCap":"$9.11B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sna"
+  },
+  {
+    "Symbol":"SQM",
+    "Name":"Sociedad Quimica y Minera S.A.",
+    "LastSale":"19.01",
+    "MarketCap":"$5B",
+    "IPOyear":"1993",
+    "Sector":"Basic Industries",
+    "industry":"Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sqm"
+  },
+  {
+    "Symbol":"SLRA",
+    "Name":"Solar Capital Ltd.",
+    "LastSale":"24.4199",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/slra"
+  },
+  {
+    "Symbol":"SWI",
+    "Name":"Solarwinds, Inc.",
+    "LastSale":"48.08",
+    "MarketCap":"$3.67B",
+    "IPOyear":"2009",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swi"
+  },
+  {
+    "Symbol":"SLH",
+    "Name":"Solera Holdings, Inc.",
+    "LastSale":"48.12",
+    "MarketCap":"$3.23B",
+    "IPOyear":"2007",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/slh"
+  },
+  {
+    "Symbol":"SAH",
+    "Name":"Sonic Automotive, Inc.",
+    "LastSale":"24.67",
+    "MarketCap":"$1.25B",
+    "IPOyear":"1997",
+    "Sector":"Consumer Durables",
+    "industry":"Automotive Aftermarket",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sah"
+  },
+  {
+    "Symbol":"SON",
+    "Name":"Sonoco Products Company",
+    "LastSale":"45.25",
+    "MarketCap":"$4.57B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Containers/Packaging",
+    "Summary Quote":"http://www.nasdaq.com/symbol/son"
+  },
+  {
+    "Symbol":"SNE",
+    "Name":"Sony Corp Ord",
+    "LastSale":"30.44",
+    "MarketCap":"$35.58B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Consumer Electronics/Appliances",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sne"
+  },
+  {
+    "Symbol":"BID",
+    "Name":"Sotheby&#39;s",
+    "LastSale":"46.31",
+    "MarketCap":"$3.22B",
+    "IPOyear":"1988",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/bid"
+  },
+  {
+    "Symbol":"SFUN",
+    "Name":"SouFun Holdings Limited",
+    "LastSale":"9.95",
+    "MarketCap":"$4.12B",
+    "IPOyear":"2010",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sfun"
+  },
+  {
+    "Symbol":"SOR",
+    "Name":"Source Capital, Inc.",
+    "LastSale":"74.01",
+    "MarketCap":"$640.57M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sor"
+  },
+  {
+    "Symbol":"SJI",
+    "Name":"South Jersey Industries, Inc.",
+    "LastSale":"25.04",
+    "MarketCap":"$1.71B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Oil/Gas Transmission",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sji"
+  },
+  {
+    "Symbol":"SXE",
+    "Name":"Southcross Energy Partners, L.P.",
+    "LastSale":"12.09",
+    "MarketCap":"$435.42M",
+    "IPOyear":"2012",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sxe"
+  },
+  {
+    "Symbol":"SCE^F",
+    "Name":"Southern California Edison Company",
+    "LastSale":"24.4904",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sce^f"
+  },
+  {
+    "Symbol":"SCE^G",
+    "Name":"Southern California Edison Company",
+    "LastSale":"23.27",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sce^g"
+  },
+  {
+    "Symbol":"SCE^H",
+    "Name":"Southern California Edison Company",
+    "LastSale":"27.24",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sce^h"
+  },
+  {
+    "Symbol":"SO",
+    "Name":"Southern Company (The)",
+    "LastSale":"42.3",
+    "MarketCap":"$38.42B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "Summary Quote":"http://www.nasdaq.com/symbol/so"
+  },
+  {
+    "Symbol":"SCCO",
+    "Name":"Southern Copper Corporation",
+    "LastSale":"30.71",
+    "MarketCap":"$24.51B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/scco"
+  },
+  {
+    "Symbol":"LUV",
+    "Name":"Southwest Airlines Company",
+    "LastSale":"35",
+    "MarketCap":"$23.39B",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Air Freight/Delivery Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/luv"
+  },
+  {
+    "Symbol":"SWX",
+    "Name":"Southwest Gas Corporation",
+    "LastSale":"52.96",
+    "MarketCap":"$2.48B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swx"
+  },
+  {
+    "Symbol":"SWN",
+    "Name":"Southwestern Energy Company",
+    "LastSale":"23.01",
+    "MarketCap":"$8.85B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swn"
+  },
+  {
+    "Symbol":"SWNC",
+    "Name":"Southwestern Energy Company",
+    "LastSale":"51.15",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swnc"
+  },
+  {
+    "Symbol":"SSS",
+    "Name":"Sovran Self Storage, Inc.",
+    "LastSale":"87.85",
+    "MarketCap":"$3.12B",
+    "IPOyear":"1995",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sss"
+  },
+  {
+    "Symbol":"SPA",
+    "Name":"Sparton Corporation",
+    "LastSale":"27.28",
+    "MarketCap":"$270.35M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Electrical Products",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spa"
+  },
+  {
+    "Symbol":"SPE",
+    "Name":"Special Opportunities Fund Inc.",
+    "LastSale":"15.33",
+    "MarketCap":"$120.03M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spe"
+  },
+  {
+    "Symbol":"SE",
+    "Name":"Spectra Energy Corp",
+    "LastSale":"32.94",
+    "MarketCap":"$22.11B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/se"
+  },
+  {
+    "Symbol":"SEP",
+    "Name":"Spectra Energy Partners, LP",
+    "LastSale":"48.36",
+    "MarketCap":"$14.29B",
+    "IPOyear":"2007",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sep"
+  },
+  {
+    "Symbol":"SPB           ",
+    "Name":"Spectrum Brands Holdings, Inc.",
+    "LastSale":"96.28",
+    "MarketCap":"$5.13B",
+    "IPOyear":"n/a",
+    "Sector":"Miscellaneous",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spb           "
+  },
+  {
+    "Symbol":"TRK",
+    "Name":"Speedway Motorsports, Inc.",
+    "LastSale":"21.85",
+    "MarketCap":"$902.95M",
+    "IPOyear":"1995",
+    "Sector":"Consumer Services",
+    "industry":"Services-Misc. Amusement & Recreation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/trk"
+  },
+  {
+    "Symbol":"SPR",
+    "Name":"Spirit Aerosystems Holdings, Inc.",
+    "LastSale":"55.02",
+    "MarketCap":"$7.79B",
+    "IPOyear":"2006",
+    "Sector":"Capital Goods",
+    "industry":"Military/Government/Technical",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spr"
+  },
+  {
+    "Symbol":"SRC",
+    "Name":"Spirit Realty Capital, Inc.",
+    "LastSale":"10.42",
+    "MarketCap":"$4.6B",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Building operators",
+    "Summary Quote":"http://www.nasdaq.com/symbol/src"
+  },
+  {
+    "Symbol":"SRLP",
+    "Name":"Sprague Resources LP",
+    "LastSale":"27.24",
+    "MarketCap":"$574.12M",
+    "IPOyear":"2013",
+    "Sector":"Energy",
+    "industry":"Oil Refining/Marketing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/srlp"
+  },
+  {
+    "Symbol":"LEAF",
+    "Name":"Springleaf Holdings, Inc.",
+    "LastSale":"47.41",
+    "MarketCap":"$6.38B",
+    "IPOyear":"2013",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/leaf"
+  },
+  {
+    "Symbol":"S",
+    "Name":"Sprint Corporation",
+    "LastSale":"4.63",
+    "MarketCap":"$18.37B",
+    "IPOyear":"2013",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/s"
+  },
+  {
+    "Symbol":"SPW",
+    "Name":"SPX Corporation",
+    "LastSale":"n/a",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spw"
+  },
+  {
+    "Symbol":"JOE",
+    "Name":"St. Joe Company (The)",
+    "LastSale":"15.26",
+    "MarketCap":"$1.41B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Homebuilding",
+    "Summary Quote":"http://www.nasdaq.com/symbol/joe"
+  },
+  {
+    "Symbol":"STJ",
+    "Name":"St. Jude Medical, Inc.",
+    "LastSale":"74.34",
+    "MarketCap":"$20.9B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stj"
+  },
+  {
+    "Symbol":"STAG",
+    "Name":"Stag Industrial, Inc.",
+    "LastSale":"21.21",
+    "MarketCap":"$1.38B",
+    "IPOyear":"2011",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stag"
+  },
+  {
+    "Symbol":"STAG^A",
+    "Name":"Stag Industrial, Inc.",
+    "LastSale":"27.5",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stag^a"
+  },
+  {
+    "Symbol":"STAG^B",
+    "Name":"Stag Industrial, Inc.",
+    "LastSale":"26.4",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stag^b"
+  },
+  {
+    "Symbol":"SSI",
+    "Name":"Stage Stores, Inc.",
+    "LastSale":"17.54",
+    "MarketCap":"$559.91M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Clothing/Shoe/Accessory Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ssi"
+  },
+  {
+    "Symbol":"SFG",
+    "Name":"StanCorp Financial Group, Inc.",
+    "LastSale":"77.47",
+    "MarketCap":"$3.27B",
+    "IPOyear":"1999",
+    "Sector":"Finance",
+    "industry":"Accident &Health Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sfg"
+  },
+  {
+    "Symbol":"SMP",
+    "Name":"Standard Motor Products, Inc.",
+    "LastSale":"36.98",
+    "MarketCap":"$850.05M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Auto Parts:O.E.M.",
+    "Summary Quote":"http://www.nasdaq.com/symbol/smp"
+  },
+  {
+    "Symbol":"SPF",
+    "Name":"Standard Pacific Corp",
+    "LastSale":"8.36",
+    "MarketCap":"$2.3B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Homebuilding",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spf"
+  },
+  {
+    "Symbol":"SXI",
+    "Name":"Standex International Corporation",
+    "LastSale":"81.16",
+    "MarketCap":"$1.04B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sxi"
+  },
+  {
+    "Symbol":"SWH",
+    "Name":"Stanley Black & Decker, Inc.",
+    "LastSale":"119.2",
+    "MarketCap":"$18.63B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swh"
+  },
+  {
+    "Symbol":"SWJ",
+    "Name":"Stanley Black & Decker, Inc.",
+    "LastSale":"24.99",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swj"
+  },
+  {
+    "Symbol":"SWK",
+    "Name":"Stanley Black & Decker, Inc.",
+    "LastSale":"106.28",
+    "MarketCap":"$16.34B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swk"
+  },
+  {
+    "Symbol":"SWU",
+    "Name":"Stanley Black & Decker, Inc.",
+    "LastSale":"146",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swu"
+  },
+  {
+    "Symbol":"STN",
+    "Name":"Stantec Inc",
+    "LastSale":"28.4",
+    "MarketCap":"$2.67B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Military/Government/Technical",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stn"
+  },
+  {
+    "Symbol":"SGU",
+    "Name":"Star Gas Partners, L.P.",
+    "LastSale":"9.03",
+    "MarketCap":"$517.26M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sgu"
+  },
+  {
+    "Symbol":"SRT",
+    "Name":"StarTek, Inc.",
+    "LastSale":"6.35",
+    "MarketCap":"$97.95M",
+    "IPOyear":"1997",
+    "Sector":"Technology",
+    "industry":"Professional Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/srt"
+  },
+  {
+    "Symbol":"HOT",
+    "Name":"Starwood Hotels & Resorts Worldwide, Inc.",
+    "LastSale":"82.18",
+    "MarketCap":"$14.04B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Hotels/Resorts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/hot"
+  },
+  {
+    "Symbol":"STWD",
+    "Name":"STARWOOD PROPERTY TRUST, INC.",
+    "LastSale":"22.93",
+    "MarketCap":"$5.46B",
+    "IPOyear":"2009",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stwd"
+  },
+  {
+    "Symbol":"SWAY",
+    "Name":"Starwood Waypoint Residential Trust",
+    "LastSale":"24.98",
+    "MarketCap":"$953.56M",
+    "IPOyear":"2014",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sway"
+  },
+  {
+    "Symbol":"STT",
+    "Name":"State Street Corporation",
+    "LastSale":"80.64",
+    "MarketCap":"$33.2B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stt"
+  },
+  {
+    "Symbol":"STT^C",
+    "Name":"State Street Corporation",
+    "LastSale":"24.31",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stt^c"
+  },
+  {
+    "Symbol":"STT^D",
+    "Name":"State Street Corporation",
+    "LastSale":"26.0299",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stt^d"
+  },
+  {
+    "Symbol":"STT^E",
+    "Name":"State Street Corporation",
+    "LastSale":"25.11",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stt^e"
+  },
+  {
+    "Symbol":"STO",
+    "Name":"Statoil ASA",
+    "LastSale":"18.44",
+    "MarketCap":"$58.8B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Integrated oil Companies",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sto"
+  },
+  {
+    "Symbol":"SPLP",
+    "Name":"Steel Partners Holdings LP",
+    "LastSale":"17.71",
+    "MarketCap":"$489.71M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Specialties",
+    "Summary Quote":"http://www.nasdaq.com/symbol/splp"
+  },
+  {
+    "Symbol":"SCS",
+    "Name":"Steelcase Inc.",
+    "LastSale":"18.58",
+    "MarketCap":"$1.67B",
+    "IPOyear":"1998",
+    "Sector":"Consumer Durables",
+    "industry":"Office Equipment/Supplies/Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/scs"
+  },
+  {
+    "Symbol":"SCM",
+    "Name":"Stellus Capital Investment Corporation",
+    "LastSale":"11.96",
+    "MarketCap":"$149.26M",
+    "IPOyear":"2012",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/scm"
+  },
+  {
+    "Symbol":"SCQ",
+    "Name":"Stellus Capital Investment Corporation",
+    "LastSale":"25.3",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/scq"
+  },
+  {
+    "Symbol":"SCL",
+    "Name":"Stepan Company",
+    "LastSale":"53.24",
+    "MarketCap":"$1.19B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Package Goods/Cosmetics",
+    "Summary Quote":"http://www.nasdaq.com/symbol/scl"
+  },
+  {
+    "Symbol":"STE",
+    "Name":"STERIS Corporation",
+    "LastSale":"63.49",
+    "MarketCap":"$3.79B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Industrial Specialties",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ste"
+  },
+  {
+    "Symbol":"STL",
+    "Name":"Sterling Bancorp",
+    "LastSale":"14.07",
+    "MarketCap":"$1.28B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stl"
+  },
+  {
+    "Symbol":"STC",
+    "Name":"Stewart Information Services Corporation",
+    "LastSale":"38.1",
+    "MarketCap":"$913.77M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Specialty Insurers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stc"
+  },
+  {
+    "Symbol":"SF",
+    "Name":"Stifel Financial Corporation",
+    "LastSale":"59.04",
+    "MarketCap":"$4.01B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sf"
+  },
+  {
+    "Symbol":"SFN",
+    "Name":"Stifel Financial Corporation",
+    "LastSale":"25.62",
+    "MarketCap":"$1.26B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sfn"
+  },
+  {
+    "Symbol":"SWC",
+    "Name":"Stillwater Mining Company",
+    "LastSale":"13.27",
+    "MarketCap":"$1.6B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swc"
+  },
+  {
+    "Symbol":"STM",
+    "Name":"STMicroelectronics N.V.",
+    "LastSale":"8.23",
+    "MarketCap":"$7.19B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stm"
+  },
+  {
+    "Symbol":"SGY",
+    "Name":"Stone Energy Corporation",
+    "LastSale":"13.34",
+    "MarketCap":"$762.92M",
+    "IPOyear":"1993",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sgy"
+  },
+  {
+    "Symbol":"EDF",
+    "Name":"Stone Harbor Emerging Markets Income Fund",
+    "LastSale":"15.74",
+    "MarketCap":"$248.4M",
+    "IPOyear":"2010",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/edf"
+  },
+  {
+    "Symbol":"EDI",
+    "Name":"Stone Harbor Emerging Markets Total Income Fund",
+    "LastSale":"14.25",
+    "MarketCap":"$136.99M",
+    "IPOyear":"2012",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/edi"
+  },
+  {
+    "Symbol":"SGM",
+    "Name":"Stonegate Mortgage Corporation",
+    "LastSale":"10.54",
+    "MarketCap":"$271.73M",
+    "IPOyear":"2013",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sgm"
+  },
+  {
+    "Symbol":"STON",
+    "Name":"StoneMor Partners L.P.",
+    "LastSale":"29.96",
+    "MarketCap":"$876.61M",
+    "IPOyear":"2004",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ston"
+  },
+  {
+    "Symbol":"SRI",
+    "Name":"Stoneridge, Inc.",
+    "LastSale":"13.16",
+    "MarketCap":"$368.71M",
+    "IPOyear":"1997",
+    "Sector":"Capital Goods",
+    "industry":"Auto Parts:O.E.M.",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sri"
+  },
+  {
+    "Symbol":"STOR",
+    "Name":"STORE Capital Corporation",
+    "LastSale":"20.86",
+    "MarketCap":"$2.65B",
+    "IPOyear":"2014",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stor"
+  },
+  {
+    "Symbol":"STRI",
+    "Name":"STR Holdings, Inc",
+    "LastSale":"1.15",
+    "MarketCap":"$20.82M",
+    "IPOyear":"2009",
+    "Sector":"Capital Goods",
+    "industry":"Specialty Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/stri"
+  },
+  {
+    "Symbol":"SGL",
+    "Name":"Strategic Global Income Fund, Inc.",
+    "LastSale":"8.52",
+    "MarketCap":"$155.57M",
+    "IPOyear":"1992",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sgl"
+  },
+  {
+    "Symbol":"BEE",
+    "Name":"Strategic Hotels & Resorts Inc",
+    "LastSale":"12.05",
+    "MarketCap":"$3.32B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/bee"
+  },
+  {
+    "Symbol":"SYK",
+    "Name":"Stryker Corporation",
+    "LastSale":"95.67",
+    "MarketCap":"$36.2B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "Summary Quote":"http://www.nasdaq.com/symbol/syk"
+  },
+  {
+    "Symbol":"RGR",
+    "Name":"Sturm, Ruger & Company, Inc.",
+    "LastSale":"55.19",
+    "MarketCap":"$1.03B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Ordnance And Accessories",
+    "Summary Quote":"http://www.nasdaq.com/symbol/rgr"
+  },
+  {
+    "Symbol":"SPH",
+    "Name":"Suburban Propane Partners, L.P.",
+    "LastSale":"41.15",
+    "MarketCap":"$2.49B",
+    "IPOyear":"1996",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sph"
+  },
+  {
+    "Symbol":"SMFG",
+    "Name":"Sumitomo Mitsui Financial Group Inc",
+    "LastSale":"8.96",
+    "MarketCap":"$61.25B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/smfg"
+  },
+  {
+    "Symbol":"INN",
+    "Name":"Summit Hotel Properties, Inc.",
+    "LastSale":"12.95",
+    "MarketCap":"$1.12B",
+    "IPOyear":"2011",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/inn"
+  },
+  {
+    "Symbol":"INN^A",
+    "Name":"Summit Hotel Properties, Inc.",
+    "LastSale":"26.94",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/inn^a"
+  },
+  {
+    "Symbol":"INN^B",
+    "Name":"Summit Hotel Properties, Inc.",
+    "LastSale":"26.9926",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/inn^b"
+  },
+  {
+    "Symbol":"INN^C",
+    "Name":"Summit Hotel Properties, Inc.",
+    "LastSale":"25.58",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/inn^c"
+  },
+  {
+    "Symbol":"SUM",
+    "Name":"Summit Materials, Inc.",
+    "LastSale":"26.47",
+    "MarketCap":"$2.53B",
+    "IPOyear":"2015",
+    "Sector":"Basic Industries",
+    "industry":"Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sum"
+  },
+  {
+    "Symbol":"SMLP",
+    "Name":"Summit Midstream Partners, LP",
+    "LastSale":"33.5",
+    "MarketCap":"$1.41B",
+    "IPOyear":"2012",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/smlp"
+  },
+  {
+    "Symbol":"SUI",
+    "Name":"Sun Communities, Inc.",
+    "LastSale":"62.23",
+    "MarketCap":"$3.34B",
+    "IPOyear":"1993",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sui"
+  },
+  {
+    "Symbol":"SUI^A",
+    "Name":"Sun Communities, Inc.",
+    "LastSale":"26.9",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sui^a"
+  },
+  {
+    "Symbol":"SLF",
+    "Name":"Sun Life Financial Inc.",
+    "LastSale":"34.3",
+    "MarketCap":"$20.99B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/slf"
+  },
+  {
+    "Symbol":"SXCP",
+    "Name":"SunCoke Energy Partners, L.P.",
+    "LastSale":"20.22",
+    "MarketCap":"$794.29M",
+    "IPOyear":"2013",
+    "Sector":"Basic Industries",
+    "industry":"Steel/Iron Ore",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sxcp"
+  },
+  {
+    "Symbol":"SXC",
+    "Name":"SunCoke Energy, Inc.",
+    "LastSale":"14.81",
+    "MarketCap":"$966.06M",
+    "IPOyear":"2011",
+    "Sector":"Basic Industries",
+    "industry":"Steel/Iron Ore",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sxc"
+  },
+  {
+    "Symbol":"SU",
+    "Name":"Suncor Energy  Inc.",
+    "LastSale":"28.25",
+    "MarketCap":"$40.84B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Integrated oil Companies",
+    "Summary Quote":"http://www.nasdaq.com/symbol/su"
+  },
+  {
+    "Symbol":"SUNE",
+    "Name":"SunEdison, Inc.",
+    "LastSale":"29.66",
+    "MarketCap":"$8.14B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sune"
+  },
+  {
+    "Symbol":"SXL",
+    "Name":"Sunoco Logistics Partners LP",
+    "LastSale":"38.95",
+    "MarketCap":"$9.56B",
+    "IPOyear":"2002",
+    "Sector":"Energy",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sxl"
+  },
+  {
+    "Symbol":"SUN",
+    "Name":"Sunoco LP",
+    "LastSale":"45.28",
+    "MarketCap":"$1.62B",
+    "IPOyear":"2012",
+    "Sector":"Energy",
+    "industry":"Oil Refining/Marketing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sun"
+  },
+  {
+    "Symbol":"SHO",
+    "Name":"Sunstone Hotel Investors, Inc.",
+    "LastSale":"15.16",
+    "MarketCap":"$3.16B",
+    "IPOyear":"2004",
+    "Sector":"Consumer Services",
+    "industry":"Hotels/Resorts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sho"
+  },
+  {
+    "Symbol":"SHO^D",
+    "Name":"Sunstone Hotel Investors, Inc.",
+    "LastSale":"26.31",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sho^d"
+  },
+  {
+    "Symbol":"STI",
+    "Name":"SunTrust Banks, Inc.",
+    "LastSale":"43.74",
+    "MarketCap":"$22.58B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sti"
+  },
+  {
+    "Symbol":"STI/WS/A",
+    "Name":"SunTrust Banks, Inc.",
+    "LastSale":"11.5",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sti/ws/a"
+  },
+  {
+    "Symbol":"STI/WS/B",
+    "Name":"SunTrust Banks, Inc.",
+    "LastSale":"5.86",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sti/ws/b"
+  },
+  {
+    "Symbol":"STI^A",
+    "Name":"SunTrust Banks, Inc.",
+    "LastSale":"22.7276",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sti^a"
+  },
+  {
+    "Symbol":"STI^E",
+    "Name":"SunTrust Banks, Inc.",
+    "LastSale":"24.35",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sti^e"
+  },
+  {
+    "Symbol":"SPN",
+    "Name":"Superior Energy Services, Inc.",
+    "LastSale":"22.63",
+    "MarketCap":"$3.4B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oilfield Services/Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/spn"
+  },
+  {
+    "Symbol":"SUP",
+    "Name":"Superior Industries International, Inc.",
+    "LastSale":"19.29",
+    "MarketCap":"$514.82M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Auto Parts:O.E.M.",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sup"
+  },
+  {
+    "Symbol":"SVU",
+    "Name":"SuperValu Inc.",
+    "LastSale":"8.64",
+    "MarketCap":"$2.29B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Food Chains",
+    "Summary Quote":"http://www.nasdaq.com/symbol/svu"
+  },
+  {
+    "Symbol":"SFY",
+    "Name":"Swift Energy Company",
+    "LastSale":"2.23",
+    "MarketCap":"$99.21M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sfy"
+  },
+  {
+    "Symbol":"SWFT",
+    "Name":"Swift Transportation Company",
+    "LastSale":"24",
+    "MarketCap":"$3.42B",
+    "IPOyear":"2010",
+    "Sector":"Transportation",
+    "industry":"Trucking Freight/Courier Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swft"
+  },
+  {
+    "Symbol":"SWZ",
+    "Name":"Swiss Helvetia Fund, Inc. (The)",
+    "LastSale":"12.15",
+    "MarketCap":"$322.67M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/swz"
+  },
+  {
+    "Symbol":"SYA",
+    "Name":"Symetra Financial Corporation",
+    "LastSale":"24.89",
+    "MarketCap":"$2.89B",
+    "IPOyear":"2010",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "Summary Quote":"http://www.nasdaq.com/symbol/sya"
+  },
+  {
+    "Symbol":"SYF",
+    "Name":"Synchrony Financial",
+    "LastSale":"33.12",
+    "MarketCap":"$27.61B",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/syf"
+  },
+  {
+    "Symbol":"SYT",
+    "Name":"Syngenta AG",
+    "LastSale":"86.28",
+    "MarketCap":"$40.1B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Agricultural Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/syt"
+  },
+  {
+    "Symbol":"SNX",
+    "Name":"Synnex Corporation",
+    "LastSale":"82.21",
+    "MarketCap":"$3.25B",
+    "IPOyear":"2003",
+    "Sector":"Technology",
+    "industry":"Retail: Computer Software & Peripheral Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/snx"
+  },
+  {
+    "Symbol":"SNV",
+    "Name":"Synovus Financial Corp.",
+    "LastSale":"30.58",
+    "MarketCap":"$4.07B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/snv"
+  },
+  {
+    "Symbol":"SNV^C",
+    "Name":"Synovus Financial Corp.",
+    "LastSale":"27.9",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/snv^c"
+  },
+  {
+    "Symbol":"GJH",
+    "Name":"SYNTHETIC FIXED INCOME SECURITIES INC",
+    "LastSale":"9.7",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gjh"
+  },
+  {
+    "Symbol":"GJO",
+    "Name":"SYNTHETIC FIXED INCOME SECURITIES INC",
+    "LastSale":"20.39",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gjo"
+  },
+  {
+    "Symbol":"GJS",
+    "Name":"SYNTHETIC FIXED INCOME SECURITIES INC",
+    "LastSale":"18.15",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gjs"
+  },
+  {
+    "Symbol":"GJP",
+    "Name":"Synthetic Fixed-Income Securities, Inc.",
+    "LastSale":"22.12",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gjp"
+  },
+  {
+    "Symbol":"GJR",
+    "Name":"Synthetic Fixed-Income Securities, Inc.",
+    "LastSale":"19.5861",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gjr"
+  },
+  {
+    "Symbol":"GJT",
+    "Name":"Synthetic Fixed-Income Securities, Inc.",
+    "LastSale":"17.8801",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gjt"
+  },
+  {
+    "Symbol":"GJV",
+    "Name":"Synthetic Fixed-Income Securities, Inc.",
+    "LastSale":"25.528",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gjv"
+  },
+  {
+    "Symbol":"SYY",
+    "Name":"Sysco Corporation",
+    "LastSale":"36.92",
+    "MarketCap":"$21.92B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Food Distributors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/syy"
+  },
+  {
+    "Symbol":"SYX",
+    "Name":"Systemax Inc.",
+    "LastSale":"8.57",
+    "MarketCap":"$315.53M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Catalog/Specialty Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/syx"
+  },
+  {
+    "Symbol":"DATA",
+    "Name":"Tableau Software, Inc.",
+    "LastSale":"119.08",
+    "MarketCap":"$8.47B",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/data"
+  },
+  {
+    "Symbol":"TAHO",
+    "Name":"Tahoe Resources, Inc.",
+    "LastSale":"14.56",
+    "MarketCap":"$3.26B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Precious Metals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/taho"
+  },
+  {
+    "Symbol":"TWN",
+    "Name":"Taiwan Fund, Inc. (The)",
+    "LastSale":"17.48",
+    "MarketCap":"$143.7M",
+    "IPOyear":"1986",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/twn"
+  },
+  {
+    "Symbol":"TSM",
+    "Name":"Taiwan Semiconductor Manufacturing Company Ltd.",
+    "LastSale":"23.67",
+    "MarketCap":"$122.75B",
+    "IPOyear":"1997",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tsm"
+  },
+  {
+    "Symbol":"XRS",
+    "Name":"TAL Education Group",
+    "LastSale":"38.11",
+    "MarketCap":"$3.05B",
+    "IPOyear":"2010",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/xrs"
+  },
+  {
+    "Symbol":"TAL",
+    "Name":"TAL International Group, Inc.",
+    "LastSale":"35.55",
+    "MarketCap":"$1.18B",
+    "IPOyear":"2005",
+    "Sector":"Technology",
+    "industry":"Diversified Commercial Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tal"
+  },
+  {
+    "Symbol":"TLN",
+    "Name":"Talen Energy Corporation",
+    "LastSale":"18.13",
+    "MarketCap":"$1.51B",
+    "IPOyear":"2015",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tln"
+  },
+  {
+    "Symbol":"TEGP",
+    "Name":"Tallgrass Energy GP, LP",
+    "LastSale":"31.77",
+    "MarketCap":"$5B",
+    "IPOyear":"2015",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tegp"
+  },
+  {
+    "Symbol":"TEP",
+    "Name":"Tallgrass Energy Partners, LP",
+    "LastSale":"49.85",
+    "MarketCap":"$3B",
+    "IPOyear":"2013",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tep"
+  },
+  {
+    "Symbol":"SKT",
+    "Name":"Tanger Factory Outlet Centers, Inc.",
+    "LastSale":"32.88",
+    "MarketCap":"$3.15B",
+    "IPOyear":"1993",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/skt"
+  },
+  {
+    "Symbol":"TAOM",
+    "Name":"Taomee Holdings Limited",
+    "LastSale":"3.72",
+    "MarketCap":"$131.47M",
+    "IPOyear":"2011",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/taom"
+  },
+  {
+    "Symbol":"NGLS",
+    "Name":"Targa Resources Partners LP",
+    "LastSale":"39.08",
+    "MarketCap":"$7.07B",
+    "IPOyear":"2007",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ngls"
+  },
+  {
+    "Symbol":"TRGP",
+    "Name":"Targa Resources, Inc.",
+    "LastSale":"89.27",
+    "MarketCap":"$5B",
+    "IPOyear":"2010",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/trgp"
+  },
+  {
+    "Symbol":"TGT",
+    "Name":"Target Corporation",
+    "LastSale":"79.47",
+    "MarketCap":"$50.74B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Department/Specialty Retail Stores",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tgt"
+  },
+  {
+    "Symbol":"TARO",
+    "Name":"Taro Pharmaceutical Industries Ltd.",
+    "LastSale":"143.8",
+    "MarketCap":"$6.16B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/taro"
+  },
+  {
+    "Symbol":"TTM",
+    "Name":"Tata Motors Ltd",
+    "LastSale":"34.33",
+    "MarketCap":"$17.49B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Auto Manufacturing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ttm"
+  },
+  {
+    "Symbol":"TCO",
+    "Name":"Taubman Centers, Inc.",
+    "LastSale":"72.3",
+    "MarketCap":"$4.47B",
+    "IPOyear":"1992",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tco"
+  },
+  {
+    "Symbol":"TCO^J",
+    "Name":"Taubman Centers, Inc.",
+    "LastSale":"25.4683",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tco^j"
+  },
+  {
+    "Symbol":"TCO^K",
+    "Name":"Taubman Centers, Inc.",
+    "LastSale":"25.35",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tco^k"
+  },
+  {
+    "Symbol":"TMHC",
+    "Name":"Taylor Morrison Home Corporation",
+    "LastSale":"20.09",
+    "MarketCap":"$2.46B",
+    "IPOyear":"2013",
+    "Sector":"Capital Goods",
+    "industry":"Homebuilding",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tmhc"
+  },
+  {
+    "Symbol":"TCP",
+    "Name":"TC PipeLines, LP",
+    "LastSale":"59.79",
+    "MarketCap":"$3.82B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tcp"
+  },
+  {
+    "Symbol":"TCB",
+    "Name":"TCF Financial Corporation",
+    "LastSale":"16.97",
+    "MarketCap":"$2.87B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tcb"
+  },
+  {
+    "Symbol":"TCB/WS",
+    "Name":"TCF Financial Corporation",
+    "LastSale":"2.95",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tcb/ws"
+  },
+  {
+    "Symbol":"TCB^B",
+    "Name":"TCF Financial Corporation",
+    "LastSale":"26.492",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tcb^b"
+  },
+  {
+    "Symbol":"TCB^C",
+    "Name":"TCF Financial Corporation",
+    "LastSale":"24.91",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tcb^c"
+  },
+  {
+    "Symbol":"TCPI",
+    "Name":"TCP International Holdings Ltd.",
+    "LastSale":"4.33",
+    "MarketCap":"$121.44M",
+    "IPOyear":"2014",
+    "Sector":"Consumer Durables",
+    "industry":"Building Products",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tcpi"
+  },
+  {
+    "Symbol":"TSI",
+    "Name":"TCW Strategic Income Fund, Inc.",
+    "LastSale":"5.31",
+    "MarketCap":"$253.22M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tsi"
+  },
+  {
+    "Symbol":"AMTD",
+    "Name":"TD Ameritrade Holding Corporation",
+    "LastSale":"38.32",
+    "MarketCap":"$20.83B",
+    "IPOyear":"1997",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "Summary Quote":"http://www.nasdaq.com/symbol/amtd"
+  },
+  {
+    "Symbol":"TEL",
+    "Name":"TE Connectivity Ltd.",
+    "LastSale":"68.81",
+    "MarketCap":"$27.98B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Electronic Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tel"
+  },
+  {
+    "Symbol":"TMH",
+    "Name":"Team Health Holdings, Inc.",
+    "LastSale":"58.67",
+    "MarketCap":"$4.23B",
+    "IPOyear":"2009",
+    "Sector":"Technology",
+    "industry":"Professional Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tmh"
+  },
+  {
+    "Symbol":"TISI",
+    "Name":"Team, Inc.",
+    "LastSale":"41.1",
+    "MarketCap":"$854.42M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tisi"
+  },
+  {
+    "Symbol":"TCK",
+    "Name":"Teck Resources Ltd",
+    "LastSale":"11.33",
+    "MarketCap":"$6.42B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tck"
+  },
+  {
+    "Symbol":"TE",
+    "Name":"TECO Energy, Inc.",
+    "LastSale":"17.8",
+    "MarketCap":"$4.19B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "Summary Quote":"http://www.nasdaq.com/symbol/te"
+  },
+  {
+    "Symbol":"TK",
+    "Name":"Teekay Corporation",
+    "LastSale":"44.26",
+    "MarketCap":"$3.21B",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tk"
+  },
+  {
+    "Symbol":"TGP",
+    "Name":"Teekay LNG Partners L.P.",
+    "LastSale":"33.37",
+    "MarketCap":"$2.62B",
+    "IPOyear":"2005",
+    "Sector":"Consumer Services",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tgp"
+  },
+  {
+    "Symbol":"TOO",
+    "Name":"Teekay Offshore Partners L.P.",
+    "LastSale":"21.11",
+    "MarketCap":"$1.95B",
+    "IPOyear":"2006",
+    "Sector":"Consumer Services",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/too"
+  },
+  {
+    "Symbol":"TOO^A",
+    "Name":"Teekay Offshore Partners L.P.",
+    "LastSale":"21.451",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/too^a"
+  },
+  {
+    "Symbol":"TOO^B",
+    "Name":"Teekay Offshore Partners L.P.",
+    "LastSale":"23.9",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/too^b"
+  },
+  {
+    "Symbol":"TNK",
+    "Name":"Teekay Tankers Ltd.",
+    "LastSale":"7.51",
+    "MarketCap":"$841.12M",
+    "IPOyear":"2007",
+    "Sector":"Consumer Services",
+    "industry":"Marine Transportation",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tnk"
+  },
+  {
+    "Symbol":"TRC",
+    "Name":"Tejon Ranch Co",
+    "LastSale":"25.85",
+    "MarketCap":"$534.08M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Real Estate",
+    "Summary Quote":"http://www.nasdaq.com/symbol/trc"
+  },
+  {
+    "Symbol":"HQH",
+    "Name":"Tekla Healthcare Investors",
+    "LastSale":"35.5",
+    "MarketCap":"$1B",
+    "IPOyear":"1987",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/hqh"
+  },
+  {
+    "Symbol":"THQ",
+    "Name":"Tekla Healthcare Opportunies Fund",
+    "LastSale":"20.17",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/thq"
+  },
+  {
+    "Symbol":"HQL",
+    "Name":"Tekla Life Sciences Investors",
+    "LastSale":"27.8",
+    "MarketCap":"$424.99M",
+    "IPOyear":"1992",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/hql"
+  },
+  {
+    "Symbol":"TEO",
+    "Name":"Telecom Argentina Stet - France Telecom S.A.",
+    "LastSale":"19.38",
+    "MarketCap":"$3.76B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/teo"
+  },
+  {
+    "Symbol":"TI",
+    "Name":"Telecom Italia S.P.A.",
+    "LastSale":"12.88",
+    "MarketCap":"$25.11B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ti"
+  },
+  {
+    "Symbol":"TI/A",
+    "Name":"Telecom Italia S.P.A.",
+    "LastSale":"10.34",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ti/a"
+  },
+  {
+    "Symbol":"TDY",
+    "Name":"Teledyne Technologies Incorporated",
+    "LastSale":"106.04",
+    "MarketCap":"$3.75B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tdy"
+  },
+  {
+    "Symbol":"TFX",
+    "Name":"Teleflex Incorporated",
+    "LastSale":"130.91",
+    "MarketCap":"$5.44B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tfx"
+  },
+  {
+    "Symbol":"VIV",
+    "Name":"Telefonica Brasil S.A.",
+    "LastSale":"13.5",
+    "MarketCap":"$15.54B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/viv"
+  },
+  {
+    "Symbol":"TEF",
+    "Name":"Telefonica SA",
+    "LastSale":"14.57",
+    "MarketCap":"$67.86B",
+    "IPOyear":"1988",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tef"
+  },
+  {
+    "Symbol":"TDA",
+    "Name":"Telephone and Data Systems, Inc.",
+    "LastSale":"23.12",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tda"
+  },
+  {
+    "Symbol":"TDE",
+    "Name":"Telephone and Data Systems, Inc.",
+    "LastSale":"25.1689",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tde"
+  },
+  {
+    "Symbol":"TDI",
+    "Name":"Telephone and Data Systems, Inc.",
+    "LastSale":"25.2",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tdi"
+  },
+  {
+    "Symbol":"TDJ",
+    "Name":"Telephone and Data Systems, Inc.",
+    "LastSale":"25.3",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tdj"
+  },
+  {
+    "Symbol":"TDS",
+    "Name":"Telephone and Data Systems, Inc.",
+    "LastSale":"30.19",
+    "MarketCap":"$3.26B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tds"
+  },
+  {
+    "Symbol":"TU",
+    "Name":"TELUS Corporation",
+    "LastSale":"33.22",
+    "MarketCap":"$20.11B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tu"
+  },
+  {
+    "Symbol":"TDF",
+    "Name":"Templeton Dragon Fund, Inc.",
+    "LastSale":"26.87",
+    "MarketCap":"$957.91M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tdf"
+  },
+  {
+    "Symbol":"EMF",
+    "Name":"Templeton Emerging Markets Fund",
+    "LastSale":"14.9",
+    "MarketCap":"$268.78M",
+    "IPOyear":"1987",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/emf"
+  },
+  {
+    "Symbol":"TEI",
+    "Name":"Templeton Emerging Markets Income Fund, Inc.",
+    "LastSale":"10.98",
+    "MarketCap":"$526.6M",
+    "IPOyear":"1993",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tei"
+  },
+  {
+    "Symbol":"GIM",
+    "Name":"Templeton Global Income Fund, Inc.",
+    "LastSale":"7.12",
+    "MarketCap":"$955.11M",
+    "IPOyear":"1988",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/gim"
+  },
+  {
+    "Symbol":"TRF",
+    "Name":"Templeton Russia Fund, Inc.",
+    "LastSale":"10.6631",
+    "MarketCap":"$57.1M",
+    "IPOyear":"1995",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/trf"
+  },
+  {
+    "Symbol":"TPX",
+    "Name":"Tempur Sealy International, Inc.",
+    "LastSale":"64.38",
+    "MarketCap":"$3.93B",
+    "IPOyear":"2003",
+    "Sector":"Consumer Durables",
+    "industry":"Home Furnishings",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tpx"
+  },
+  {
+    "Symbol":"TS",
+    "Name":"Tenaris S.A.",
+    "LastSale":"28.85",
+    "MarketCap":"$17.03B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Steel/Iron Ore",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ts"
+  },
+  {
+    "Symbol":"THC",
+    "Name":"Tenet Healthcare Corporation",
+    "LastSale":"51.82",
+    "MarketCap":"$5.14B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Hospital/Nursing Management",
+    "Summary Quote":"http://www.nasdaq.com/symbol/thc"
+  },
+  {
+    "Symbol":"TNC",
+    "Name":"Tennant Company",
+    "LastSale":"65.5",
+    "MarketCap":"$1.21B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tnc"
+  },
+  {
+    "Symbol":"TEN",
+    "Name":"Tenneco Inc.",
+    "LastSale":"59.86",
+    "MarketCap":"$3.67B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Auto Parts:O.E.M.",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ten"
+  },
+  {
+    "Symbol":"TVC",
+    "Name":"Tennessee Valley Authority",
+    "LastSale":"24.32",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tvc"
+  },
+  {
+    "Symbol":"TVE",
+    "Name":"Tennessee Valley Authority",
+    "LastSale":"24.11",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tve"
+  },
+  {
+    "Symbol":"TDC",
+    "Name":"Teradata Corporation",
+    "LastSale":"38.57",
+    "MarketCap":"$5.48B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Manufacturing",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tdc"
+  },
+  {
+    "Symbol":"TER",
+    "Name":"Teradyne, Inc.",
+    "LastSale":"21.02",
+    "MarketCap":"$4.51B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Electrical Products",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ter"
+  },
+  {
+    "Symbol":"TEX",
+    "Name":"Terex Corporation",
+    "LastSale":"24.88",
+    "MarketCap":"$2.61B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Construction/Ag Equipment/Trucks",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tex"
+  },
+  {
+    "Symbol":"TX",
+    "Name":"Ternium S.A.",
+    "LastSale":"20.11",
+    "MarketCap":"$4.03B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Steel/Iron Ore",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tx"
+  },
+  {
+    "Symbol":"TNH",
+    "Name":"Terra Nitrogen Company, L.P.",
+    "LastSale":"121.98",
+    "MarketCap":"$2.26B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Agricultural Chemicals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tnh"
+  },
+  {
+    "Symbol":"TRNO",
+    "Name":"Terreno Realty Corporation",
+    "LastSale":"20.59",
+    "MarketCap":"$885.61M",
+    "IPOyear":"2010",
+    "Sector":"Finance",
+    "industry":"Real Estate",
+    "Summary Quote":"http://www.nasdaq.com/symbol/trno"
+  },
+  {
+    "Symbol":"TRNO^A",
+    "Name":"Terreno Realty Corporation",
+    "LastSale":"26.5",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/trno^a"
+  },
+  {
+    "Symbol":"TSO",
+    "Name":"Tesoro Corporation",
+    "LastSale":"83.55",
+    "MarketCap":"$10.51B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Integrated oil Companies",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tso"
+  },
+  {
+    "Symbol":"TLLP",
+    "Name":"Tesoro Logistics LP",
+    "LastSale":"57.09",
+    "MarketCap":"$4.6B",
+    "IPOyear":"2011",
+    "Sector":"Energy",
+    "industry":"Natural Gas Distribution",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tllp"
+  },
+  {
+    "Symbol":"TTI",
+    "Name":"Tetra Technologies, Inc.",
+    "LastSale":"6.75",
+    "MarketCap":"$537.56M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tti"
+  },
+  {
+    "Symbol":"TEVA",
+    "Name":"Teva Pharmaceutical Industries Limited",
+    "LastSale":"61.63",
+    "MarketCap":"$52.26B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "Summary Quote":"http://www.nasdaq.com/symbol/teva"
+  },
+  {
+    "Symbol":"TPL",
+    "Name":"Texas Pacific Land Trust",
+    "LastSale":"152.95",
+    "MarketCap":"$1.26B",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tpl"
+  },
+  {
+    "Symbol":"TGH",
+    "Name":"Textainer Group Holdings Limited",
+    "LastSale":"28.36",
+    "MarketCap":"$1.62B",
+    "IPOyear":"2007",
+    "Sector":"Technology",
+    "industry":"Diversified Commercial Services",
+    "Summary Quote":"http://www.nasdaq.com/symbol/tgh"
+  },
+  {
+    "Symbol":"TXT",
+    "Name":"Textron Inc.",
+    "LastSale":"45.96",
+    "MarketCap":"$12.76B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Aerospace",
+    "Summary Quote":"http://www.nasdaq.com/symbol/txt"
+  },
+  {
+    "Symbol":"TXTR",
+    "Name":"Textura Corporation",
+    "LastSale":"29.59",
+    "MarketCap":"$759.78M",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "Summary Quote":"http://www.nasdaq.com/symbol/txtr"
+  },
+  {
+    "Symbol":"TTF",
+    "Name":"Thai Fund, Inc. (The)",
+    "LastSale":"8.58",
+    "MarketCap":"$107.34M",
+    "IPOyear":"1988",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "Summary Quote":"http://www.nasdaq.com/symbol/ttf"
+  },
+  {
+    "Symbol":"AES",
+    "Name":"The AES Corporation",
+    "LastSale":"13.35",
+    "MarketCap":"$9.11B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Electric Utilities: Central",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aes"
+  },
+  {
+    "Symbol":"AES^C",
+    "Name":"The AES Corporation",
+    "LastSale":"50.946",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Electric Utilities: Central",
+    "Summary Quote":"http://www.nasdaq.com/symbol/aes^c"
+  },
+  {
+    "Symbol":"BX",
+    "Name":"The Blackstone Group L.P.",
+    "LastSale":"42.5",
+    "MarketCap":"$50.27B",
+    "IPOyear":"2007",
+    "Sector":"Finance",
+    "industry":"Investment Managers",
+    "Summary Quote":"http://www.nasdaq.com/symbol/bx"
+  },
+  {
+    "Symbol":"SCHW",
+    "Name":"The Charles Schwab Corporation",
+    "LastSale":"33.36",
+    "MarketCap":"$43.82B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "Summary Quote":"http://www.nasdaq.com/symbol/schw"
+  }
+]

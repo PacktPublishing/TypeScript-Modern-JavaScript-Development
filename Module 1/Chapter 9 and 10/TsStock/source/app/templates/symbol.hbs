@@ -1,0 +1,42 @@
+<div class="panel panel-default">
+  <div class="panel-body">
+    <h2>{{quote.Name}}</h2>
+    <div id="chart_container">
+      <!-- chart goes here -->
+    </div>
+    <table class="table table-responsibe table-condensed">
+      <thead>
+        <tr>
+          <th>Symbol</th>
+          <th>Last Price</th>
+          <th>Change</th>
+          <th>Change Percent</th>
+          <th>High</th>
+          <th>Low</th>
+          <th>Open</th>
+          <th>Date and Time</th>
+          <th>Market Capital</th>
+          <th>Volume</th>
+          <th>Change YTD</th>
+          <th>Change Percentage YTD</th>
+        </tr>
+      </thead>
+      <tbody>
+          <tr>
+            <td><span class="label label-default">{{quote.Symbol}}</span></td>
+            <td>{{quote.LastPrice}}</td>
+            <td>{{quote.Change}}</td>
+            <td>{{quote.ChangePercent}}</td>
+            <td>{{quote.High}}</td>
+            <td>{{quote.Low}}</td>
+            <td>{{quote.Open}}</td>
+            <td>{{quote.Timestamp}}</td>
+            <td>{{quote.MarketCap}}</td>
+            <td>{{quote.Volume}}</td>
+            <td>{{quote.ChangeYTD}}</td>
+            <td>{{quote.ChangePercentYTD}}</td>
+          </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

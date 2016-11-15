@@ -1,0 +1,5002 @@
+[
+  {
+    "Symbol":"TFSC",
+    "Name":"1347 Capital Corp.",
+    "LastSale":"9.65",
+    "MarketCap":"$57.4M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/tfsc"
+  },
+  {
+    "Symbol":"TFSCR",
+    "Name":"1347 Capital Corp.",
+    "LastSale":"0.3995",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/tfscr"
+  },
+  {
+    "Symbol":"TFSCU",
+    "Name":"1347 Capital Corp.",
+    "LastSale":"10.15",
+    "MarketCap":"$42.43M",
+    "IPOyear":"2014",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/tfscu"
+  },
+  {
+    "Symbol":"TFSCW",
+    "Name":"1347 Capital Corp.",
+    "LastSale":"0.2531",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/tfscw"
+  },
+  {
+    "Symbol":"PIH",
+    "Name":"1347 Property Insurance Holdings, Inc.",
+    "LastSale":"7.85",
+    "MarketCap":"$49.91M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/pih"
+  },
+  {
+    "Symbol":"FLWS",
+    "Name":"1-800 FLOWERS.COM, Inc.",
+    "LastSale":"9.95",
+    "MarketCap":"$649.36M",
+    "IPOyear":"1999",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/flws"
+  },
+  {
+    "Symbol":"FCTY",
+    "Name":"1st Century Bancshares, Inc",
+    "LastSale":"7.26",
+    "MarketCap":"$73.81M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/fcty"
+  },
+  {
+    "Symbol":"FCCY",
+    "Name":"1st Constitution Bancorp (NJ)",
+    "LastSale":"11.98",
+    "MarketCap":"$89.9M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/fccy"
+  },
+  {
+    "Symbol":"SRCE",
+    "Name":"1st Source Corporation",
+    "LastSale":"33.78",
+    "MarketCap":"$805.76M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/srce"
+  },
+  {
+    "Symbol":"VNET",
+    "Name":"21Vianet Group, Inc.",
+    "LastSale":"21.71",
+    "MarketCap":"$1.43B",
+    "IPOyear":"2011",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/vnet"
+  },
+  {
+    "Symbol":"TWOU",
+    "Name":"2U, Inc.",
+    "LastSale":"28.41",
+    "MarketCap":"$1.17B",
+    "IPOyear":"2014",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/twou"
+  },
+  {
+    "Symbol":"DGLD",
+    "Name":"3X Inverse Gold ETN Velocityshares",
+    "LastSale":"73.19",
+    "MarketCap":"$9.95M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/dgld"
+  },
+  {
+    "Symbol":"JOBS",
+    "Name":"51job, Inc.",
+    "LastSale":"35.39",
+    "MarketCap":"$2.1B",
+    "IPOyear":"2004",
+    "Sector":"Technology",
+    "industry":"Diversified Commercial Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/jobs"
+  },
+  {
+    "Symbol":"SIXD",
+    "Name":"6D Global Technologies, Inc.",
+    "LastSale":"9.07",
+    "MarketCap":"$709.41M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Professional Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/sixd"
+  },
+  {
+    "Symbol":"EGHT",
+    "Name":"8x8 Inc",
+    "LastSale":"9.01",
+    "MarketCap":"$794.25M",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/eght"
+  },
+  {
+    "Symbol":"AVHI",
+    "Name":"A V Homes, Inc.",
+    "LastSale":"15.97",
+    "MarketCap":"$356.72M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Homebuilding",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/avhi"
+  },
+  {
+    "Symbol":"SHLM",
+    "Name":"A. Schulman, Inc.",
+    "LastSale":"44.99",
+    "MarketCap":"$1.32B",
+    "IPOyear":"1972",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/shlm"
+  },
+  {
+    "Symbol":"AAON",
+    "Name":"AAON, Inc.",
+    "LastSale":"24",
+    "MarketCap":"$1.3B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aaon"
+  },
+  {
+    "Symbol":"ABAX",
+    "Name":"ABAXIS, Inc.",
+    "LastSale":"51.57",
+    "MarketCap":"$1.17B",
+    "IPOyear":"1992",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abax"
+  },
+  {
+    "Symbol":"ABY",
+    "Name":"Abengoa Yield plc",
+    "LastSale":"35.99",
+    "MarketCap":"$2.88B",
+    "IPOyear":"2014",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aby"
+  },
+  {
+    "Symbol":"ABGB",
+    "Name":"Abengoa, S.A.",
+    "LastSale":"17.22",
+    "MarketCap":"$2.89B",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Military/Government/Technical",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abgb"
+  },
+  {
+    "Symbol":"ABMD",
+    "Name":"ABIOMED, Inc.",
+    "LastSale":"63.44",
+    "MarketCap":"$2.65B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abmd"
+  },
+  {
+    "Symbol":"AXAS",
+    "Name":"Abraxas Petroleum Corporation",
+    "LastSale":"3.04",
+    "MarketCap":"$322.82M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/axas"
+  },
+  {
+    "Symbol":"ACTG",
+    "Name":"Acacia Research Corporation",
+    "LastSale":"9.97",
+    "MarketCap":"$508.96M",
+    "IPOyear":"n/a",
+    "Sector":"Miscellaneous",
+    "industry":"Multi-Sector Companies",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/actg"
+  },
+  {
+    "Symbol":"ACHC",
+    "Name":"Acadia Healthcare Company, Inc.",
+    "LastSale":"73.98",
+    "MarketCap":"$5.3B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/achc"
+  },
+  {
+    "Symbol":"ACAD",
+    "Name":"ACADIA Pharmaceuticals Inc.",
+    "LastSale":"39.78",
+    "MarketCap":"$3.99B",
+    "IPOyear":"2004",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acad"
+  },
+  {
+    "Symbol":"ACST",
+    "Name":"Acasti Pharma, Inc.",
+    "LastSale":"0.3",
+    "MarketCap":"$31.93M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acst"
+  },
+  {
+    "Symbol":"AXDX",
+    "Name":"Accelerate Diagnostics, Inc.",
+    "LastSale":"26.75",
+    "MarketCap":"$1.19B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Biotechnology: Laboratory Analytical Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/axdx"
+  },
+  {
+    "Symbol":"XLRN",
+    "Name":"Acceleron Pharma Inc.",
+    "LastSale":"31.8",
+    "MarketCap":"$1.04B",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/xlrn"
+  },
+  {
+    "Symbol":"ANCX",
+    "Name":"Access National Corporation",
+    "LastSale":"21.6",
+    "MarketCap":"$227.22M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ancx"
+  },
+  {
+    "Symbol":"ARAY",
+    "Name":"Accuray Incorporated",
+    "LastSale":"6.66",
+    "MarketCap":"$526.05M",
+    "IPOyear":"2007",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aray"
+  },
+  {
+    "Symbol":"VXDN",
+    "Name":"AccuShares Spot CBOE VIX Down Shares",
+    "LastSale":"22.53",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/vxdn"
+  },
+  {
+    "Symbol":"VXUP",
+    "Name":"AccuShares Spot CBOE VIX Up Shares",
+    "LastSale":"27.47",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/vxup"
+  },
+  {
+    "Symbol":"ACRX",
+    "Name":"AcelRx Pharmaceuticals, Inc.",
+    "LastSale":"4.115",
+    "MarketCap":"$182.44M",
+    "IPOyear":"2011",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acrx"
+  },
+  {
+    "Symbol":"ACET",
+    "Name":"Aceto Corporation",
+    "LastSale":"24.26",
+    "MarketCap":"$706.35M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Other Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acet"
+  },
+  {
+    "Symbol":"AKAO",
+    "Name":"Achaogen, Inc.",
+    "LastSale":"5.65",
+    "MarketCap":"$101.98M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/akao"
+  },
+  {
+    "Symbol":"ACHN",
+    "Name":"Achillion Pharmaceuticals, Inc.",
+    "LastSale":"8.44",
+    "MarketCap":"$992.2M",
+    "IPOyear":"2006",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/achn"
+  },
+  {
+    "Symbol":"ACIW",
+    "Name":"ACI Worldwide, Inc.",
+    "LastSale":"25.03",
+    "MarketCap":"$2.92B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aciw"
+  },
+  {
+    "Symbol":"ACNB",
+    "Name":"ACNB Corporation",
+    "LastSale":"20.52",
+    "MarketCap":"$123.53M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acnb"
+  },
+  {
+    "Symbol":"ACOR",
+    "Name":"Acorda Therapeutics, Inc.",
+    "LastSale":"31.03",
+    "MarketCap":"$1.33B",
+    "IPOyear":"2006",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acor"
+  },
+  {
+    "Symbol":"ACFN",
+    "Name":"Acorn Energy, Inc.",
+    "LastSale":"0.5729",
+    "MarketCap":"$15.17M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Military/Government/Technical",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acfn"
+  },
+  {
+    "Symbol":"ACTS",
+    "Name":"Actions Semiconductor Co., Ltd.",
+    "LastSale":"1.63",
+    "MarketCap":"$140.18M",
+    "IPOyear":"2005",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acts"
+  },
+  {
+    "Symbol":"ACPW",
+    "Name":"Active Power, Inc.",
+    "LastSale":"2.03",
+    "MarketCap":"$46.91M",
+    "IPOyear":"2000",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acpw"
+  },
+  {
+    "Symbol":"ATVI",
+    "Name":"Activision Blizzard, Inc",
+    "LastSale":"25.3",
+    "MarketCap":"$18.37B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atvi"
+  },
+  {
+    "Symbol":"ACTA",
+    "Name":"Actua Corporation",
+    "LastSale":"13.41",
+    "MarketCap":"$544.35M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acta"
+  },
+  {
+    "Symbol":"ACUR",
+    "Name":"Acura Pharmaceuticals, Inc.",
+    "LastSale":"0.8773",
+    "MarketCap":"$43.18M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acur"
+  },
+  {
+    "Symbol":"ACXM",
+    "Name":"Acxiom Corporation",
+    "LastSale":"18.41",
+    "MarketCap":"$1.44B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acxm"
+  },
+  {
+    "Symbol":"ADMS",
+    "Name":"Adamas Pharmaceuticals, Inc.",
+    "LastSale":"19.94",
+    "MarketCap":"$355.39M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adms"
+  },
+  {
+    "Symbol":"ADMP",
+    "Name":"Adamis Pharmaceuticals Corporation",
+    "LastSale":"4.12",
+    "MarketCap":"$55.3M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/admp"
+  },
+  {
+    "Symbol":"ADAP",
+    "Name":"Adaptimmune Therapeutics plc",
+    "LastSale":"17.41",
+    "MarketCap":"$195.86M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adap"
+  },
+  {
+    "Symbol":"ADUS",
+    "Name":"Addus HomeCare Corporation",
+    "LastSale":"27.94",
+    "MarketCap":"$309.84M",
+    "IPOyear":"2009",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adus"
+  },
+  {
+    "Symbol":"AEY",
+    "Name":"ADDvantage Technologies Group, Inc.",
+    "LastSale":"2.32",
+    "MarketCap":"$23.37M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Office Equipment/Supplies/Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aey"
+  },
+  {
+    "Symbol":"ADEP",
+    "Name":"Adept Technology, Inc.",
+    "LastSale":"6.34",
+    "MarketCap":"$83.52M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adep"
+  },
+  {
+    "Symbol":"ADMA",
+    "Name":"ADMA Biologics Inc",
+    "LastSale":"8.51",
+    "MarketCap":"$91.1M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adma"
+  },
+  {
+    "Symbol":"ADBE",
+    "Name":"Adobe Systems Incorporated",
+    "LastSale":"79.65",
+    "MarketCap":"$39.85B",
+    "IPOyear":"1986",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adbe"
+  },
+  {
+    "Symbol":"ADTN",
+    "Name":"ADTRAN, Inc.",
+    "LastSale":"16.8",
+    "MarketCap":"$895.76M",
+    "IPOyear":"1994",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adtn"
+  },
+  {
+    "Symbol":"ADRO",
+    "Name":"Aduro Biotech, Inc.",
+    "LastSale":"33.37",
+    "MarketCap":"$2.08B",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adro"
+  },
+  {
+    "Symbol":"AEIS",
+    "Name":"Advanced Energy Industries, Inc.",
+    "LastSale":"29.34",
+    "MarketCap":"$1.2B",
+    "IPOyear":"1995",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aeis"
+  },
+  {
+    "Symbol":"AMD",
+    "Name":"Advanced Micro Devices, Inc.",
+    "LastSale":"2.32",
+    "MarketCap":"$1.81B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amd"
+  },
+  {
+    "Symbol":"ADXS",
+    "Name":"Advaxis, Inc.",
+    "LastSale":"24.46",
+    "MarketCap":"$736.79M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adxs"
+  },
+  {
+    "Symbol":"ADXSW",
+    "Name":"Advaxis, Inc.",
+    "LastSale":"19.63",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adxsw"
+  },
+  {
+    "Symbol":"ADVS",
+    "Name":"Advent Software, Inc.",
+    "LastSale":"43.7",
+    "MarketCap":"$2.3B",
+    "IPOyear":"1995",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/advs"
+  },
+  {
+    "Symbol":"MULT",
+    "Name":"AdvisorShares Sunrise Global Multi-Strategy ETF",
+    "LastSale":"23.83",
+    "MarketCap":"$2.38M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/mult"
+  },
+  {
+    "Symbol":"YPRO",
+    "Name":"AdvisorShares YieldPro ETF",
+    "LastSale":"23.1212",
+    "MarketCap":"$65.9M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ypro"
+  },
+  {
+    "Symbol":"AEGR",
+    "Name":"Aegerion Pharmaceuticals, Inc.",
+    "LastSale":"19.17",
+    "MarketCap":"$547.72M",
+    "IPOyear":"2010",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aegr"
+  },
+  {
+    "Symbol":"AEGN",
+    "Name":"Aegion Corp",
+    "LastSale":"18.36",
+    "MarketCap":"$673.22M",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Water Supply",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aegn"
+  },
+  {
+    "Symbol":"AEHR",
+    "Name":"Aehr Test Systems",
+    "LastSale":"2.21",
+    "MarketCap":"$28.09M",
+    "IPOyear":"1997",
+    "Sector":"Capital Goods",
+    "industry":"Electrical Products",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aehr"
+  },
+  {
+    "Symbol":"AMTX",
+    "Name":"Aemetis, Inc",
+    "LastSale":"4.06",
+    "MarketCap":"$80.62M",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amtx"
+  },
+  {
+    "Symbol":"AEPI",
+    "Name":"AEP Industries Inc.",
+    "LastSale":"55.28",
+    "MarketCap":"$280.99M",
+    "IPOyear":"1986",
+    "Sector":"Capital Goods",
+    "industry":"Specialty Chemicals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aepi"
+  },
+  {
+    "Symbol":"AERI",
+    "Name":"Aerie Pharmaceuticals, Inc.",
+    "LastSale":"13.23",
+    "MarketCap":"$336.35M",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aeri"
+  },
+  {
+    "Symbol":"AVAV",
+    "Name":"AeroVironment, Inc.",
+    "LastSale":"27.1",
+    "MarketCap":"$632.27M",
+    "IPOyear":"2007",
+    "Sector":"Capital Goods",
+    "industry":"Aerospace",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/avav"
+  },
+  {
+    "Symbol":"AEZS",
+    "Name":"AEterna Zentaris Inc.",
+    "LastSale":"0.2915",
+    "MarketCap":"$34.38M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aezs"
+  },
+  {
+    "Symbol":"AFMD",
+    "Name":"Affimed N.V.",
+    "LastSale":"11.2",
+    "MarketCap":"$333.02M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/afmd"
+  },
+  {
+    "Symbol":"AFFX",
+    "Name":"Affymetrix, Inc.",
+    "LastSale":"11.78",
+    "MarketCap":"$910.87M",
+    "IPOyear":"1996",
+    "Sector":"Capital Goods",
+    "industry":"Biotechnology: Laboratory Analytical Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/affx"
+  },
+  {
+    "Symbol":"AGEN",
+    "Name":"Agenus Inc.",
+    "LastSale":"9.38",
+    "MarketCap":"$789.4M",
+    "IPOyear":"2000",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agen"
+  },
+  {
+    "Symbol":"AGRX",
+    "Name":"Agile Therapeutics, Inc.",
+    "LastSale":"9.43",
+    "MarketCap":"$209.37M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agrx"
+  },
+  {
+    "Symbol":"AGYS",
+    "Name":"Agilysys, Inc.",
+    "LastSale":"9.2",
+    "MarketCap":"$209.48M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agys"
+  },
+  {
+    "Symbol":"AGIO",
+    "Name":"Agios Pharmaceuticals, Inc.",
+    "LastSale":"122.59",
+    "MarketCap":"$4.57B",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agio"
+  },
+  {
+    "Symbol":"AIRM",
+    "Name":"Air Methods Corporation",
+    "LastSale":"41.14",
+    "MarketCap":"$1.62B",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Transportation Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/airm"
+  },
+  {
+    "Symbol":"AIRT",
+    "Name":"Air T, Inc.",
+    "LastSale":"19.07",
+    "MarketCap":"$45.24M",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Air Freight/Delivery Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/airt"
+  },
+  {
+    "Symbol":"ATSG",
+    "Name":"Air Transport Services Group, Inc",
+    "LastSale":"10.51",
+    "MarketCap":"$685.62M",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Air Freight/Delivery Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atsg"
+  },
+  {
+    "Symbol":"AMCN",
+    "Name":"AirMedia Group Inc",
+    "LastSale":"6.99",
+    "MarketCap":"$419.2M",
+    "IPOyear":"2007",
+    "Sector":"Technology",
+    "industry":"Advertising",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amcn"
+  },
+  {
+    "Symbol":"AIXG",
+    "Name":"Aixtron SE",
+    "LastSale":"7.72",
+    "MarketCap":"$870.06M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aixg"
+  },
+  {
+    "Symbol":"AKAM",
+    "Name":"Akamai Technologies, Inc.",
+    "LastSale":"74.05",
+    "MarketCap":"$13.22B",
+    "IPOyear":"1999",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/akam"
+  },
+  {
+    "Symbol":"AKBA",
+    "Name":"Akebia Therapeutics, Inc.",
+    "LastSale":"7.76",
+    "MarketCap":"$223.78M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/akba"
+  },
+  {
+    "Symbol":"AKER",
+    "Name":"Akers Biosciences Inc",
+    "LastSale":"4.48",
+    "MarketCap":"$23.05M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aker"
+  },
+  {
+    "Symbol":"AKRX",
+    "Name":"Akorn, Inc.",
+    "LastSale":"46.61",
+    "MarketCap":"$5.33B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/akrx"
+  },
+  {
+    "Symbol":"ALSK",
+    "Name":"Alaska Communications Systems Group, Inc.",
+    "LastSale":"2.4",
+    "MarketCap":"$120.57M",
+    "IPOyear":"1999",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alsk"
+  },
+  {
+    "Symbol":"AMRI",
+    "Name":"Albany Molecular Research, Inc.",
+    "LastSale":"19.69",
+    "MarketCap":"$652.1M",
+    "IPOyear":"1999",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Commercial Physical & Biological Resarch",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amri"
+  },
+  {
+    "Symbol":"ABDC",
+    "Name":"Alcentra Capital Corp.",
+    "LastSale":"13.72",
+    "MarketCap":"$185.45M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abdc"
+  },
+  {
+    "Symbol":"ADHD",
+    "Name":"Alcobra Ltd.",
+    "LastSale":"7.5",
+    "MarketCap":"$158.83M",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adhd"
+  },
+  {
+    "Symbol":"ALDR",
+    "Name":"Alder BioPharmaceuticals, Inc.",
+    "LastSale":"47.52",
+    "MarketCap":"$1.8B",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aldr"
+  },
+  {
+    "Symbol":"ALDX",
+    "Name":"Aldeyra Therapeutics, Inc.",
+    "LastSale":"8.3",
+    "MarketCap":"$79.6M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aldx"
+  },
+  {
+    "Symbol":"ALXN",
+    "Name":"Alexion Pharmaceuticals, Inc.",
+    "LastSale":"168.77",
+    "MarketCap":"$33.68B",
+    "IPOyear":"1996",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alxn"
+  },
+  {
+    "Symbol":"ALXA",
+    "Name":"Alexza Pharmaceuticals, Inc.",
+    "LastSale":"1.25",
+    "MarketCap":"$24.28M",
+    "IPOyear":"2006",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alxa"
+  },
+  {
+    "Symbol":"ALCO",
+    "Name":"Alico, Inc.",
+    "LastSale":"49.6",
+    "MarketCap":"$410.56M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Farming/Seeds/Milling",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alco"
+  },
+  {
+    "Symbol":"ALGN",
+    "Name":"Align Technology, Inc.",
+    "LastSale":"62.96",
+    "MarketCap":"$5.08B",
+    "IPOyear":"2001",
+    "Sector":"Health Care",
+    "industry":"Industrial Specialties",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/algn"
+  },
+  {
+    "Symbol":"ALIM",
+    "Name":"Alimera Sciences, Inc.",
+    "LastSale":"4.55",
+    "MarketCap":"$202.01M",
+    "IPOyear":"2010",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alim"
+  },
+  {
+    "Symbol":"ALKS",
+    "Name":"Alkermes plc",
+    "LastSale":"60.03",
+    "MarketCap":"$8.92B",
+    "IPOyear":"1991",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alks"
+  },
+  {
+    "Symbol":"ALGT",
+    "Name":"Allegiant Travel Company",
+    "LastSale":"162.32",
+    "MarketCap":"$2.78B",
+    "IPOyear":"2006",
+    "Sector":"Transportation",
+    "industry":"Air Freight/Delivery Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/algt"
+  },
+  {
+    "Symbol":"ALLB",
+    "Name":"Alliance Bancorp, Inc. of Pennsylvania",
+    "LastSale":"22.11",
+    "MarketCap":"$89.03M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/allb"
+  },
+  {
+    "Symbol":"AFOP",
+    "Name":"Alliance Fiber Optic Products, Inc.",
+    "LastSale":"20.39",
+    "MarketCap":"$361.47M",
+    "IPOyear":"2000",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/afop"
+  },
+  {
+    "Symbol":"AIQ",
+    "Name":"Alliance HealthCare Services, Inc.",
+    "LastSale":"18.62",
+    "MarketCap":"$200.13M",
+    "IPOyear":"2001",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aiq"
+  },
+  {
+    "Symbol":"AHGP",
+    "Name":"Alliance Holdings GP, L.P.",
+    "LastSale":"44.37",
+    "MarketCap":"$2.66B",
+    "IPOyear":"2006",
+    "Sector":"Energy",
+    "industry":"Coal Mining",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ahgp"
+  },
+  {
+    "Symbol":"ARLP",
+    "Name":"Alliance Resource Partners, L.P.",
+    "LastSale":"27.01",
+    "MarketCap":"$2B",
+    "IPOyear":"1999",
+    "Sector":"Energy",
+    "industry":"Coal Mining",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arlp"
+  },
+  {
+    "Symbol":"AHPI",
+    "Name":"Allied Healthcare Products, Inc.",
+    "LastSale":"1.45",
+    "MarketCap":"$11.64M",
+    "IPOyear":"1992",
+    "Sector":"Health Care",
+    "industry":"Industrial Specialties",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ahpi"
+  },
+  {
+    "Symbol":"AMOT",
+    "Name":"Allied Motion Technologies, Inc.",
+    "LastSale":"24.78",
+    "MarketCap":"$230.18M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Electrical Products",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amot"
+  },
+  {
+    "Symbol":"ALQA",
+    "Name":"Alliqua BioMedical, Inc.",
+    "LastSale":"5.49",
+    "MarketCap":"$133.94M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alqa"
+  },
+  {
+    "Symbol":"ALLT",
+    "Name":"Allot Communications Ltd.",
+    "LastSale":"7.99",
+    "MarketCap":"$266.56M",
+    "IPOyear":"2006",
+    "Sector":"Technology",
+    "industry":"Computer Communications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/allt"
+  },
+  {
+    "Symbol":"MDRX",
+    "Name":"Allscripts Healthcare Solutions, Inc.",
+    "LastSale":"14.27",
+    "MarketCap":"$2.58B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/mdrx"
+  },
+  {
+    "Symbol":"AFAM",
+    "Name":"Almost Family Inc",
+    "LastSale":"39.79",
+    "MarketCap":"$379.09M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/afam"
+  },
+  {
+    "Symbol":"ALNY",
+    "Name":"Alnylam Pharmaceuticals, Inc.",
+    "LastSale":"132.74",
+    "MarketCap":"$11.19B",
+    "IPOyear":"2004",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alny"
+  },
+  {
+    "Symbol":"AOSL",
+    "Name":"Alpha and Omega Semiconductor Limited",
+    "LastSale":"8.83",
+    "MarketCap":"$232.61M",
+    "IPOyear":"2010",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aosl"
+  },
+  {
+    "Symbol":"SMCP",
+    "Name":"AlphaMark Actively Managed Small Cap ETF",
+    "LastSale":"25.5899",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/smcp"
+  },
+  {
+    "Symbol":"ATEC",
+    "Name":"Alphatec Holdings, Inc.",
+    "LastSale":"1.45",
+    "MarketCap":"$144.78M",
+    "IPOyear":"2006",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atec"
+  },
+  {
+    "Symbol":"ALTR",
+    "Name":"Altera Corporation",
+    "LastSale":"51.59",
+    "MarketCap":"$15.53B",
+    "IPOyear":"1988",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/altr"
+  },
+  {
+    "Symbol":"ASPS",
+    "Name":"Altisource Portfolio Solutions S.A.",
+    "LastSale":"31.11",
+    "MarketCap":"$626.32M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asps"
+  },
+  {
+    "Symbol":"AIMC",
+    "Name":"Altra Industrial Motion Corp.",
+    "LastSale":"28.6",
+    "MarketCap":"$755.17M",
+    "IPOyear":"2006",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aimc"
+  },
+  {
+    "Symbol":"AMAG",
+    "Name":"AMAG Pharmaceuticals, Inc.",
+    "LastSale":"68.98",
+    "MarketCap":"$2.11B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amag"
+  },
+  {
+    "Symbol":"AMRN",
+    "Name":"Amarin Corporation PLC",
+    "LastSale":"2.39",
+    "MarketCap":"$423.3M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amrn"
+  },
+  {
+    "Symbol":"AMRK",
+    "Name":"A-Mark Precious Metals, Inc.",
+    "LastSale":"10.49",
+    "MarketCap":"$73.04M",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Other Specialty Stores",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amrk"
+  },
+  {
+    "Symbol":"AYA",
+    "Name":"Amaya Inc.",
+    "LastSale":"25.48",
+    "MarketCap":"$3.4B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aya"
+  },
+  {
+    "Symbol":"AMZN",
+    "Name":"Amazon.com, Inc.",
+    "LastSale":"432.97",
+    "MarketCap":"$201.63B",
+    "IPOyear":"1997",
+    "Sector":"Consumer Services",
+    "industry":"Catalog/Specialty Distribution",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amzn"
+  },
+  {
+    "Symbol":"AMBC",
+    "Name":"Ambac Financial Group, Inc.",
+    "LastSale":"23.38",
+    "MarketCap":"$1.05B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ambc"
+  },
+  {
+    "Symbol":"AMBCW",
+    "Name":"Ambac Financial Group, Inc.",
+    "LastSale":"12.14",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ambcw"
+  },
+  {
+    "Symbol":"AMBA",
+    "Name":"Ambarella, Inc.",
+    "LastSale":"111.5",
+    "MarketCap":"$3.49B",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amba"
+  },
+  {
+    "Symbol":"EPAX",
+    "Name":"Ambassadors Group, Inc.",
+    "LastSale":"2.42",
+    "MarketCap":"$41.87M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/epax"
+  },
+  {
+    "Symbol":"AMCX",
+    "Name":"AMC Networks Inc.",
+    "LastSale":"78.26",
+    "MarketCap":"$5.66B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Television Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amcx"
+  },
+  {
+    "Symbol":"DOX",
+    "Name":"Amdocs Limited",
+    "LastSale":"56.82",
+    "MarketCap":"$8.79B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/dox"
+  },
+  {
+    "Symbol":"AMDA",
+    "Name":"Amedica Corporation",
+    "LastSale":"0.3446",
+    "MarketCap":"$19.08M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amda"
+  },
+  {
+    "Symbol":"AMED",
+    "Name":"Amedisys Inc",
+    "LastSale":"37.5",
+    "MarketCap":"$1.26B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amed"
+  },
+  {
+    "Symbol":"UHAL",
+    "Name":"Amerco",
+    "LastSale":"326.6",
+    "MarketCap":"$6.4B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Rental/Leasing Companies",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/uhal"
+  },
+  {
+    "Symbol":"ASBI",
+    "Name":"Ameriana Bancorp",
+    "LastSale":"16.36",
+    "MarketCap":"$49.49M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asbi"
+  },
+  {
+    "Symbol":"ATAX",
+    "Name":"America First Multifamily Investors, L.P.",
+    "LastSale":"5.57",
+    "MarketCap":"$335.61M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atax"
+  },
+  {
+    "Symbol":"AMOV",
+    "Name":"America Movil, S.A.B. de C.V.",
+    "LastSale":"20.31",
+    "MarketCap":"$68.57B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amov"
+  },
+  {
+    "Symbol":"AAL",
+    "Name":"American Airlines Group, Inc.",
+    "LastSale":"40.02",
+    "MarketCap":"$27.73B",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Air Freight/Delivery Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aal"
+  },
+  {
+    "Symbol":"AGNC",
+    "Name":"American Capital Agency Corp.",
+    "LastSale":"19.95",
+    "MarketCap":"$7.04B",
+    "IPOyear":"2008",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agnc"
+  },
+  {
+    "Symbol":"AGNCB",
+    "Name":"American Capital Agency Corp.",
+    "LastSale":"24.54",
+    "MarketCap":"$8.66B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agncb"
+  },
+  {
+    "Symbol":"AGNCP",
+    "Name":"American Capital Agency Corp.",
+    "LastSale":"25.59",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agncp"
+  },
+  {
+    "Symbol":"MTGE",
+    "Name":"American Capital Mortgage Investment Corp.",
+    "LastSale":"17.23",
+    "MarketCap":"$881.65M",
+    "IPOyear":"2011",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/mtge"
+  },
+  {
+    "Symbol":"MTGEP",
+    "Name":"American Capital Mortgage Investment Corp.",
+    "LastSale":"24.704",
+    "MarketCap":"$49.41M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/mtgep"
+  },
+  {
+    "Symbol":"ACSF",
+    "Name":"American Capital Senior Floating, Ltd.",
+    "LastSale":"13.03",
+    "MarketCap":"$130.3M",
+    "IPOyear":"2014",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acsf"
+  },
+  {
+    "Symbol":"ACAS",
+    "Name":"American Capital, Ltd.",
+    "LastSale":"14.16",
+    "MarketCap":"$3.89B",
+    "IPOyear":"1997",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acas"
+  },
+  {
+    "Symbol":"ANCI",
+    "Name":"American Caresource Holdings Inc",
+    "LastSale":"1.77",
+    "MarketCap":"$11.94M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Hospital/Nursing Management",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anci"
+  },
+  {
+    "Symbol":"AETI",
+    "Name":"American Electric Technologies, Inc.",
+    "LastSale":"5.07",
+    "MarketCap":"$41.82M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aeti"
+  },
+  {
+    "Symbol":"AMIC",
+    "Name":"American Independence Corp.",
+    "LastSale":"10.87",
+    "MarketCap":"$87.82M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Accident &Health Insurance",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amic"
+  },
+  {
+    "Symbol":"AMNB",
+    "Name":"American National Bankshares, Inc.",
+    "LastSale":"22.9",
+    "MarketCap":"$199.86M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amnb"
+  },
+  {
+    "Symbol":"ANAT",
+    "Name":"American National Insurance Company",
+    "LastSale":"105.56",
+    "MarketCap":"$2.84B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anat"
+  },
+  {
+    "Symbol":"APEI",
+    "Name":"American Public Education, Inc.",
+    "LastSale":"25.4",
+    "MarketCap":"$435.52M",
+    "IPOyear":"2007",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apei"
+  },
+  {
+    "Symbol":"ARII",
+    "Name":"American Railcar Industries, Inc.",
+    "LastSale":"54.91",
+    "MarketCap":"$1.17B",
+    "IPOyear":"2006",
+    "Sector":"Capital Goods",
+    "industry":"Railroads",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arii"
+  },
+  {
+    "Symbol":"ARCP",
+    "Name":"American Realty Capital Properties, Inc.",
+    "LastSale":"8.68",
+    "MarketCap":"$7.86B",
+    "IPOyear":"2011",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arcp"
+  },
+  {
+    "Symbol":"ARCPP",
+    "Name":"American Realty Capital Properties, Inc.",
+    "LastSale":"24.1013",
+    "MarketCap":"$1.04B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arcpp"
+  },
+  {
+    "Symbol":"AMRB",
+    "Name":"American River Bankshares",
+    "LastSale":"9.26",
+    "MarketCap":"$71.35M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amrb"
+  },
+  {
+    "Symbol":"ASEI",
+    "Name":"American Science and Engineering, Inc.",
+    "LastSale":"41.81",
+    "MarketCap":"$298.72M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical Electronics",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asei"
+  },
+  {
+    "Symbol":"AMSWA",
+    "Name":"American Software, Inc.",
+    "LastSale":"9.46",
+    "MarketCap":"$267.18M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amswa"
+  },
+  {
+    "Symbol":"AMSC",
+    "Name":"American Superconductor Corporation",
+    "LastSale":"6.16",
+    "MarketCap":"$85.4M",
+    "IPOyear":"1991",
+    "Sector":"Consumer Durables",
+    "industry":"Metal Fabrications",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amsc"
+  },
+  {
+    "Symbol":"AMWD",
+    "Name":"American Woodmark Corporation",
+    "LastSale":"56.03",
+    "MarketCap":"$891.12M",
+    "IPOyear":"1986",
+    "Sector":"Basic Industries",
+    "industry":"Forest Products",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amwd"
+  },
+  {
+    "Symbol":"CRMT",
+    "Name":"America&#39;s Car-Mart, Inc.",
+    "LastSale":"53.23",
+    "MarketCap":"$456.46M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Automotive Aftermarket",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/crmt"
+  },
+  {
+    "Symbol":"ABCB",
+    "Name":"Ameris Bancorp",
+    "LastSale":"26.29",
+    "MarketCap":"$846.14M",
+    "IPOyear":"1994",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abcb"
+  },
+  {
+    "Symbol":"AMSF",
+    "Name":"AMERISAFE, Inc.",
+    "LastSale":"44.17",
+    "MarketCap":"$838.29M",
+    "IPOyear":"2005",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amsf"
+  },
+  {
+    "Symbol":"ASRV",
+    "Name":"AmeriServ Financial Inc.",
+    "LastSale":"3.29",
+    "MarketCap":"$62.03M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asrv"
+  },
+  {
+    "Symbol":"ASRVP",
+    "Name":"AmeriServ Financial Inc.",
+    "LastSale":"31.3",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asrvp"
+  },
+  {
+    "Symbol":"ATLO",
+    "Name":"Ames National Corporation",
+    "LastSale":"24.7",
+    "MarketCap":"$229.98M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atlo"
+  },
+  {
+    "Symbol":"AMGN",
+    "Name":"Amgen Inc.",
+    "LastSale":"157.96",
+    "MarketCap":"$120.1B",
+    "IPOyear":"1983",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amgn"
+  },
+  {
+    "Symbol":"FOLD",
+    "Name":"Amicus Therapeutics, Inc.",
+    "LastSale":"13.29",
+    "MarketCap":"$1.28B",
+    "IPOyear":"2007",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/fold"
+  },
+  {
+    "Symbol":"AMKR",
+    "Name":"Amkor Technology, Inc.",
+    "LastSale":"6.36",
+    "MarketCap":"$1.51B",
+    "IPOyear":"1998",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amkr"
+  },
+  {
+    "Symbol":"AMPH",
+    "Name":"Amphastar Pharmaceuticals, Inc.",
+    "LastSale":"16.6",
+    "MarketCap":"$742.42M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amph"
+  },
+  {
+    "Symbol":"AMSG",
+    "Name":"Amsurg Corp.",
+    "LastSale":"68.3",
+    "MarketCap":"$3.31B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amsg"
+  },
+  {
+    "Symbol":"AMSGP",
+    "Name":"Amsurg Corp.",
+    "LastSale":"134.3675",
+    "MarketCap":"$231.78M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amsgp"
+  },
+  {
+    "Symbol":"ASYS",
+    "Name":"Amtech Systems, Inc.",
+    "LastSale":"10.75",
+    "MarketCap":"$140.53M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asys"
+  },
+  {
+    "Symbol":"AFSI",
+    "Name":"AmTrust Financial Services, Inc.",
+    "LastSale":"61.97",
+    "MarketCap":"$5.11B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/afsi"
+  },
+  {
+    "Symbol":"AMRS",
+    "Name":"Amyris, Inc.",
+    "LastSale":"2.09",
+    "MarketCap":"$167.04M",
+    "IPOyear":"2010",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amrs"
+  },
+  {
+    "Symbol":"ANAC",
+    "Name":"Anacor Pharmaceuticals, Inc.",
+    "LastSale":"70",
+    "MarketCap":"$3.06B",
+    "IPOyear":"2010",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anac"
+  },
+  {
+    "Symbol":"ANAD",
+    "Name":"ANADIGICS, Inc.",
+    "LastSale":"0.7",
+    "MarketCap":"$61.37M",
+    "IPOyear":"1995",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anad"
+  },
+  {
+    "Symbol":"ADI",
+    "Name":"Analog Devices, Inc.",
+    "LastSale":"67.22",
+    "MarketCap":"$21.08B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adi"
+  },
+  {
+    "Symbol":"ALOG",
+    "Name":"Analogic Corporation",
+    "LastSale":"80.86",
+    "MarketCap":"$1.01B",
+    "IPOyear":"1972",
+    "Sector":"Capital Goods",
+    "industry":"Electrical Products",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alog"
+  },
+  {
+    "Symbol":"ANCB",
+    "Name":"Anchor Bancorp",
+    "LastSale":"21.68",
+    "MarketCap":"$55.28M",
+    "IPOyear":"2011",
+    "Sector":"Finance",
+    "industry":"Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ancb"
+  },
+  {
+    "Symbol":"ABCW",
+    "Name":"Anchor BanCorp Wisconsin Inc.",
+    "LastSale":"37",
+    "MarketCap":"$355.35M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abcw"
+  },
+  {
+    "Symbol":"AMCF",
+    "Name":"Andatee China Marine Fuel Services Corporation",
+    "LastSale":"0.66",
+    "MarketCap":"$6.77M",
+    "IPOyear":"2010",
+    "Sector":"Energy",
+    "industry":"Oil Refining/Marketing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amcf"
+  },
+  {
+    "Symbol":"ANGI",
+    "Name":"Angie&#39;s List, Inc.",
+    "LastSale":"6.49",
+    "MarketCap":"$379.77M",
+    "IPOyear":"2011",
+    "Sector":"Consumer Services",
+    "industry":"Advertising",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/angi"
+  },
+  {
+    "Symbol":"ANGO",
+    "Name":"AngioDynamics, Inc.",
+    "LastSale":"16.41",
+    "MarketCap":"$589.41M",
+    "IPOyear":"2004",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ango"
+  },
+  {
+    "Symbol":"ANIP",
+    "Name":"ANI Pharmaceuticals, Inc.",
+    "LastSale":"55.45",
+    "MarketCap":"$633.54M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anip"
+  },
+  {
+    "Symbol":"ANIK",
+    "Name":"Anika Therapeutics Inc.",
+    "LastSale":"33.28",
+    "MarketCap":"$486.78M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anik"
+  },
+  {
+    "Symbol":"ANSS",
+    "Name":"ANSYS, Inc.",
+    "LastSale":"91.8",
+    "MarketCap":"$8.24B",
+    "IPOyear":"1996",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anss"
+  },
+  {
+    "Symbol":"ATRS",
+    "Name":"Antares Pharma, Inc.",
+    "LastSale":"2.44",
+    "MarketCap":"$377.59M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atrs"
+  },
+  {
+    "Symbol":"ANTH",
+    "Name":"Anthera Pharmaceuticals, Inc.",
+    "LastSale":"7.84",
+    "MarketCap":"$280.8M",
+    "IPOyear":"2010",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/anth"
+  },
+  {
+    "Symbol":"ABAC",
+    "Name":"Aoxin Tianli Group, Inc.",
+    "LastSale":"1.49",
+    "MarketCap":"$49.44M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Farming/Seeds/Milling",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abac"
+  },
+  {
+    "Symbol":"ATNY",
+    "Name":"API Technologies Corp.",
+    "LastSale":"2.21",
+    "MarketCap":"$122.43M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atny"
+  },
+  {
+    "Symbol":"APIC",
+    "Name":"Apigee Corporation",
+    "LastSale":"12.83",
+    "MarketCap":"$373.19M",
+    "IPOyear":"2015",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apic"
+  },
+  {
+    "Symbol":"APOG",
+    "Name":"Apogee Enterprises, Inc.",
+    "LastSale":"56.61",
+    "MarketCap":"$1.65B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Auto Parts:O.E.M.",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apog"
+  },
+  {
+    "Symbol":"APOL",
+    "Name":"Apollo Education Group, Inc.",
+    "LastSale":"16.74",
+    "MarketCap":"$1.8B",
+    "IPOyear":"1994",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apol"
+  },
+  {
+    "Symbol":"AINV",
+    "Name":"Apollo Investment Corporation",
+    "LastSale":"7.75",
+    "MarketCap":"$1.83B",
+    "IPOyear":"2004",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ainv"
+  },
+  {
+    "Symbol":"AAPL",
+    "Name":"Apple Inc.",
+    "LastSale":"128.59",
+    "MarketCap":"$740.81B",
+    "IPOyear":"1980",
+    "Sector":"Technology",
+    "industry":"Computer Manufacturing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aapl"
+  },
+  {
+    "Symbol":"ARCI",
+    "Name":"Appliance Recycling Centers of America, Inc.",
+    "LastSale":"1.85",
+    "MarketCap":"$10.73M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Home Furnishings",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arci"
+  },
+  {
+    "Symbol":"APDN",
+    "Name":"Applied DNA Sciences Inc",
+    "LastSale":"2.86",
+    "MarketCap":"$61.41M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apdn"
+  },
+  {
+    "Symbol":"APDNW",
+    "Name":"Applied DNA Sciences Inc",
+    "LastSale":"1.1601",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apdnw"
+  },
+  {
+    "Symbol":"AGTC",
+    "Name":"Applied Genetic Technologies Corporation",
+    "LastSale":"19",
+    "MarketCap":"$313.04M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agtc"
+  },
+  {
+    "Symbol":"AMAT",
+    "Name":"Applied Materials, Inc.",
+    "LastSale":"19.78",
+    "MarketCap":"$24.36B",
+    "IPOyear":"1972",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amat"
+  },
+  {
+    "Symbol":"AMCC",
+    "Name":"Applied Micro Circuits Corporation",
+    "LastSale":"6.9",
+    "MarketCap":"$558.7M",
+    "IPOyear":"1997",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/amcc"
+  },
+  {
+    "Symbol":"AAOI",
+    "Name":"Applied Optoelectronics, Inc.",
+    "LastSale":"18.31",
+    "MarketCap":"$273.61M",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aaoi"
+  },
+  {
+    "Symbol":"AREX",
+    "Name":"Approach Resources Inc.",
+    "LastSale":"6.84",
+    "MarketCap":"$277.43M",
+    "IPOyear":"2007",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arex"
+  },
+  {
+    "Symbol":"APRI",
+    "Name":"Apricus Biosciences, Inc",
+    "LastSale":"1.63",
+    "MarketCap":"$82.18M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apri"
+  },
+  {
+    "Symbol":"APTO",
+    "Name":"Aptose Biosciences, Inc.",
+    "LastSale":"5.49",
+    "MarketCap":"$65.25M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apto"
+  },
+  {
+    "Symbol":"AQXP",
+    "Name":"Aquinox Pharmaceuticals, Inc.",
+    "LastSale":"7.44",
+    "MarketCap":"$79.78M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aqxp"
+  },
+  {
+    "Symbol":"AUMA",
+    "Name":"AR Capital Acquisition Corp.",
+    "LastSale":"9.85",
+    "MarketCap":"$295.5M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/auma"
+  },
+  {
+    "Symbol":"AUMAU",
+    "Name":"AR Capital Acquisition Corp.",
+    "LastSale":"10",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aumau"
+  },
+  {
+    "Symbol":"AUMAW",
+    "Name":"AR Capital Acquisition Corp.",
+    "LastSale":"0.4",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aumaw"
+  },
+  {
+    "Symbol":"ARDM",
+    "Name":"Aradigm Corporation",
+    "LastSale":"7.4",
+    "MarketCap":"$109.14M",
+    "IPOyear":"1996",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ardm"
+  },
+  {
+    "Symbol":"PETX",
+    "Name":"Aratana Therapeutics, Inc.",
+    "LastSale":"15",
+    "MarketCap":"$523.65M",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/petx"
+  },
+  {
+    "Symbol":"ARCW",
+    "Name":"ARC Group Worldwide, Inc.",
+    "LastSale":"5.83",
+    "MarketCap":"$108.03M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Metal Fabrications",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arcw"
+  },
+  {
+    "Symbol":"ABIO",
+    "Name":"ARCA biopharma, Inc.",
+    "LastSale":"0.8902",
+    "MarketCap":"$18.87M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abio"
+  },
+  {
+    "Symbol":"RKDA",
+    "Name":"Arcadia Biosciences, Inc.",
+    "LastSale":"8.69",
+    "MarketCap":"$375.19M",
+    "IPOyear":"2015",
+    "Sector":"Basic Industries",
+    "industry":"Agricultural Chemicals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/rkda"
+  },
+  {
+    "Symbol":"ARCB",
+    "Name":"ArcBest Corporation",
+    "LastSale":"34.6",
+    "MarketCap":"$899.84M",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Trucking Freight/Courier Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arcb"
+  },
+  {
+    "Symbol":"ACGL",
+    "Name":"Arch Capital Group Ltd.",
+    "LastSale":"65.65",
+    "MarketCap":"$8.14B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acgl"
+  },
+  {
+    "Symbol":"ACAT",
+    "Name":"Arctic Cat Inc.",
+    "LastSale":"33.79",
+    "MarketCap":"$437.67M",
+    "IPOyear":"1990",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Specialties",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acat"
+  },
+  {
+    "Symbol":"ARDX",
+    "Name":"Ardelyx, Inc.",
+    "LastSale":"14.6",
+    "MarketCap":"$272.32M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ardx"
+  },
+  {
+    "Symbol":"ARNA",
+    "Name":"Arena Pharmaceuticals, Inc.",
+    "LastSale":"4.28",
+    "MarketCap":"$1.04B",
+    "IPOyear":"2000",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arna"
+  },
+  {
+    "Symbol":"ARCC",
+    "Name":"Ares Capital Corporation",
+    "LastSale":"16.045",
+    "MarketCap":"$5.05B",
+    "IPOyear":"2004",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arcc"
+  },
+  {
+    "Symbol":"AGII",
+    "Name":"Argo Group International Holdings, Ltd.",
+    "LastSale":"54.58",
+    "MarketCap":"$1.52B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Specialty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agii"
+  },
+  {
+    "Symbol":"AGIIL",
+    "Name":"Argo Group International Holdings, Ltd.",
+    "LastSale":"25.17",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Specialty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/agiil"
+  },
+  {
+    "Symbol":"ARGS",
+    "Name":"Argos Therapeutics, Inc.",
+    "LastSale":"7.92",
+    "MarketCap":"$163.86M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/args"
+  },
+  {
+    "Symbol":"ARIS",
+    "Name":"ARI Network Services, Inc.",
+    "LastSale":"3.2",
+    "MarketCap":"$45.92M",
+    "IPOyear":"1991",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aris"
+  },
+  {
+    "Symbol":"ARIA",
+    "Name":"ARIAD Pharmaceuticals, Inc.",
+    "LastSale":"8.9",
+    "MarketCap":"$1.68B",
+    "IPOyear":"1994",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aria"
+  },
+  {
+    "Symbol":"ARKR",
+    "Name":"Ark Restaurants Corp.",
+    "LastSale":"25.08",
+    "MarketCap":"$85.12M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arkr"
+  },
+  {
+    "Symbol":"ARMH",
+    "Name":"ARM Holdings plc",
+    "LastSale":"52.64",
+    "MarketCap":"$24.78B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/armh"
+  },
+  {
+    "Symbol":"ARTX",
+    "Name":"Arotech Corporation",
+    "LastSale":"2.64",
+    "MarketCap":"$65.14M",
+    "IPOyear":"1994",
+    "Sector":"Miscellaneous",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/artx"
+  },
+  {
+    "Symbol":"ARWA",
+    "Name":"Arowana Inc.",
+    "LastSale":"9.75",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arwa"
+  },
+  {
+    "Symbol":"ARWAR",
+    "Name":"Arowana Inc.",
+    "LastSale":"0.25",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arwar"
+  },
+  {
+    "Symbol":"ARWAU",
+    "Name":"Arowana Inc.",
+    "LastSale":"10.11",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arwau"
+  },
+  {
+    "Symbol":"ARWAW",
+    "Name":"Arowana Inc.",
+    "LastSale":"0.12",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arwaw"
+  },
+  {
+    "Symbol":"ARQL",
+    "Name":"ArQule, Inc.",
+    "LastSale":"1.75",
+    "MarketCap":"$109.93M",
+    "IPOyear":"1996",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arql"
+  },
+  {
+    "Symbol":"ARRY",
+    "Name":"Array BioPharma Inc.",
+    "LastSale":"7.73",
+    "MarketCap":"$1.09B",
+    "IPOyear":"2000",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arry"
+  },
+  {
+    "Symbol":"ARRS",
+    "Name":"ARRIS Group, Inc.",
+    "LastSale":"32.145",
+    "MarketCap":"$4.69B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Radio And Television Broadcasting And Communications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arrs"
+  },
+  {
+    "Symbol":"DWAT",
+    "Name":"Arrow DWA Tactical ETF",
+    "LastSale":"10.529",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/dwat"
+  },
+  {
+    "Symbol":"AROW",
+    "Name":"Arrow Financial Corporation",
+    "LastSale":"26.88",
+    "MarketCap":"$339.67M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arow"
+  },
+  {
+    "Symbol":"ARWR",
+    "Name":"Arrowhead Research Corporation",
+    "LastSale":"6.78",
+    "MarketCap":"$403.4M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Commercial Physical & Biological Resarch",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/arwr"
+  },
+  {
+    "Symbol":"ARTNA",
+    "Name":"Artesian Resources Corporation",
+    "LastSale":"21.43",
+    "MarketCap":"$191.18M",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Water Supply",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/artna"
+  },
+  {
+    "Symbol":"ARTW",
+    "Name":"Art&#39;s-Way Manufacturing Co., Inc.",
+    "LastSale":"5.26",
+    "MarketCap":"$21.36M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/artw"
+  },
+  {
+    "Symbol":"ASBB",
+    "Name":"ASB Bancorp, Inc.",
+    "LastSale":"20.94",
+    "MarketCap":"$91.68M",
+    "IPOyear":"2011",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asbb"
+  },
+  {
+    "Symbol":"ASNA",
+    "Name":"Ascena Retail Group, Inc.",
+    "LastSale":"15.7",
+    "MarketCap":"$2.56B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Clothing/Shoe/Accessory Stores",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asna"
+  },
+  {
+    "Symbol":"ASND",
+    "Name":"Ascendis Pharma A/S",
+    "LastSale":"16.09",
+    "MarketCap":"$383.52M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asnd"
+  },
+  {
+    "Symbol":"ASCMA",
+    "Name":"Ascent Capital Group, Inc.",
+    "LastSale":"40.85",
+    "MarketCap":"$543.65M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ascma"
+  },
+  {
+    "Symbol":"ASTI",
+    "Name":"Ascent Solar Technologies, Inc.",
+    "LastSale":"0.7798",
+    "MarketCap":"$23.29M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asti"
+  },
+  {
+    "Symbol":"APWC",
+    "Name":"Asia Pacific Wire & Cable Corporation Limited",
+    "LastSale":"2.38",
+    "MarketCap":"$32.89M",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/apwc"
+  },
+  {
+    "Symbol":"ASMI",
+    "Name":"ASM International N.V.",
+    "LastSale":"47.53",
+    "MarketCap":"$2.98B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asmi"
+  },
+  {
+    "Symbol":"ASML",
+    "Name":"ASML Holding N.V.",
+    "LastSale":"110",
+    "MarketCap":"$47.62B",
+    "IPOyear":"1995",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asml"
+  },
+  {
+    "Symbol":"AZPN",
+    "Name":"Aspen Technology, Inc.",
+    "LastSale":"44.3",
+    "MarketCap":"$3.78B",
+    "IPOyear":"1994",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/azpn"
+  },
+  {
+    "Symbol":"ASMB",
+    "Name":"Assembly Biosciences, Inc.",
+    "LastSale":"16.76",
+    "MarketCap":"$287.89M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asmb"
+  },
+  {
+    "Symbol":"ASFI",
+    "Name":"Asta Funding, Inc.",
+    "LastSale":"8.2",
+    "MarketCap":"$106.48M",
+    "IPOyear":"1995",
+    "Sector":"Finance",
+    "industry":"Finance Companies",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asfi"
+  },
+  {
+    "Symbol":"ASTE",
+    "Name":"Astec Industries, Inc.",
+    "LastSale":"42.12",
+    "MarketCap":"$968.03M",
+    "IPOyear":"1986",
+    "Sector":"Capital Goods",
+    "industry":"Construction/Ag Equipment/Trucks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aste"
+  },
+  {
+    "Symbol":"ALOT",
+    "Name":"Astro-Med, Inc.",
+    "LastSale":"14.62",
+    "MarketCap":"$106.83M",
+    "IPOyear":"1983",
+    "Sector":"Technology",
+    "industry":"Computer peripheral equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/alot"
+  },
+  {
+    "Symbol":"ATRO",
+    "Name":"Astronics Corporation",
+    "LastSale":"71.37",
+    "MarketCap":"$1.22B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Military/Government/Technical",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atro"
+  },
+  {
+    "Symbol":"ASTC",
+    "Name":"Astrotech Corporation",
+    "LastSale":"3.08",
+    "MarketCap":"$65.57M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Military/Government/Technical",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/astc"
+  },
+  {
+    "Symbol":"ASUR",
+    "Name":"Asure Software Inc",
+    "LastSale":"6.25",
+    "MarketCap":"$37.87M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/asur"
+  },
+  {
+    "Symbol":"ATAI",
+    "Name":"ATA Inc.",
+    "LastSale":"5.3",
+    "MarketCap":"$122.14M",
+    "IPOyear":"2008",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atai"
+  },
+  {
+    "Symbol":"ATRA",
+    "Name":"Atara Biotherapeutics, Inc.",
+    "LastSale":"44.15",
+    "MarketCap":"$1.08B",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atra"
+  },
+  {
+    "Symbol":"ATHN",
+    "Name":"athenahealth, Inc.",
+    "LastSale":"118.86",
+    "MarketCap":"$4.58B",
+    "IPOyear":"2007",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/athn"
+  },
+  {
+    "Symbol":"AFCB",
+    "Name":"Athens Bancshares Corporation",
+    "LastSale":"26.75",
+    "MarketCap":"$48.06M",
+    "IPOyear":"2010",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/afcb"
+  },
+  {
+    "Symbol":"ATHX",
+    "Name":"Athersys, Inc.",
+    "LastSale":"1.24",
+    "MarketCap":"$102.77M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/athx"
+  },
+  {
+    "Symbol":"AAPC",
+    "Name":"Atlantic Alliance Partnership Corp.",
+    "LastSale":"10.2",
+    "MarketCap":"$105.96M",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aapc"
+  },
+  {
+    "Symbol":"AAME",
+    "Name":"Atlantic American Corporation",
+    "LastSale":"3.67",
+    "MarketCap":"$75.49M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Life Insurance",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aame"
+  },
+  {
+    "Symbol":"ACFC",
+    "Name":"Atlantic Coast Financial Corporation",
+    "LastSale":"4.31",
+    "MarketCap":"$66.84M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acfc"
+  },
+  {
+    "Symbol":"ATNI",
+    "Name":"Atlantic Tele-Network, Inc.",
+    "LastSale":"68.62",
+    "MarketCap":"$1.1B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atni"
+  },
+  {
+    "Symbol":"ATLC",
+    "Name":"Atlanticus Holdings Corporation",
+    "LastSale":"3.66",
+    "MarketCap":"$56.22M",
+    "IPOyear":"1995",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atlc"
+  },
+  {
+    "Symbol":"AAWW",
+    "Name":"Atlas Air Worldwide Holdings",
+    "LastSale":"55.29",
+    "MarketCap":"$1.38B",
+    "IPOyear":"n/a",
+    "Sector":"Transportation",
+    "industry":"Transportation Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aaww"
+  },
+  {
+    "Symbol":"AFH",
+    "Name":"Atlas Financial Holdings, Inc.",
+    "LastSale":"18.82",
+    "MarketCap":"$225.44M",
+    "IPOyear":"2013",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/afh"
+  },
+  {
+    "Symbol":"ATML",
+    "Name":"Atmel Corporation",
+    "LastSale":"9.88",
+    "MarketCap":"$4.12B",
+    "IPOyear":"1991",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atml"
+  },
+  {
+    "Symbol":"ATOS",
+    "Name":"Atossa Genetics Inc.",
+    "LastSale":"1.29",
+    "MarketCap":"$35.11M",
+    "IPOyear":"2012",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atos"
+  },
+  {
+    "Symbol":"ATRC",
+    "Name":"AtriCure, Inc.",
+    "LastSale":"22.71",
+    "MarketCap":"$644.29M",
+    "IPOyear":"2005",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atrc"
+  },
+  {
+    "Symbol":"ATRI",
+    "Name":"ATRION Corporation",
+    "LastSale":"382.51",
+    "MarketCap":"$712.5M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atri"
+  },
+  {
+    "Symbol":"ATRM",
+    "Name":"ATRM Holdings, Inc.",
+    "LastSale":"4.4599",
+    "MarketCap":"$5.29M",
+    "IPOyear":"1993",
+    "Sector":"Capital Goods",
+    "industry":"Electrical Products",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/atrm"
+  },
+  {
+    "Symbol":"ATTU",
+    "Name":"Attunity Ltd.",
+    "LastSale":"13.57",
+    "MarketCap":"$217.52M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/attu"
+  },
+  {
+    "Symbol":"LIFE",
+    "Name":"aTyr Pharma, Inc.",
+    "LastSale":"21.66",
+    "MarketCap":"$488.43M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/life"
+  },
+  {
+    "Symbol":"AUBN",
+    "Name":"Auburn National Bancorporation, Inc.",
+    "LastSale":"25",
+    "MarketCap":"$91.09M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aubn"
+  },
+  {
+    "Symbol":"ADNC",
+    "Name":"Audience, Inc.",
+    "LastSale":"4.68",
+    "MarketCap":"$110.15M",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adnc"
+  },
+  {
+    "Symbol":"AUDC",
+    "Name":"AudioCodes Ltd.",
+    "LastSale":"3.38",
+    "MarketCap":"$140.68M",
+    "IPOyear":"1999",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/audc"
+  },
+  {
+    "Symbol":"AUPH",
+    "Name":"Aurinia Pharmaceuticals Inc",
+    "LastSale":"3.4",
+    "MarketCap":"$109.69M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/auph"
+  },
+  {
+    "Symbol":"EARS",
+    "Name":"Auris Medical Holding AG",
+    "LastSale":"4.53",
+    "MarketCap":"$155.35M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ears"
+  },
+  {
+    "Symbol":"ADAT",
+    "Name":"Authentidate Holding Corp.",
+    "LastSale":"0.181",
+    "MarketCap":"$7.6M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adat"
+  },
+  {
+    "Symbol":"ABTL",
+    "Name":"Autobytel Inc.",
+    "LastSale":"16.61",
+    "MarketCap":"$174.09M",
+    "IPOyear":"1999",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abtl"
+  },
+  {
+    "Symbol":"ADSK",
+    "Name":"Autodesk, Inc.",
+    "LastSale":"54.48",
+    "MarketCap":"$12.4B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adsk"
+  },
+  {
+    "Symbol":"ADP",
+    "Name":"Automatic Data Processing, Inc.",
+    "LastSale":"84.62",
+    "MarketCap":"$39.73B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adp"
+  },
+  {
+    "Symbol":"AVGO",
+    "Name":"Avago Technologies Limited",
+    "LastSale":"141.99",
+    "MarketCap":"$36.43B",
+    "IPOyear":"2009",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/avgo"
+  },
+  {
+    "Symbol":"AAVL",
+    "Name":"Avalanche Biotechnologies, Inc.",
+    "LastSale":"40.79",
+    "MarketCap":"$1.04B",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aavl"
+  },
+  {
+    "Symbol":"AVNU",
+    "Name":"Avenue Financial Holdings, Inc.",
+    "LastSale":"13.15",
+    "MarketCap":"$134.49M",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/avnu"
+  },
+  {
+    "Symbol":"AVEO",
+    "Name":"AVEO Pharmaceuticals, Inc.",
+    "LastSale":"2.17",
+    "MarketCap":"$119.5M",
+    "IPOyear":"2010",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/aveo"
+  },
+  {
+    "Symbol":"AVNW",
+    "Name":"Aviat Networks, Inc.",
+    "LastSale":"1.2",
+    "MarketCap":"$74.89M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Radio And Television Broadcasting And Communications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/avnw"
+  },
+  {
+    "Symbol":"AVID",
+    "Name":"Avid Technology, Inc.",
+    "LastSale":"15.91",
+    "MarketCap":"$629.63M",
+    "IPOyear":"1993",
+    "Sector":"Miscellaneous",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/avid"
+  },
+  {
+    "Symbol":"AVGR",
+    "Name":"Avinger, Inc.",
+    "LastSale":"12.74",
+    "MarketCap":"$155.94M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/avgr"
+  },
+  {
+    "Symbol":"CAR",
+    "Name":"Avis Budget Group, Inc.",
+    "LastSale":"50.53",
+    "MarketCap":"$5.35B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Rental/Leasing Companies",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/car"
+  },
+  {
+    "Symbol":"AWRE",
+    "Name":"Aware, Inc.",
+    "LastSale":"4.26",
+    "MarketCap":"$97.41M",
+    "IPOyear":"1996",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/awre"
+  },
+  {
+    "Symbol":"ACLS",
+    "Name":"Axcelis Technologies, Inc.",
+    "LastSale":"3.05",
+    "MarketCap":"$346.26M",
+    "IPOyear":"2000",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/acls"
+  },
+  {
+    "Symbol":"AXPW",
+    "Name":"Axion Power International, Inc.",
+    "LastSale":"0.0334",
+    "MarketCap":"$3.14M",
+    "IPOyear":"n/a",
+    "Sector":"Miscellaneous",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/axpw"
+  },
+  {
+    "Symbol":"AXPWW",
+    "Name":"Axion Power International, Inc.",
+    "LastSale":"0.032",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Miscellaneous",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/axpww"
+  },
+  {
+    "Symbol":"AXGN",
+    "Name":"AxoGen, Inc.",
+    "LastSale":"3.14",
+    "MarketCap":"$78.27M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/axgn"
+  },
+  {
+    "Symbol":"AXTI",
+    "Name":"AXT Inc",
+    "LastSale":"2.52",
+    "MarketCap":"$82.31M",
+    "IPOyear":"1998",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/axti"
+  },
+  {
+    "Symbol":"BCOM",
+    "Name":"B Communications Ltd.",
+    "LastSale":"15.57",
+    "MarketCap":"$465.54M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bcom"
+  },
+  {
+    "Symbol":"BOSC",
+    "Name":"B.O.S. Better Online Solutions",
+    "LastSale":"2.53",
+    "MarketCap":"$4.64M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Communications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bosc"
+  },
+  {
+    "Symbol":"BEAV",
+    "Name":"B/E Aerospace, Inc.",
+    "LastSale":"56.195",
+    "MarketCap":"$5.97B",
+    "IPOyear":"1990",
+    "Sector":"Consumer Durables",
+    "industry":"Industrial Specialties",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/beav"
+  },
+  {
+    "Symbol":"BIDU",
+    "Name":"Baidu, Inc.",
+    "LastSale":"206.77",
+    "MarketCap":"$72.62B",
+    "IPOyear":"2005",
+    "Sector":"Technology",
+    "industry":"Computer Software: Programming, Data Processing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bidu"
+  },
+  {
+    "Symbol":"BCPC",
+    "Name":"Balchem Corporation",
+    "LastSale":"61.02",
+    "MarketCap":"$1.9B",
+    "IPOyear":"n/a",
+    "Sector":"Basic Industries",
+    "industry":"Major Chemicals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bcpc"
+  },
+  {
+    "Symbol":"BWINA",
+    "Name":"Baldwin & Lyons, Inc.",
+    "LastSale":"23.29",
+    "MarketCap":"$349.83M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bwina"
+  },
+  {
+    "Symbol":"BWINB",
+    "Name":"Baldwin & Lyons, Inc.",
+    "LastSale":"23.3",
+    "MarketCap":"$349.98M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Property-Casualty Insurers",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bwinb"
+  },
+  {
+    "Symbol":"BLDP",
+    "Name":"Ballard Power Systems, Inc.",
+    "LastSale":"2.35",
+    "MarketCap":"$311.53M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bldp"
+  },
+  {
+    "Symbol":"BANF",
+    "Name":"BancFirst Corporation",
+    "LastSale":"63.6",
+    "MarketCap":"$987.82M",
+    "IPOyear":"1993",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/banf"
+  },
+  {
+    "Symbol":"BANFP",
+    "Name":"BancFirst Corporation",
+    "LastSale":"27.2",
+    "MarketCap":"$27.2M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/banfp"
+  },
+  {
+    "Symbol":"BKMU",
+    "Name":"Bank Mutual Corporation",
+    "LastSale":"7.32",
+    "MarketCap":"$341.34M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bkmu"
+  },
+  {
+    "Symbol":"BOCH",
+    "Name":"Bank of Commerce Holdings (CA)",
+    "LastSale":"5.77",
+    "MarketCap":"$76.95M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/boch"
+  },
+  {
+    "Symbol":"BMRC",
+    "Name":"Bank of Marin Bancorp",
+    "LastSale":"49.64",
+    "MarketCap":"$296.52M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bmrc"
+  },
+  {
+    "Symbol":"BKSC",
+    "Name":"Bank of South Carolina Corp.",
+    "LastSale":"16.59",
+    "MarketCap":"$74.01M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bksc"
+  },
+  {
+    "Symbol":"BOTJ",
+    "Name":"Bank of the James Financial Group, Inc.",
+    "LastSale":"10.95",
+    "MarketCap":"$36.92M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/botj"
+  },
+  {
+    "Symbol":"OZRK",
+    "Name":"Bank of the Ozarks",
+    "LastSale":"46.85",
+    "MarketCap":"$4.07B",
+    "IPOyear":"1997",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ozrk"
+  },
+  {
+    "Symbol":"BFIN",
+    "Name":"BankFinancial Corporation",
+    "LastSale":"11.86",
+    "MarketCap":"$250.27M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bfin"
+  },
+  {
+    "Symbol":"BWFG",
+    "Name":"Bankwell Financial Group, Inc.",
+    "LastSale":"17.95",
+    "MarketCap":"$129.99M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bwfg"
+  },
+  {
+    "Symbol":"BANR",
+    "Name":"Banner Corporation",
+    "LastSale":"48.35",
+    "MarketCap":"$1.01B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/banr"
+  },
+  {
+    "Symbol":"BZUN",
+    "Name":"Baozun Inc.",
+    "LastSale":"11.85",
+    "MarketCap":"$576.01M",
+    "IPOyear":"2015",
+    "Sector":"Consumer Services",
+    "industry":"Catalog/Specialty Distribution",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bzun"
+  },
+  {
+    "Symbol":"TAPR",
+    "Name":"Barclays Inverse US Treasury Composite ETN",
+    "LastSale":"39.101",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Commercial Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/tapr"
+  },
+  {
+    "Symbol":"BHAC",
+    "Name":"Barington/Hilco Acquisition Corp.",
+    "LastSale":"9.74",
+    "MarketCap":"$55.14M",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bhac"
+  },
+  {
+    "Symbol":"BHACR",
+    "Name":"Barington/Hilco Acquisition Corp.",
+    "LastSale":"0.25",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bhacr"
+  },
+  {
+    "Symbol":"BHACU",
+    "Name":"Barington/Hilco Acquisition Corp.",
+    "LastSale":"10.15",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bhacu"
+  },
+  {
+    "Symbol":"BHACW",
+    "Name":"Barington/Hilco Acquisition Corp.",
+    "LastSale":"0.18",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bhacw"
+  },
+  {
+    "Symbol":"BBSI",
+    "Name":"Barrett Business Services, Inc.",
+    "LastSale":"41.75",
+    "MarketCap":"$298.19M",
+    "IPOyear":"1993",
+    "Sector":"Technology",
+    "industry":"Professional Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbsi"
+  },
+  {
+    "Symbol":"BSET",
+    "Name":"Bassett Furniture Industries, Incorporated",
+    "LastSale":"27.93",
+    "MarketCap":"$300.41M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Durables",
+    "industry":"Home Furnishings",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bset"
+  },
+  {
+    "Symbol":"BYBK",
+    "Name":"Bay Bancorp, Inc.",
+    "LastSale":"5.14",
+    "MarketCap":"$56.61M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bybk"
+  },
+  {
+    "Symbol":"BYLK",
+    "Name":"Baylake Corp",
+    "LastSale":"12.63",
+    "MarketCap":"$118.14M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bylk"
+  },
+  {
+    "Symbol":"BV",
+    "Name":"Bazaarvoice, Inc.",
+    "LastSale":"5.88",
+    "MarketCap":"$467.38M",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bv"
+  },
+  {
+    "Symbol":"BBCN",
+    "Name":"BBCN Bancorp, Inc.",
+    "LastSale":"15.3",
+    "MarketCap":"$1.22B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbcn"
+  },
+  {
+    "Symbol":"BCBP",
+    "Name":"BCB Bancorp, Inc. (NJ)",
+    "LastSale":"12.17",
+    "MarketCap":"$102.34M",
+    "IPOyear":"2005",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bcbp"
+  },
+  {
+    "Symbol":"BDCV",
+    "Name":"BDCA Venture, Inc.",
+    "LastSale":"5",
+    "MarketCap":"$48.97M",
+    "IPOyear":"2011",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bdcv"
+  },
+  {
+    "Symbol":"BECN",
+    "Name":"Beacon Roofing Supply, Inc.",
+    "LastSale":"31.43",
+    "MarketCap":"$1.56B",
+    "IPOyear":"2004",
+    "Sector":"Consumer Services",
+    "industry":"RETAIL: Building Materials",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/becn"
+  },
+  {
+    "Symbol":"BSF",
+    "Name":"Bear State Financial, Inc.",
+    "LastSale":"8.98",
+    "MarketCap":"$299.71M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bsf"
+  },
+  {
+    "Symbol":"BBGI",
+    "Name":"Beasley Broadcast Group, Inc.",
+    "LastSale":"4.73",
+    "MarketCap":"$109.94M",
+    "IPOyear":"2000",
+    "Sector":"Consumer Services",
+    "industry":"Broadcasting",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbgi"
+  },
+  {
+    "Symbol":"BEBE",
+    "Name":"bebe stores, inc.",
+    "LastSale":"1.92",
+    "MarketCap":"$152.89M",
+    "IPOyear":"1998",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Apparel",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bebe"
+  },
+  {
+    "Symbol":"BBBY",
+    "Name":"Bed Bath & Beyond Inc.",
+    "LastSale":"69.79",
+    "MarketCap":"$11.96B",
+    "IPOyear":"1992",
+    "Sector":"Consumer Services",
+    "industry":"Home Furnishings",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbby"
+  },
+  {
+    "Symbol":"BELFA",
+    "Name":"Bel Fuse Inc.",
+    "LastSale":"19.9",
+    "MarketCap":"$235.45M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Electrical Products",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/belfa"
+  },
+  {
+    "Symbol":"BELFB",
+    "Name":"Bel Fuse Inc.",
+    "LastSale":"21.89",
+    "MarketCap":"$259M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Electrical Products",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/belfb"
+  },
+  {
+    "Symbol":"BLPH",
+    "Name":"Bellerophon Therapeutics, Inc.",
+    "LastSale":"9.39",
+    "MarketCap":"$121.18M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blph"
+  },
+  {
+    "Symbol":"BLCM",
+    "Name":"Bellicum Pharmaceuticals, Inc.",
+    "LastSale":"26.49",
+    "MarketCap":"$698.77M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blcm"
+  },
+  {
+    "Symbol":"BNCL",
+    "Name":"Beneficial Bancorp, Inc.",
+    "LastSale":"12.88",
+    "MarketCap":"$1.07B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bncl"
+  },
+  {
+    "Symbol":"BNFT",
+    "Name":"Benefitfocus, Inc.",
+    "LastSale":"38.91",
+    "MarketCap":"$1.11B",
+    "IPOyear":"2013",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bnft"
+  },
+  {
+    "Symbol":"BGMD",
+    "Name":"BG Medicine, Inc.",
+    "LastSale":"0.712",
+    "MarketCap":"$24.67M",
+    "IPOyear":"2011",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bgmd"
+  },
+  {
+    "Symbol":"BGCP",
+    "Name":"BGC Partners, Inc.",
+    "LastSale":"9.05",
+    "MarketCap":"$2.23B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bgcp"
+  },
+  {
+    "Symbol":"BGFV",
+    "Name":"Big 5 Sporting Goods Corporation",
+    "LastSale":"14.73",
+    "MarketCap":"$328.18M",
+    "IPOyear":"2002",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bgfv"
+  },
+  {
+    "Symbol":"BIND",
+    "Name":"BIND Therapeutics, Inc.",
+    "LastSale":"5.8",
+    "MarketCap":"$118.28M",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bind"
+  },
+  {
+    "Symbol":"ORPN",
+    "Name":"Bio Blast Pharma Ltd.",
+    "LastSale":"5.74",
+    "MarketCap":"$81.68M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/orpn"
+  },
+  {
+    "Symbol":"BASI",
+    "Name":"Bioanalytical Systems, Inc.",
+    "LastSale":"2.08",
+    "MarketCap":"$16.8M",
+    "IPOyear":"1997",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Commercial Physical & Biological Resarch",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/basi"
+  },
+  {
+    "Symbol":"BIOC",
+    "Name":"Biocept, Inc.",
+    "LastSale":"3.09",
+    "MarketCap":"$55.32M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bioc"
+  },
+  {
+    "Symbol":"BCRX",
+    "Name":"BioCryst Pharmaceuticals, Inc.",
+    "LastSale":"12.75",
+    "MarketCap":"$924.64M",
+    "IPOyear":"1994",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bcrx"
+  },
+  {
+    "Symbol":"BIOD",
+    "Name":"Biodel Inc.",
+    "LastSale":"1.08",
+    "MarketCap":"$67.09M",
+    "IPOyear":"2007",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/biod"
+  },
+  {
+    "Symbol":"BDSI",
+    "Name":"BioDelivery Sciences International, Inc.",
+    "LastSale":"8.25",
+    "MarketCap":"$432.32M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bdsi"
+  },
+  {
+    "Symbol":"BIIB",
+    "Name":"Biogen Inc.",
+    "LastSale":"393.54",
+    "MarketCap":"$92.57B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/biib"
+  },
+  {
+    "Symbol":"BIOL",
+    "Name":"Biolase, Inc.",
+    "LastSale":"1.62",
+    "MarketCap":"$94.21M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/biol"
+  },
+  {
+    "Symbol":"BLFS",
+    "Name":"BioLife Solutions, Inc.",
+    "LastSale":"2.17",
+    "MarketCap":"$26.38M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blfs"
+  },
+  {
+    "Symbol":"BLRX",
+    "Name":"BioLineRx Ltd.",
+    "LastSale":"1.93",
+    "MarketCap":"$75.49M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blrx"
+  },
+  {
+    "Symbol":"BMRN",
+    "Name":"BioMarin Pharmaceutical Inc.",
+    "LastSale":"123.04",
+    "MarketCap":"$19.73B",
+    "IPOyear":"1999",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bmrn"
+  },
+  {
+    "Symbol":"BVXV",
+    "Name":"BiondVax Pharmaceuticals Ltd.",
+    "LastSale":"4.9",
+    "MarketCap":"$16.01M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bvxv"
+  },
+  {
+    "Symbol":"BVXVW",
+    "Name":"BiondVax Pharmaceuticals Ltd.",
+    "LastSale":"1.2",
+    "MarketCap":"n/a",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bvxvw"
+  },
+  {
+    "Symbol":"BPTH",
+    "Name":"Bio-Path Holdings, Inc.",
+    "LastSale":"1.26",
+    "MarketCap":"$113.1M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bpth"
+  },
+  {
+    "Symbol":"BRLI",
+    "Name":"Bio-Reference Laboratories, Inc.",
+    "LastSale":"39.95",
+    "MarketCap":"$1.11B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/brli"
+  },
+  {
+    "Symbol":"BIOS",
+    "Name":"BioScrip, Inc.",
+    "LastSale":"3.59",
+    "MarketCap":"$246.45M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bios"
+  },
+  {
+    "Symbol":"BBC",
+    "Name":"BioShares Biotechnology Clinical Trials Fund",
+    "LastSale":"36.192",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbc"
+  },
+  {
+    "Symbol":"BBP",
+    "Name":"BioShares Biotechnology Products Fund",
+    "LastSale":"34.07",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbp"
+  },
+  {
+    "Symbol":"BSTC",
+    "Name":"BioSpecifics Technologies Corp",
+    "LastSale":"47.86",
+    "MarketCap":"$322.56M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bstc"
+  },
+  {
+    "Symbol":"BSPM",
+    "Name":"Biostar Pharmaceuticals, Inc.",
+    "LastSale":"1.25",
+    "MarketCap":"$19.35M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bspm"
+  },
+  {
+    "Symbol":"BOTA",
+    "Name":"Biota Pharmaceuticals, Inc.",
+    "LastSale":"2.04",
+    "MarketCap":"$71.65M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bota"
+  },
+  {
+    "Symbol":"TECH",
+    "Name":"Bio-Techne Corp",
+    "LastSale":"99.95",
+    "MarketCap":"$3.71B",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/tech"
+  },
+  {
+    "Symbol":"BEAT",
+    "Name":"BioTelemetry, Inc.",
+    "LastSale":"9.3",
+    "MarketCap":"$251.58M",
+    "IPOyear":"2008",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/beat"
+  },
+  {
+    "Symbol":"BITI",
+    "Name":"Biotie Therapies Corp.",
+    "LastSale":"20.61",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/biti"
+  },
+  {
+    "Symbol":"BDMS",
+    "Name":"Birner Dental Management Services, Inc.",
+    "LastSale":"12.5",
+    "MarketCap":"$23.25M",
+    "IPOyear":"1998",
+    "Sector":"Health Care",
+    "industry":"Medical/Nursing Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bdms"
+  },
+  {
+    "Symbol":"BJRI",
+    "Name":"BJ&#39;s Restaurants, Inc.",
+    "LastSale":"46.79",
+    "MarketCap":"$1.23B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bjri"
+  },
+  {
+    "Symbol":"BBOX",
+    "Name":"Black Box Corporation",
+    "LastSale":"21.47",
+    "MarketCap":"$329.89M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Communications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbox"
+  },
+  {
+    "Symbol":"BDE",
+    "Name":"Black Diamond, Inc.",
+    "LastSale":"9.65",
+    "MarketCap":"$315.67M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Recreational Products/Toys",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bde"
+  },
+  {
+    "Symbol":"BLKB",
+    "Name":"Blackbaud, Inc.",
+    "LastSale":"52.42",
+    "MarketCap":"$2.46B",
+    "IPOyear":"2004",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blkb"
+  },
+  {
+    "Symbol":"BBRY",
+    "Name":"BlackBerry Limited",
+    "LastSale":"9.21",
+    "MarketCap":"$4.88B",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbry"
+  },
+  {
+    "Symbol":"HAWK",
+    "Name":"Blackhawk Network Holdings, Inc.",
+    "LastSale":"37.1",
+    "MarketCap":"$2B",
+    "IPOyear":"2013",
+    "Sector":"Finance",
+    "industry":"Finance: Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/hawk"
+  },
+  {
+    "Symbol":"BKCC",
+    "Name":"BlackRock Capital Investment Corporation",
+    "LastSale":"9.63",
+    "MarketCap":"$720.09M",
+    "IPOyear":"2007",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bkcc"
+  },
+  {
+    "Symbol":"ADRA",
+    "Name":"BLDRS Asia 50 ADR Index Fund",
+    "LastSale":"30.86",
+    "MarketCap":"$27.77M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adra"
+  },
+  {
+    "Symbol":"ADRD",
+    "Name":"BLDRS Developed Markets 100 ADR Index Fund",
+    "LastSale":"24.336",
+    "MarketCap":"$55.97M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adrd"
+  },
+  {
+    "Symbol":"ADRE",
+    "Name":"BLDRS Emerging Markets 50 ADR Index Fund",
+    "LastSale":"35.7347",
+    "MarketCap":"$176.89M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adre"
+  },
+  {
+    "Symbol":"ADRU",
+    "Name":"BLDRS Europe 100 ADR Index Fund",
+    "LastSale":"23.87",
+    "MarketCap":"$17.9M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/adru"
+  },
+  {
+    "Symbol":"BLMN",
+    "Name":"Bloomin&#39; Brands, Inc.",
+    "LastSale":"22.91",
+    "MarketCap":"$2.84B",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blmn"
+  },
+  {
+    "Symbol":"BCOR",
+    "Name":"Blucora, Inc.",
+    "LastSale":"16.38",
+    "MarketCap":"$670.11M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bcor"
+  },
+  {
+    "Symbol":"BLBD",
+    "Name":"Blue Bird Corporation",
+    "LastSale":"13.08",
+    "MarketCap":"$270.66M",
+    "IPOyear":"2014",
+    "Sector":"Capital Goods",
+    "industry":"Construction/Ag Equipment/Trucks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blbd"
+  },
+  {
+    "Symbol":"BBLU",
+    "Name":"Blue Earth, Inc.",
+    "LastSale":"1.27",
+    "MarketCap":"$119.29M",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Electric Utilities: Central",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bblu"
+  },
+  {
+    "Symbol":"BHBK",
+    "Name":"Blue Hills Bancorp, Inc.",
+    "LastSale":"13.94",
+    "MarketCap":"$396.83M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bhbk"
+  },
+  {
+    "Symbol":"NILE",
+    "Name":"Blue Nile, Inc.",
+    "LastSale":"29.83",
+    "MarketCap":"$354.02M",
+    "IPOyear":"2004",
+    "Sector":"Consumer Services",
+    "industry":"Consumer Specialties",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/nile"
+  },
+  {
+    "Symbol":"BLUE",
+    "Name":"bluebird bio, Inc.",
+    "LastSale":"186.18",
+    "MarketCap":"$6.11B",
+    "IPOyear":"2013",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blue"
+  },
+  {
+    "Symbol":"BKEP",
+    "Name":"Blueknight Energy Partners L.P., L.L.C.",
+    "LastSale":"7.39",
+    "MarketCap":"$243.25M",
+    "IPOyear":"2011",
+    "Sector":"Energy",
+    "industry":"Natural Gas Distribution",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bkep"
+  },
+  {
+    "Symbol":"BKEPP",
+    "Name":"Blueknight Energy Partners L.P., L.L.C.",
+    "LastSale":"8.59",
+    "MarketCap":"$259.06M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Natural Gas Distribution",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bkepp"
+  },
+  {
+    "Symbol":"BPMC",
+    "Name":"Blueprint Medicines Corporation",
+    "LastSale":"33.16",
+    "MarketCap":"$856.59M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bpmc"
+  },
+  {
+    "Symbol":"BNCN",
+    "Name":"BNC Bancorp",
+    "LastSale":"18.9",
+    "MarketCap":"$615.77M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bncn"
+  },
+  {
+    "Symbol":"BOBE",
+    "Name":"Bob Evans Farms, Inc.",
+    "LastSale":"46.1",
+    "MarketCap":"$1.09B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bobe"
+  },
+  {
+    "Symbol":"BOFI",
+    "Name":"BofI Holding, Inc.",
+    "LastSale":"99.83",
+    "MarketCap":"$1.53B",
+    "IPOyear":"2005",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bofi"
+  },
+  {
+    "Symbol":"WIFI",
+    "Name":"Boingo Wireless, Inc.",
+    "LastSale":"9.035",
+    "MarketCap":"$330.91M",
+    "IPOyear":"2011",
+    "Sector":"Consumer Services",
+    "industry":"Telecommunications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/wifi"
+  },
+  {
+    "Symbol":"BOJA",
+    "Name":"Bojangles&#39;, Inc.",
+    "LastSale":"25.84",
+    "MarketCap":"$927.76M",
+    "IPOyear":"2015",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/boja"
+  },
+  {
+    "Symbol":"BOKF",
+    "Name":"BOK Financial Corporation",
+    "LastSale":"68.77",
+    "MarketCap":"$4.74B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bokf"
+  },
+  {
+    "Symbol":"BONA",
+    "Name":"Bona Film Group Limited",
+    "LastSale":"12.86",
+    "MarketCap":"$787.46M",
+    "IPOyear":"2010",
+    "Sector":"Consumer Services",
+    "industry":"Movies/Entertainment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bona"
+  },
+  {
+    "Symbol":"BNSO",
+    "Name":"Bonso Electronics International, Inc.",
+    "LastSale":"1.32",
+    "MarketCap":"$6.93M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bnso"
+  },
+  {
+    "Symbol":"BAMM",
+    "Name":"Books-A-Million, Inc.",
+    "LastSale":"2.82",
+    "MarketCap":"$43.55M",
+    "IPOyear":"1992",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bamm"
+  },
+  {
+    "Symbol":"BPFH",
+    "Name":"Boston Private Financial Holdings, Inc.",
+    "LastSale":"13.23",
+    "MarketCap":"$1.1B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bpfh"
+  },
+  {
+    "Symbol":"BPFHP",
+    "Name":"Boston Private Financial Holdings, Inc.",
+    "LastSale":"25.4",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bpfhp"
+  },
+  {
+    "Symbol":"BPFHW",
+    "Name":"Boston Private Financial Holdings, Inc.",
+    "LastSale":"6",
+    "MarketCap":"n/a",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bpfhw"
+  },
+  {
+    "Symbol":"EPAY",
+    "Name":"Bottomline Technologies, Inc.",
+    "LastSale":"27.68",
+    "MarketCap":"$1.13B",
+    "IPOyear":"1999",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/epay"
+  },
+  {
+    "Symbol":"BDBD",
+    "Name":"Boulder Brands, Inc.",
+    "LastSale":"6.83",
+    "MarketCap":"$418.54M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Packaged Foods",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bdbd"
+  },
+  {
+    "Symbol":"BLVD",
+    "Name":"Boulevard Acquisition Corp.",
+    "LastSale":"11.21",
+    "MarketCap":"$308.98M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blvd"
+  },
+  {
+    "Symbol":"BLVDU",
+    "Name":"Boulevard Acquisition Corp.",
+    "LastSale":"12.7",
+    "MarketCap":"$350.04M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blvdu"
+  },
+  {
+    "Symbol":"BLVDW",
+    "Name":"Boulevard Acquisition Corp.",
+    "LastSale":"3.3",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blvdw"
+  },
+  {
+    "Symbol":"BCLI",
+    "Name":"Brainstorm Cell Therapeutics Inc.",
+    "LastSale":"3.77",
+    "MarketCap":"$69.67M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Biological Products (No Diagnostic Substances)",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bcli"
+  },
+  {
+    "Symbol":"BBRG",
+    "Name":"Bravo Brio Restaurant Group, Inc.",
+    "LastSale":"13.57",
+    "MarketCap":"$206.24M",
+    "IPOyear":"2010",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbrg"
+  },
+  {
+    "Symbol":"BBEP",
+    "Name":"BreitBurn Energy Partners, L.P.",
+    "LastSale":"5.43",
+    "MarketCap":"$1.15B",
+    "IPOyear":"2006",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbep"
+  },
+  {
+    "Symbol":"BBEPP",
+    "Name":"BreitBurn Energy Partners, L.P.",
+    "LastSale":"22.28",
+    "MarketCap":"$178.24M",
+    "IPOyear":"n/a",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbepp"
+  },
+  {
+    "Symbol":"BDGE",
+    "Name":"Bridge Bancorp, Inc.",
+    "LastSale":"25.21",
+    "MarketCap":"$295.21M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bdge"
+  },
+  {
+    "Symbol":"BBNK",
+    "Name":"Bridge Capital Holdings",
+    "LastSale":"30.34",
+    "MarketCap":"$483.84M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bbnk"
+  },
+  {
+    "Symbol":"BLIN          ",
+    "Name":"Bridgeline Digital, Inc.",
+    "LastSale":"1.68",
+    "MarketCap":"$7.46M",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blin          "
+  },
+  {
+    "Symbol":"BRID",
+    "Name":"Bridgford Foods Corporation",
+    "LastSale":"10.08",
+    "MarketCap":"$91.71M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Specialty Foods",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/brid"
+  },
+  {
+    "Symbol":"BCOV",
+    "Name":"Brightcove Inc.",
+    "LastSale":"6.97",
+    "MarketCap":"$226.72M",
+    "IPOyear":"2012",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bcov"
+  },
+  {
+    "Symbol":"BRCM",
+    "Name":"Broadcom Corporation",
+    "LastSale":"54.07",
+    "MarketCap":"$32.33B",
+    "IPOyear":"1998",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/brcm"
+  },
+  {
+    "Symbol":"BSFT",
+    "Name":"BroadSoft, Inc.",
+    "LastSale":"37.07",
+    "MarketCap":"$1.08B",
+    "IPOyear":"2010",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bsft"
+  },
+  {
+    "Symbol":"BVSN",
+    "Name":"BroadVision, Inc.",
+    "LastSale":"5.98",
+    "MarketCap":"$28.99M",
+    "IPOyear":"1996",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bvsn"
+  },
+  {
+    "Symbol":"BYFC",
+    "Name":"Broadway Financial Corporation",
+    "LastSale":"1.32",
+    "MarketCap":"$38.38M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/byfc"
+  },
+  {
+    "Symbol":"BWEN",
+    "Name":"Broadwind Energy, Inc.",
+    "LastSale":"3.96",
+    "MarketCap":"$59.11M",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Metal Fabrications",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bwen"
+  },
+  {
+    "Symbol":"BRCD",
+    "Name":"Brocade Communications Systems, Inc.",
+    "LastSale":"12.345",
+    "MarketCap":"$5.13B",
+    "IPOyear":"1999",
+    "Sector":"Technology",
+    "industry":"Computer Communications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/brcd"
+  },
+  {
+    "Symbol":"BRKL",
+    "Name":"Brookline Bancorp, Inc.",
+    "LastSale":"11.33",
+    "MarketCap":"$793.66M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/brkl"
+  },
+  {
+    "Symbol":"BRKS",
+    "Name":"Brooks Automation, Inc.",
+    "LastSale":"11.75",
+    "MarketCap":"$792.91M",
+    "IPOyear":"1995",
+    "Sector":"Technology",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/brks"
+  },
+  {
+    "Symbol":"BRKR",
+    "Name":"Bruker Corporation",
+    "LastSale":"21",
+    "MarketCap":"$3.55B",
+    "IPOyear":"n/a",
+    "Sector":"Capital Goods",
+    "industry":"Biotechnology: Laboratory Analytical Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/brkr"
+  },
+  {
+    "Symbol":"BMTC",
+    "Name":"Bryn Mawr Bank Corporation",
+    "LastSale":"30.46",
+    "MarketCap":"$542.19M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bmtc"
+  },
+  {
+    "Symbol":"BLMT",
+    "Name":"BSB Bancorp, Inc.",
+    "LastSale":"23.43",
+    "MarketCap":"$212.52M",
+    "IPOyear":"2011",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/blmt"
+  },
+  {
+    "Symbol":"BSQR",
+    "Name":"BSQUARE Corporation",
+    "LastSale":"7.96",
+    "MarketCap":"$94.07M",
+    "IPOyear":"1999",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bsqr"
+  },
+  {
+    "Symbol":"BWLD",
+    "Name":"Buffalo Wild Wings, Inc.",
+    "LastSale":"155.955",
+    "MarketCap":"$2.96B",
+    "IPOyear":"2003",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bwld"
+  },
+  {
+    "Symbol":"BLDR",
+    "Name":"Builders FirstSource, Inc.",
+    "LastSale":"12.54",
+    "MarketCap":"$1.24B",
+    "IPOyear":"2005",
+    "Sector":"Consumer Services",
+    "industry":"RETAIL: Building Materials",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bldr"
+  },
+  {
+    "Symbol":"BUR",
+    "Name":"Burcon Nutrascience Corp",
+    "LastSale":"2.43",
+    "MarketCap":"$86.74M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Packaged Foods",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/bur"
+  },
+  {
+    "Symbol":"CFFI",
+    "Name":"C&F Financial Corporation",
+    "LastSale":"36.22",
+    "MarketCap":"$122.94M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cffi"
+  },
+  {
+    "Symbol":"CHRW",
+    "Name":"C.H. Robinson Worldwide, Inc.",
+    "LastSale":"64.32",
+    "MarketCap":"$9.38B",
+    "IPOyear":"1997",
+    "Sector":"Transportation",
+    "industry":"Oil Refining/Marketing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/chrw"
+  },
+  {
+    "Symbol":"CA",
+    "Name":"CA Inc.",
+    "LastSale":"30.265",
+    "MarketCap":"$13.31B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ca"
+  },
+  {
+    "Symbol":"CCMP",
+    "Name":"Cabot Microelectronics Corporation",
+    "LastSale":"47.34",
+    "MarketCap":"$1.17B",
+    "IPOyear":"2000",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ccmp"
+  },
+  {
+    "Symbol":"CDNS",
+    "Name":"Cadence Design Systems, Inc.",
+    "LastSale":"19.75",
+    "MarketCap":"$5.78B",
+    "IPOyear":"n/a",
+    "Sector":"Technology",
+    "industry":"Computer Software: Prepackaged Software",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cdns"
+  },
+  {
+    "Symbol":"CDZI",
+    "Name":"Cadiz, Inc.",
+    "LastSale":"7.69",
+    "MarketCap":"$136.3M",
+    "IPOyear":"n/a",
+    "Sector":"Public Utilities",
+    "industry":"Water Supply",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cdzi"
+  },
+  {
+    "Symbol":"CACQ",
+    "Name":"Caesars Acquisition Company",
+    "LastSale":"8.23",
+    "MarketCap":"$1.12B",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Hotels/Resorts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cacq"
+  },
+  {
+    "Symbol":"CZR",
+    "Name":"Caesars Entertainment Corporation",
+    "LastSale":"6.91",
+    "MarketCap":"$999.85M",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Hotels/Resorts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/czr"
+  },
+  {
+    "Symbol":"CSTE",
+    "Name":"CaesarStone Sdot-Yam Ltd.",
+    "LastSale":"64.76",
+    "MarketCap":"$2.28B",
+    "IPOyear":"2012",
+    "Sector":"Capital Goods",
+    "industry":"Building Materials",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cste"
+  },
+  {
+    "Symbol":"PRSS",
+    "Name":"CafePress Inc.",
+    "LastSale":"5.16",
+    "MarketCap":"$90.73M",
+    "IPOyear":"2012",
+    "Sector":"Consumer Services",
+    "industry":"Other Specialty Stores",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/prss"
+  },
+  {
+    "Symbol":"CLBS",
+    "Name":"Caladrius Biosciences, Inc.",
+    "LastSale":"2.08",
+    "MarketCap":"$114.99M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Hospital/Nursing Management",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/clbs"
+  },
+  {
+    "Symbol":"CLMS",
+    "Name":"Calamos Asset Management, Inc.",
+    "LastSale":"11.94",
+    "MarketCap":"$245.14M",
+    "IPOyear":"2004",
+    "Sector":"Finance",
+    "industry":"Investment Bankers/Brokers/Service",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/clms"
+  },
+  {
+    "Symbol":"CHY",
+    "Name":"Calamos Convertible and High Income Fund",
+    "LastSale":"14.08",
+    "MarketCap":"$1.02B",
+    "IPOyear":"2003",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/chy"
+  },
+  {
+    "Symbol":"CHI",
+    "Name":"Calamos Convertible Opportunities and Income Fund",
+    "LastSale":"12.6",
+    "MarketCap":"$862.55M",
+    "IPOyear":"2002",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/chi"
+  },
+  {
+    "Symbol":"CCD",
+    "Name":"Calamos Dynamic Convertible & Income Fund",
+    "LastSale":"22.8672",
+    "MarketCap":"$557.61M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ccd"
+  },
+  {
+    "Symbol":"CFGE",
+    "Name":"Calamos Focus Growth ETF",
+    "LastSale":"11.106",
+    "MarketCap":"$28.88M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cfge"
+  },
+  {
+    "Symbol":"CHW",
+    "Name":"Calamos Global Dynamic Income Fund",
+    "LastSale":"8.79",
+    "MarketCap":"$518.67M",
+    "IPOyear":"2007",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/chw"
+  },
+  {
+    "Symbol":"CGO",
+    "Name":"Calamos Global Total Return Fund",
+    "LastSale":"13.65",
+    "MarketCap":"$115.55M",
+    "IPOyear":"2005",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cgo"
+  },
+  {
+    "Symbol":"CSQ",
+    "Name":"Calamos Strategic Total Return Fund",
+    "LastSale":"11.34",
+    "MarketCap":"$1.75B",
+    "IPOyear":"2004",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/csq"
+  },
+  {
+    "Symbol":"CAMP",
+    "Name":"CalAmp Corp.",
+    "LastSale":"19.26",
+    "MarketCap":"$697.7M",
+    "IPOyear":"1983",
+    "Sector":"Technology",
+    "industry":"Radio And Television Broadcasting And Communications Equipment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/camp"
+  },
+  {
+    "Symbol":"CVGW",
+    "Name":"Calavo Growers, Inc.",
+    "LastSale":"54.92",
+    "MarketCap":"$951.02M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Farming/Seeds/Milling",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cvgw"
+  },
+  {
+    "Symbol":"CFNB",
+    "Name":"California First National Bancorp",
+    "LastSale":"13.4",
+    "MarketCap":"$140.16M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cfnb"
+  },
+  {
+    "Symbol":"CALA",
+    "Name":"Calithera Biosciences, Inc.",
+    "LastSale":"7.92",
+    "MarketCap":"$142.14M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cala"
+  },
+  {
+    "Symbol":"CALD",
+    "Name":"Callidus Software, Inc.",
+    "LastSale":"15.09",
+    "MarketCap":"$834.09M",
+    "IPOyear":"2003",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cald"
+  },
+  {
+    "Symbol":"CALM",
+    "Name":"Cal-Maine Foods, Inc.",
+    "LastSale":"54.5",
+    "MarketCap":"$2.64B",
+    "IPOyear":"1996",
+    "Sector":"Consumer Non-Durables",
+    "industry":"Farming/Seeds/Milling",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/calm"
+  },
+  {
+    "Symbol":"CLMT",
+    "Name":"Calumet Specialty Products Partners, L.P.",
+    "LastSale":"24.93",
+    "MarketCap":"$1.89B",
+    "IPOyear":"2006",
+    "Sector":"Energy",
+    "industry":"Integrated oil Companies",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/clmt"
+  },
+  {
+    "Symbol":"ABCD",
+    "Name":"Cambium Learning Group, Inc.",
+    "LastSale":"4.25",
+    "MarketCap":"$193.32M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Publishing",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/abcd"
+  },
+  {
+    "Symbol":"CAMB",
+    "Name":"CAMBRIDGE CAPITAL ACQUISITION CORPORATION",
+    "LastSale":"9.9",
+    "MarketCap":"$104.29M",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/camb"
+  },
+  {
+    "Symbol":"CAMBU",
+    "Name":"CAMBRIDGE CAPITAL ACQUISITION CORPORATION",
+    "LastSale":"10.2",
+    "MarketCap":"n/a",
+    "IPOyear":"2013",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cambu"
+  },
+  {
+    "Symbol":"CAMBW",
+    "Name":"CAMBRIDGE CAPITAL ACQUISITION CORPORATION",
+    "LastSale":"0.13",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Finance",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cambw"
+  },
+  {
+    "Symbol":"CAC",
+    "Name":"Camden National Corporation",
+    "LastSale":"39",
+    "MarketCap":"$290.26M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cac"
+  },
+  {
+    "Symbol":"CAMT",
+    "Name":"Camtek Ltd.",
+    "LastSale":"2.9",
+    "MarketCap":"$100.9M",
+    "IPOyear":"2000",
+    "Sector":"Capital Goods",
+    "industry":"Electronic Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/camt"
+  },
+  {
+    "Symbol":"CSIQ",
+    "Name":"Canadian Solar Inc.",
+    "LastSale":"33.41",
+    "MarketCap":"$1.84B",
+    "IPOyear":"2006",
+    "Sector":"Technology",
+    "industry":"Semiconductors",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/csiq"
+  },
+  {
+    "Symbol":"CGIX",
+    "Name":"Cancer Genetics, Inc.",
+    "LastSale":"12.06",
+    "MarketCap":"$118.52M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cgix"
+  },
+  {
+    "Symbol":"CPHC",
+    "Name":"Canterbury Park Holding Corporation",
+    "LastSale":"10.81",
+    "MarketCap":"$45.41M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Services-Misc. Amusement & Recreation",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cphc"
+  },
+  {
+    "Symbol":"CBNJ",
+    "Name":"Cape Bancorp, Inc.",
+    "LastSale":"9.61",
+    "MarketCap":"$135.51M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cbnj"
+  },
+  {
+    "Symbol":"CPLA",
+    "Name":"Capella Education Company",
+    "LastSale":"57.03",
+    "MarketCap":"$696.47M",
+    "IPOyear":"2006",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cpla"
+  },
+  {
+    "Symbol":"CBF",
+    "Name":"Capital Bank Financial Corp.",
+    "LastSale":"29.7",
+    "MarketCap":"$1.38B",
+    "IPOyear":"2012",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cbf"
+  },
+  {
+    "Symbol":"CCBG",
+    "Name":"Capital City Bank Group",
+    "LastSale":"14.5",
+    "MarketCap":"$254.22M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ccbg"
+  },
+  {
+    "Symbol":"CPLP",
+    "Name":"Capital Product Partners L.P.",
+    "LastSale":"8.36",
+    "MarketCap":"$1B",
+    "IPOyear":"2007",
+    "Sector":"Transportation",
+    "industry":"Marine Transportation",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cplp"
+  },
+  {
+    "Symbol":"CSWC",
+    "Name":"Capital Southwest Corporation",
+    "LastSale":"49.875",
+    "MarketCap":"$777.22M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cswc"
+  },
+  {
+    "Symbol":"CPTA",
+    "Name":"Capitala Finance Corp.",
+    "LastSale":"16.73",
+    "MarketCap":"$275.66M",
+    "IPOyear":"2013",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cpta"
+  },
+  {
+    "Symbol":"CLAC",
+    "Name":"Capitol Acquisition Corp. II",
+    "LastSale":"10.7",
+    "MarketCap":"$267.5M",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Transportation Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/clac"
+  },
+  {
+    "Symbol":"CLACU",
+    "Name":"Capitol Acquisition Corp. II",
+    "LastSale":"12.52",
+    "MarketCap":"$313M",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Transportation Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/clacu"
+  },
+  {
+    "Symbol":"CLACW",
+    "Name":"Capitol Acquisition Corp. II",
+    "LastSale":"2.6",
+    "MarketCap":"n/a",
+    "IPOyear":"2013",
+    "Sector":"Consumer Services",
+    "industry":"Transportation Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/clacw"
+  },
+  {
+    "Symbol":"CFFN",
+    "Name":"Capitol Federal Financial, Inc.",
+    "LastSale":"11.93",
+    "MarketCap":"$1.68B",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cffn"
+  },
+  {
+    "Symbol":"CAPN",
+    "Name":"Capnia, Inc.",
+    "LastSale":"3.96",
+    "MarketCap":"$29.75M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/capn"
+  },
+  {
+    "Symbol":"CAPNW",
+    "Name":"Capnia, Inc.",
+    "LastSale":"1.0399",
+    "MarketCap":"n/a",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/capnw"
+  },
+  {
+    "Symbol":"CAPR",
+    "Name":"Capricor Therapeutics, Inc.",
+    "LastSale":"5.4",
+    "MarketCap":"$87.61M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/capr"
+  },
+  {
+    "Symbol":"CPST",
+    "Name":"Capstone Turbine Corporation",
+    "LastSale":"0.5874",
+    "MarketCap":"$194.07M",
+    "IPOyear":"2000",
+    "Sector":"Energy",
+    "industry":"Industrial Machinery/Components",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cpst"
+  },
+  {
+    "Symbol":"CARA",
+    "Name":"Cara Therapeutics, Inc.",
+    "LastSale":"10.01",
+    "MarketCap":"$228.48M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cara"
+  },
+  {
+    "Symbol":"CARB",
+    "Name":"Carbonite, Inc.",
+    "LastSale":"11.28",
+    "MarketCap":"$308.31M",
+    "IPOyear":"2011",
+    "Sector":"Technology",
+    "industry":"EDP Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/carb"
+  },
+  {
+    "Symbol":"CBYL",
+    "Name":"Carbylan Therapeutics, Inc.",
+    "LastSale":"8.8",
+    "MarketCap":"$230.68M",
+    "IPOyear":"2015",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cbyl"
+  },
+  {
+    "Symbol":"CRDC",
+    "Name":"Cardica, Inc.",
+    "LastSale":"0.41",
+    "MarketCap":"$36.47M",
+    "IPOyear":"2006",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/crdc"
+  },
+  {
+    "Symbol":"CFNL",
+    "Name":"Cardinal Financial Corporation",
+    "LastSale":"21.45",
+    "MarketCap":"$689.86M",
+    "IPOyear":"1998",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cfnl"
+  },
+  {
+    "Symbol":"CRME",
+    "Name":"Cardiome Pharma Corporation",
+    "LastSale":"9.175",
+    "MarketCap":"$153.89M",
+    "IPOyear":"n/a",
+    "Sector":"Health Care",
+    "industry":"Major Pharmaceuticals",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/crme"
+  },
+  {
+    "Symbol":"CSII",
+    "Name":"Cardiovascular Systems, Inc.",
+    "LastSale":"29.71",
+    "MarketCap":"$942.07M",
+    "IPOyear":"1981",
+    "Sector":"Health Care",
+    "industry":"Medical/Dental Instruments",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/csii"
+  },
+  {
+    "Symbol":"CATM",
+    "Name":"Cardtronics, Inc.",
+    "LastSale":"37.44",
+    "MarketCap":"$1.68B",
+    "IPOyear":"2007",
+    "Sector":"Miscellaneous",
+    "industry":"Business Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/catm"
+  },
+  {
+    "Symbol":"CDNA",
+    "Name":"CareDx, Inc.",
+    "LastSale":"6.04",
+    "MarketCap":"$71.5M",
+    "IPOyear":"2014",
+    "Sector":"Health Care",
+    "industry":"Medical Specialities",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cdna"
+  },
+  {
+    "Symbol":"CECO",
+    "Name":"Career Education Corporation",
+    "LastSale":"4.04",
+    "MarketCap":"$274.25M",
+    "IPOyear":"1998",
+    "Sector":"Consumer Services",
+    "industry":"Other Consumer Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ceco"
+  },
+  {
+    "Symbol":"CTRE",
+    "Name":"CareTrust REIT, Inc.",
+    "LastSale":"12.26",
+    "MarketCap":"$386.84M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Real Estate Investment Trusts",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ctre"
+  },
+  {
+    "Symbol":"CKEC",
+    "Name":"Carmike Cinemas, Inc.",
+    "LastSale":"28.5",
+    "MarketCap":"$697.85M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Movies/Entertainment",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/ckec"
+  },
+  {
+    "Symbol":"CLBH",
+    "Name":"Carolina Bank Holdings Inc.",
+    "LastSale":"11.52",
+    "MarketCap":"$57.42M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/clbh"
+  },
+  {
+    "Symbol":"CARO",
+    "Name":"Carolina Financial Corporation",
+    "LastSale":"15",
+    "MarketCap":"$122M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Major Banks",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/caro"
+  },
+  {
+    "Symbol":"CART",
+    "Name":"Carolina Trust Bank",
+    "LastSale":"5.46",
+    "MarketCap":"$25.37M",
+    "IPOyear":"n/a",
+    "Sector":"n/a",
+    "industry":"n/a",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/cart"
+  },
+  {
+    "Symbol":"CRZO",
+    "Name":"Carrizo Oil & Gas, Inc.",
+    "LastSale":"52.45",
+    "MarketCap":"$2.7B",
+    "IPOyear":"1997",
+    "Sector":"Energy",
+    "industry":"Oil & Gas Production",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/crzo"
+  },
+  {
+    "Symbol":"TAST",
+    "Name":"Carrols Restaurant Group, Inc.",
+    "LastSale":"10.38",
+    "MarketCap":"$368.48M",
+    "IPOyear":"2006",
+    "Sector":"Consumer Services",
+    "industry":"Restaurants",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/tast"
+  },
+  {
+    "Symbol":"CRTN",
+    "Name":"Cartesian, Inc.",
+    "LastSale":"3.48",
+    "MarketCap":"$30.38M",
+    "IPOyear":"n/a",
+    "Sector":"Consumer Services",
+    "industry":"Professional Services",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/crtn"
+  },
+  {
+    "Symbol":"CARV",
+    "Name":"Carver Bancorp, Inc.",
+    "LastSale":"4.45",
+    "MarketCap":"$16.45M",
+    "IPOyear":"n/a",
+    "Sector":"Finance",
+    "industry":"Savings Institutions",
+    "SummaryQuote":"http://www.nasdaq.com/symbol/carv"
+  }
+]
