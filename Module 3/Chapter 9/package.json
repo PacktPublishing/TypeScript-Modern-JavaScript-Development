@@ -1,0 +1,15 @@
+{
+  "name": "chapter-7",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "gulp && ava dist/test"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^4.0.22-alpha",
+    "ava": "^0.13.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.12.1",
+    "typescript": "^2.0.0"
+  }
+}

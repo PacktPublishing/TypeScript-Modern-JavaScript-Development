@@ -1,0 +1,39 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: 100;
+}
+h1, h2, h3 {
+	margin: 0 0;
+	padding: 0 0;
+	color: #C93524;
+}
+h2 {
+	margin: 0 0;
+	padding: 0 0;
+	color: #1C5C91;
+}
+#wrapper {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	width: 450px;
+	margin: 10% auto;
+}
+a:link, a:visited {
+	color: #1C5C91;
+	text-decoration: underline;
+}
+a:hover, a:active {
+	color: #3B6282;
+}
+li > a:link, li > a:visited {
+	color: #C93524;
+	text-decoration: underline;
+}
+li > a:hover, li > a:active {
+	color: #AD4236;
+}
+label {
+	display: block;
+}

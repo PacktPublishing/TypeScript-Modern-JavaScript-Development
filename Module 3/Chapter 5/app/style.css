@@ -1,0 +1,13 @@
+ActionBar {
+	background-color: #237691;
+	color: #fefefe;
+}
+
+Label {
+	margin: 10px;
+}
+.details-content {
+	font-size: 28pt;
+	text-align: center;
+	margin: 10px;
+}

@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"module": "commonjs",
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"lib": ["es2015", "dom"],
+		"types": ["node"]
+	}
+}

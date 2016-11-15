@@ -1,0 +1,29 @@
+{
+  "name": "chapter-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.13.4",
+    "gulp-uglify": "^1.5.3",
+    "small": "^0.2.6",
+    "typescript": "^2.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^4.0.30",
+    "@types/react": "^0.14.27",
+    "@types/react-dom": "^0.14.13",
+    "@types/ws": "0.0.27",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "ws": "^1.1.0"
+  }
+}

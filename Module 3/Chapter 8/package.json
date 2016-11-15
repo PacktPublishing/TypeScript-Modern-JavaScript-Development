@@ -1,0 +1,12 @@
+{
+  "name": "chapter-6",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6",
+    "small": "^0.2.3",
+    "typescript": "^2.0.0"
+  }
+}

@@ -1,0 +1,74 @@
+body {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a:link, a:visited {
+	color: #5a8bb8;
+	text-decoration: none;
+}
+a:hover, a:active {
+	color: #406486;
+}
+
+.sheet-title {
+	font-size: 24pt;
+	margin: 0 0 10px;
+	border: 1px solid #ccc;
+	width: 200px;
+}
+
+.sheet > table, .sheet tr, .sheet th, .sheet td {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+.sheet-add-column > a {
+	width: 70px;
+	display: block;
+}
+.field {
+	position: relative;
+}
+.field > span {
+	display: block;
+	min-width: 42px;
+	font-size: 10pt;
+	height: 18px;
+	padding: 3px;
+}
+.field-value > span {
+	font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+	text-align: right;
+}
+.field-error > span {
+	color: #aa2222;
+}
+.field-open {
+	background-color: #eee;
+}
+.field-popup {
+	position: absolute;
+	left: 0px;
+	top: 20px;
+	z-index: 10;
+	background-color: #eee;
+	border-bottom: 4px solid #5a8bb8;
+	border-right: 1px solid #ddd;
+	padding: 8px;
+	width: 300px;
+}
+.field-popup > input {
+	margin-right: 10px;
+}
+.field-popup > a {
+	margin-left: 10px;
+}
+
+.failure-text {
+	font-style: italic;
+	
+}
+.failure-source {
+	margin-left: 10px;
+	color: #555;
+	font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
